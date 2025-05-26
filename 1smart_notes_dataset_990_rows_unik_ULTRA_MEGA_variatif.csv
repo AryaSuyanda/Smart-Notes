@@ -1,0 +1,991 @@
+id,note_content,label
+1,"Konsep untuk proyek penelitian independen jangka panjang tentang topik 'niche' yang sangat diminati secara pribadi, dengan tujuan untuk menjadi ahli terkemuka di bidang tersebut dan mempublikasikan temuan secara luas (misal: sejarah kriptografi kuno, etnomusikologi suku pedalaman, filsafat kesadaran pada hewan) #af903920-98cd-4632-b1cc-f39319c7a817",ide
+2,"Program sertifikasi profesional internasional 'Chartered Financial Analyst (CFA)', 'Certified Information Systems Auditor (CISA)', atau 'Six Sigma Master Black Belt' #18dbf3f2-6376-435b-a9c2-4961f3f91002",acara
+3,Pemikiran untuk mengembangkan board game strategi bertema kerajaan nusantara. #dfc91bcb-da23-4f64-af7d-50c21cd0aafa,ide
+4,"Nomor keanggotaan perpustakaan digital global (misal: 'Scribd', 'Perlego'): USERPREMIUM001, langganan tahunan #e23544b8-f312-442b-868d-d2e184f798a2",lainnya
+5,"Menyusun daftar bacaan buku (reading list) yang ambisius untuk pengembangan diri, pengetahuan umum, dan hiburan tahun ini, minimal 50 buku #8c70c394-2256-4402-a0ca-6b8cc9236fa4",tugas
+6,Menghadiri pameran seni kontemporer di galeri lokal. #d07c9f74-c90e-4617-9ddc-47fa189822ab,acara
+7,Menghadiri pameran mobil klasik dan modifikasi. #fe8ada93-13ac-4fcd-88d7-b5dcf94ad804,acara
+8,Pesan layanan streaming film dan serial TV. #71f7da59-5e59-4b6e-96b9-58127e9d818d,belanja
+9,Mengupdate website perusahaan dengan informasi terbaru. #0cce2a46-c6d2-4df4-b89b-81bb1ab45676,tugas
+10,"Gagasan untuk menciptakan material bangunan 'bio-inspired' atau 'living materials' yang dapat beradaptasi dengan lingkungan, memperbaiki diri sendiri (self-healing), atau bahkan menghasilkan energi (misal: panel surya biologis dari alga) #75acc491-34a0-4bfa-be71-0ae28a482d64",ide
+11,Cari bibit sayuran organik untuk ditanam di kebun belakang. #64e3f941-a70e-4c04-a2bd-22aba040448f,belanja
+12,"Ide untuk membangun 'intergenerational learning center' yang mempertemukan lansia dan anak-uda untuk saling berbagi pengetahuan, keterampilan, dan pengalaman hidup, serta memerangi kesepian dan ageism #99e097a7-0e89-45e3-b474-2f67c6b21808",ide
+13,Mengikuti pertemuan alumni universitas angkatan [Tahun]. #bb86d4c2-9675-47cf-8499-ff0b207f5ddc,acara
+14,Beli voucher game online untuk anak. #1b8b3377-785b-494a-a88c-64bfe34dfc15,belanja
+15,"Pengingat untuk menjadwalkan 'catch-up call' atau pertemuan informal (makan siang/kopi) dengan mentor, mentee, atau kolega lama untuk menjaga jejaring profesional dan bertukar insight #d7acf7d0-1697-43d9-89d3-e269067ea7ec",pengingat
+16,"Set reminder untuk mengambil pakaian (jas, kebaya, gaun pesta) yang sudah selesai di-laundry atau dry cleaning premium di [Nama Laundry Terpercaya] sebelum mereka tutup sore ini atau besok #bd0270c1-660f-4d90-94e9-9cc9890802e8",pengingat
+17,"Ide untuk program 'coding bootcamp' gratis dan intensif bagi perempuan dari keluarga kurang mampu atau penyintas kekerasan, dengan jaminan penempatan kerja di perusahaan teknologi mitra setelah lulus #4871e094-e321-477f-870f-b2c42d9858dc",ide
+18,"Memesan dan mengelola tiket pesawat, akomodasi hotel, transportasi lokal, dan visa untuk perjalanan dinas pimpinan dan karyawan #485edee6-82b4-43eb-b197-c05cbcaa7101",tugas
+19,Pesan tiket pesawat dan hotel untuk liburan mendatang. #79158584-dc01-4f25-932d-9c7240d026e6,belanja
+20,"Nomor telepon darurat penting: Polisi (110), Ambulans (118/119), Pemadam Kebakaran (113). #7f1e0a46-4d72-4a1b-994e-1fe3122803ca",lainnya
+21,"Beli setelan piyama sutra mulberry asli atau lounge wear kasmir berkualitas tinggi untuk tidur lebih nyaman, mewah, dan meningkatkan kualitas istirahat di rumah #1275446b-2cb9-4938-b1ed-a7af2dd78434",belanja
+22,"Nomor polis asuransi kesehatan utama dan asuransi tambahan (rider), serta nomor kontak darurat penyedia asuransi #8be84e31-3c77-4fc1-92ee-b4dcedb4a669",lainnya
+23,Pesan biji kopi arabika single origin dari berbagai daerah. #b185a0c1-ec28-49f8-a292-8e9858c338dc,belanja
+24,Daftar kontak darurat keluarga yang disimpan di dompet. #6d3e735e-ffeb-483d-8ec3-87ec57826379,lainnya
+25,"Ide untuk melakukan perjalanan 'solo unsupported expedition' melintasi Gurun Gobi atau Kutub Utara/Selatan, mendokumentasikan tantangan fisik, mental, dan keindahan alam ekstrem melalui blog, vlog, dan buku #f2df5eb7-0794-4eb9-b277-a1e425b11057",ide
+26,Gagasan untuk aplikasi interaktif yang mengajarkan anak-anak tentang pengelolaan sampah. #5bb7556c-9f48-4492-8c3f-28fef93d469e,ide
+27,"Melakukan riset mendalam dan eksplorasi tentang teknologi emergent (AI, Generative AI, Blockchain, Quantum Computing, IoT, Metaverse) dan potensi aplikasinya dalam bisnis #29b9e109-2ae9-4384-a9a3-7f8a4d91fcab",tugas
+28,Ide untuk layanan simulasi renovasi rumah menggunakan VR. #6c47d7f2-1d2a-4e67-bcc9-3136852a18fd,ide
+29,"Memproses dan memverifikasi klaim reimbursement biaya perjalanan dinas, biaya kesehatan, dan biaya operasional lainnya sesuai kebijakan perusahaan #9f254e61-5e5e-4771-825d-cd5a600037de",tugas
+30,Menghadiri rapat umum tahunan pemegang saham perusahaan. #f6784f36-9613-41bd-b8c5-b1be0aa8efce,acara
+31,Cari gaun pesta untuk acara formal perusahaan. #7d90d6dd-1b24-494f-b130-ce8be56598c6,belanja
+32,"Menghadiri resepsi pernikahan teman kuliah, kolega kerja, atau sahabat pena di gedung pertemuan mewah, hotel berbintang, atau venue outdoor yang indah dengan dress code formal #b28d9a3b-c17f-4b98-a51e-d38940243e82",acara
+33,Menonton pertunjukan wayang golek semalam suntuk. #63e2d005-3e0f-46ba-a1b8-0124ee4e9692,acara
+34,"Mengarsipkan dan mendigitalkan foto-foto lama dari album fisik, klise negatif, dan slide proyektor, kemudian mengorganisirnya di cloud storage dengan metadata yang lengkap #da89a026-32c6-4a02-a397-8d0e7b583474",tugas
+35,"Ingatkan untuk mengonsumsi minimal 5 porsi buah dan sayuran beraneka warna setiap hari sebagai sumber vitamin, mineral, antioksidan, dan serat penting untuk kesehatan optimal #2d1f98ab-3fe7-4645-bc3f-391dedd1fa20",pengingat
+36,Ide untuk membuat film pendek dokumenter eksperimental yang menggabungkan rekaman arsip sejarah dengan animasi stop-motion dan narasi puitis tentang memori kolektif suatu peristiwa traumatik #357faae9-3e99-4a37-b2e0-7d1fe5debf78,ide
+37,Memverifikasi kelengkapan dan keabsahan faktur tagihan dari supplier atau vendor sebelum diproses oleh bagian keuangan untuk pembayaran #f37da0c5-b02d-4963-a03b-6192a09e40be,tugas
+38,Ide untuk membuat filter media sosial yang mempromosikan pesan positif. #67c73c4e-9f48-49a7-9956-2ad616fd96da,ide
+39,"Ide untuk proyek 'data art' atau 'information visualization' yang mengubah data kompleks (misal: data iklim, data sosial, data biologis) menjadi karya seni visual yang indah dan mudah dipahami #27551f3d-f8a3-4ffb-9f87-d7e0620cacd4",ide
+40,"Pesan kado unik dan personal seperti lukisan custom potret keluarga, perhiasan dengan ukiran nama atau tanggal spesial, atau pengalaman tak terlupakan (voucher skydiving, hot air balloon ride) untuk ulang tahun sahabat, anniversary pernikahan, atau kelulusan #ddc487e1-c432-47d5-9524-b4794e11f3a6",belanja
+41,"Gagasan untuk membuat pertunjukan 'physical theatre' atau 'dance theatre' non-verbal yang menggabungkan gerakan tubuh ekspresif, visual panggung minimalis, dan musik kontemporer untuk menyampaikan narasi emosional yang kuat #c4ad3cb3-b4f4-46a9-9495-70c8a51ad36c",ide
+42,"Acara 'Mega Charity Garage Sale' atau 'Bazaar Amal Akbar' untuk barang-barang preloved berkualitas (branded items, koleksi antik) dengan seluruh hasil disumbangkan untuk korban bencana atau panti asuhan #863c0a9f-8cca-42a0-b164-b9fb26e66c21",acara
+43,Jadwal dokter hewan untuk vaksinasi peliharaan. #1e395755-f70a-4103-b876-c6c0c1b62db7,lainnya
+44,Konsep untuk 'space-based solar power' (SBSP) atau pembangkit listrik tenaga surya di orbit yang mengirimkan energi ke Bumi melalui gelombang mikro atau laser sebagai solusi energi bersih masa depan #0123785e-6789-4373-91d9-1e4c1cfdd810,ide
+45,Ide untuk platform donasi mikro untuk mendukung seniman independen. #667768b7-1991-45a9-9159-05c394e3ec1b,ide
+46,Mempersiapkan materi untuk pelatihan tim minggu depan. #847f770c-cd2a-42a4-a95b-d6d57f5a8939,tugas
+47,Playlist lagu favorit untuk menemani kerja. #cd02e8fc-c837-4a49-811e-90be47db0643,lainnya
+48,Nama dan alamat restoran baru yang direkomendasikan teman. #5ecb09f5-7b5e-426d-b3cd-ded1c7f4f9f7,lainnya
+49,Ide untuk jasa konsultasi pernikahan dengan anggaran terbatas (budget wedding). #13d8a38a-d0ea-4e7a-ae28-45a76e895969,ide
+50,"Nomor anggota perpustakaan digital internasional (misal: 'Project Gutenberg', 'Internet Archive Member'): USERLITERASI007 #ecf87593-8bde-4553-acd6-1e9516781f13",lainnya
+51,Mempelajari teknik analisis data kualitatif menggunakan software NVivo atau ATLAS.ti untuk penelitian sosial humaniora #fd3fd652-8f8c-4661-9c88-ebaebeaca089,tugas
+52,"Festival kuliner legendaris dan jajanan pasar nusantara yang menghadirkan ratusan pedagang makanan khas otentik dari seluruh pelosok Indonesia, termasuk demo masak dari chef ternama #8eab5098-79f8-4244-bf27-79821235842a",acara
+53,"Kode SWIFT/BIC bank untuk transfer internasional (contoh): Bank Mandiri (BMRIIDJA), BCA (CENAIDJA), Citibank NA Indonesia (CITIIDJX) #b415b5c0-c410-4d0a-b49d-9fef7d0733d5",lainnya
+54,Seminar nasional dan call for papers tentang 'Sustainable Development Goals (SDGs) in Practice: Bridging Policy and Implementation for Inclusive Economy' #c180aa4a-80f9-46b7-af94-ff308bc959e3,acara
+55,Pesan langganan cloud storage dengan kapasitas lebih besar. #063f77c1-e27c-410b-bba5-006a7980fbfd,belanja
+56,"Hackathon atau 'Codefest' tingkat nasional/internasional selama 24-48 jam untuk menciptakan solusi digital inovatif dalam tema spesifik (misal: fintech, healthtech, edtech) #a074813a-6332-4874-b869-a17ee0b31aa1",acara
+57,"Tugas Dokter: Mendiagnosis pasien anak dengan gejala demam tinggi dan ruam kulit, kemudian merencanakan terapi rawat jalan #f8a59cf7-9168-4e29-8258-57c3dbab46ab",tugas
+58,Setel pengingat untuk waktu belajar atau membaca buku. #01c02336-dae6-420a-a9f2-032102007882,pengingat
+59,"Ide untuk melukis seri mural fotorealistik atau anamorphic 3D di ruang publik perkotaan yang mengkritisi isu konsumerisme, ketimpangan sosial, atau kerusakan lingkungan dengan cara yang provokatif namun estetis #e68ff71d-c0e9-497b-95bb-390bb7056823",ide
+60,Set reminder untuk jadwal meditasi harian. #aad5205c-9b85-4a56-9f89-ce1dfa1c5b95,pengingat
+61,Set reminder untuk istirahat dan peregangan setiap jam saat bekerja. #03eee821-2f21-4088-9840-a32207205184,pengingat
+62,Mengelola hubungan dengan media dan pers untuk publikasi positif. #74c8f968-5830-4615-bfeb-cf2e3b0bcf5d,tugas
+63,"Menyusun laporan tahunan (annual report) perusahaan yang transparan, akuntabel, dan menarik bagi investor serta stakeholder, sesuai standar GRI/IIRC #631472cc-482d-4486-860e-32c55e6c28a3",tugas
+64,Mengikuti upacara wisuda sarjana/pascasarjana. #8ccba715-7dab-466d-af16-caab8bdc4bcb,acara
+65,Beli bahan makanan segar untuk resep masakan akhir pekan. #2884e833-a67a-42c7-acc8-9cbb32a06962,belanja
+66,"Daftar film-film arthouse atau sinema dunia pemenang Palme d'Or (Cannes), Golden Bear (Berlin), atau Golden Lion (Venice) yang sudah/ingin ditonton #94a9cf5e-b355-4536-9e0f-494ec1130478",lainnya
+67,"Set reminder untuk melakukan 'forest bathing' (shinrin-yoku) atau berjalan-jalan di alam terbuka (taman, hutan kota, pantai) minimal seminggu sekali untuk kesehatan mental dan fisik #afe12623-ebfd-4de9-a698-8036e3f162e7",pengingat
+68,Ziarah kubur (nyekar) ke makam leluhur dan membersihkan serta menabur bunga di area pemakaman keluarga besar menjelang hari raya Idul Fitri atau Idul Adha #1c35efe1-8382-447f-ac5f-8c16cd22f539,acara
+69,"Pemikiran tentang 'cognitive biases' yang mungkin mempengaruhi penilaian saya akhir-akhir ini: confirmation bias, anchoring bias, sunk cost fallacy. Perlu lebih objektif. #ed4e4d0f-4650-4643-9474-5d42617e0a09",lainnya
+70,"Konsep untuk aplikasi pencari partner untuk kegiatan hobi (misal: mendaki, bermain musik). #0d03ac46-897a-45d9-b402-a893bcdffa88",ide
+71,Ide untuk platform 'fractional CMO/CFO/CTO' yang menghubungkan startup tahap awal dengan eksekutif berpengalaman untuk layanan konsultasi paruh waktu atau berbasis proyek dengan model langganan fleksibel #4c2f50e1-9ab7-4158-98c6-67c891a77d6b,ide
+72,Tanggal anniversary pernikahan: [Tanggal Anniversary] #e57015a1-f59e-428e-bb6b-2a4d6337a231,lainnya
+73,"Gagasan untuk menulis dan menerbitkan buku 'found poetry' atau 'blackout poetry' yang dibuat dari halaman-halaman buku lama atau artikel koran, menciptakan makna baru dari teks yang sudah ada #5725cb7c-a808-464f-b91e-2becaea5397d",ide
+74,Catatan ide untuk esai pribadi berikutnya: 'Paradoks Kesepian di Era Konektivitas Digital' atau 'Seni Menemukan Keindahan dalam Ketidaksempurnaan (Wabi-Sabi)'. #30f218b0-98f2-484c-a574-60699f8f3712,lainnya
+75,Inspirasi tak terduga hari ini datang dari mengamati semut yang bekerja sama membangun sarang – pelajaran tentang kolaborasi dan ketekunan tanpa pamrih. #b1467d51-a313-4ede-8e31-8e392d616b85,lainnya
+76,Konser musik amal 'Tribute to [Nama Musisi Legendaris]' atau 'Hope for [Nama Daerah Bencana]' untuk penggalangan dana yang menampilkan deretan artis papan atas lintas genre #8bec3dfb-2b62-4e53-92bb-b8d20fbe1244,acara
+77,"Pemikiran tentang 'AI for drug discovery and development' yang dapat mempercepat proses penemuan molekul obat baru, prediksi efikasi dan toksisitas, serta desain uji klinis yang lebih efisien menggunakan simulasi komputasi dan analisis data besar #9033101b-b802-483b-82d9-bae561460368",ide
+78,Ingatkan untuk membayar iuran langganan streaming musik/video. #2353b94c-80a2-41b0-b10c-736d073f6392,pengingat
+79,Pengingat untuk mengupdate aplikasi di smartphone dan komputer. #ca4cca5e-6e96-4304-8632-b7290c1068ce,pengingat
+80,Daftar obat-obatan yang harus dihindari karena interaksi negatif dengan obat rutin atau kondisi medis tertentu #d53c8192-4d6a-459a-8c03-fe792f3fbe1e,lainnya
+81,"Konsep untuk membangun 'holistic community learning center' di daerah kumuh atau terpencil yang menyediakan layanan pendidikan anak usia dini (PAUD), perpustakaan digital, pelatihan keterampilan kerja bagi pemuda, layanan kesehatan dasar, dan ruang kreatif bagi komunitas #7d28be20-ebd6-4f08-aa8d-9eeb7bc4b5b2",ide
+82,Memvalidasi data input sebelum diproses oleh sistem. #015bd99f-b753-4b4b-9118-44aac621c1d5,tugas
+83,"Ide untuk membangun 'immersive learning platform' menggunakan teknologi VR/AR untuk pelatihan keterampilan teknis (misal: simulasi bedah untuk dokter, pelatihan pilot, perakitan mesin kompleks) atau soft skills (misal: public speaking, negosiasi) #b1139b6f-9ab2-4a90-9110-3c019f1f29f2",ide
+84,"Diskusi online interaktif atau 'fireside chat' tentang isu-isu politik global, perubahan iklim, atau hak asasi manusia bersama pengamat politik internasional, aktivis lingkungan, dan akademisi dari lembaga think tank ternama #d445db14-300f-4c5b-8222-071b3085fbca",acara
+85,Pesan kursus online untuk meningkatkan keterampilan. #e2f348d1-b269-4162-82b8-f97fa725d47c,belanja
+86,Gagasan untuk menciptakan 'no-code/low-code platform' khusus untuk membangun aplikasi AI atau machine learning sederhana bagi non-programmer atau UMKM #27c7e61e-2b1f-49d7-b017-b31020bc6091,ide
+87,"Mencari, menghubungi, dan membangun jejaring dengan calon dosen pembimbing (supervisor) atau kolaborator riset potensial untuk program PhD atau proyek penelitian bersama di luar negeri #36b6cff1-ce7b-4986-92f2-f70a873fbf73",tugas
+88,Jangan lupa untuk mengisi ulang saldo e-money/e-wallet. #b8f7f3f7-c319-4d42-991c-cd0eda0cd6c6,pengingat
+89,"Melakukan negosiasi ulang kontrak jangka panjang dengan supplier utama (Tier 1) untuk optimasi biaya, kualitas, dan termin pembayaran yang lebih menguntungkan #d7122352-12d7-4d85-a5d3-78d73a655467",tugas
+90,Mengikuti tur virtual ke museum seni ternama dunia. #20ffeb4d-4a20-4dff-bee5-df5e0225ede5,acara
+91,Mengikuti sesi 'meet and greet' dengan tokoh inspiratif. #3c8de5cd-4c90-4886-acc5-5dec64aa3999,acara
+92,"Acara 'housewarming' atau syukuran menempati rumah baru dengan mengundang tetangga sekitar, kerabat, dan mengadakan doa bersama serta ramah tamah sederhana namun hangat #850ec336-6872-419b-9090-4a2c4c7ee781",acara
+93,"Perlu alat manikur-pedikur profesional set lengkap yang terbuat dari stainless steel Jerman (Solingen) atau Jepang, termasuk gunting kuku presisi, pinset alis, pendorong kutikula, dan buffer kuku #6dbbd050-b6f5-435f-a3e0-8ef241c4dae5",belanja
+94,Beli lisensi software desain grafis untuk freelance. #6f0f8555-fe33-470b-955b-8f652c71c5fa,belanja
+95,"Ingatkan untuk mengirim email atau kartu ucapan terima kasih (thank you note) yang tulus dan personal secara spesifik menyebutkan kontribusi atau bantuan yang diterima setelah menghadiri wawancara kerja, menerima hadiah, atau dibantu oleh seseorang #08e83a7e-f5f4-472e-98a2-2584bcdb6e69",pengingat
+96,"Perasaan hari ini: Sebuah melankolia yang tenang, mungkin dipicu oleh cuaca hujan atau musik instrumental yang sedang didengarkan. Bukan sedih, hanya reflektif. #64d29717-016d-493b-abed-bc772c567f38",lainnya
+97,"Peluncuran produk atau layanan flagship terbaru perusahaan dengan konsep 'experiential event' yang imersif, mengundang VVIP, media, influencer, dan komunitas pengguna loyal #04e7fc56-b755-452a-ae57-33846bf2b570",acara
+98,Membuat konten kalender media sosial untuk kuartal berikutnya. #163782d0-b91b-45aa-b600-9b846c3dd609,tugas
+99,"Beli sepatu kulit formal Goodyear welted (Oxford, Derby, Loafer) dari shoemaker Inggris atau Italia ternama (John Lobb, Edward Green, Santoni, Berluti) #587dda32-e51e-4f81-8158-94c0d9d4c537",belanja
+100,Mengikuti kursus sertifikasi pertolongan pertama pada kecelakaan (P3K) dan resusitasi jantung paru (RJP) standar internasional dari Palang Merah atau lembaga kredibel lainnya #4eb4ec72-5a2e-41b1-acf0-c3e7d88e36d9,tugas
+101,"Gagasan untuk menyelenggarakan 'participatory budgeting' di tingkat kota atau kabupaten, di mana warga masyarakat dilibatkan secara langsung dalam menentukan alokasi sebagian anggaran publik untuk proyek-proyek prioritas mereka #6381fddd-86fe-40e8-8b7a-37a4e4c4dc7a",ide
+102,"Ide untuk memulai gerakan sosial global atau 'non-profit organization' yang berfokus pada isu spesifik yang sangat mendesak dan belum banyak ditangani (misal: perlindungan dark skies dari polusi cahaya, advokasi hak-hak hewan di peternakan industri, pelestarian bahasa isyarat langka) #32d65bbd-8231-4570-a53d-76b3c4f7c648",ide
+103,Dimensi ruangan untuk rencana pembelian furnitur baru: PxLxT. #c85ef9e3-49fa-43c7-9ddf-19dd0223af68,lainnya
+104,"Pentas seni kolosal sendratari Ramayana atau Mahabarata dengan tata panggung spektakuler dan lighting megah di kompleks candi Prambanan saat malam bulan purnama, melibatkan ratusan penari dan musisi gamelan #a3251de9-ff4c-4567-9205-6567f1379cc8",acara
+105,"Pengingat untuk melakukan perpanjangan STNK 5 tahunan dan penggantian plat nomor kendaraan bermotor [Plat Nomor] di kantor Samsat Induk, termasuk cek fisik kendaraan dan pembayaran pajak progresif jika ada #47d7c75d-6040-47ec-8f8c-b50e40897006",pengingat
+106,Mengelola portofolio investasi perusahaan jangka pendek dan panjang. #20d45786-69eb-4b3c-9d58-e95a40fd2a0e,tugas
+107,"Acara 'Company Anniversary Celebration' (misal: Silver Jubilee, Golden Jubilee) dengan berbagai rangkaian kegiatan (CSR, olahraga, family gathering, malam puncak) #191e9374-fb26-4ee4-a948-1e57d48dc216",acara
+108,Pengingat untuk mengikuti kelas olahraga online. #21c20368-0076-4f32-888a-e4f1e71528ab,pengingat
+109,Cari puzzle edukatif dan board game untuk anak-anak. #9ae82749-c831-4fae-b6ce-2f4797a49af3,belanja
+110,Daftar podcast yang direkomendasikan untuk didengarkan. #18013439-f980-442c-af41-825ec3eed600,lainnya
+111,Nama pengguna dan petunjuk login untuk website langganan (non-sensitif). #808fabbb-7c0a-4079-b659-18b402f885be,lainnya
+112,"Ide untuk menjadi mentor atau 'life coach' bersertifikasi yang berfokus membantu individu menemukan tujuan hidup (ikigai), mengatasi 'limiting beliefs', dan mencapai potensi maksimal mereka melalui pendekatan holistik dan berbasis bukti #acf42712-13ae-4f8c-8e92-20d966465b75",ide
+113,"Daftar skill 'meta-learning' atau 'learning how to learn' yang ingin dikuasai: speed reading, memory palace technique, Feynman technique, spaced repetition, deliberate practice #1e9f86d8-f3ce-4bb5-a9de-a7cc61bf38aa",lainnya
+114,Jarak tempuh maraton: 42.195 kilometer atau 26.219 mil. Rekor dunia saat ini: XX:XX:XX #abd41e71-aa6b-42a3-906f-3f46646a84e3,lainnya
+115,"Set reminder untuk membayar iuran keamanan, kebersihan lingkungan (RT/RW), dan iuran pengelolaan lingkungan (IPL) apartemen/kompleks perumahan setiap awal bulan secara tepat waktu melalui transfer bank atau aplikasi pembayaran #8c491f4e-3685-4548-8f9e-181189c23961",pengingat
+116,"Ide untuk program 'financial literacy and inclusion' yang menyasar perempuan pengusaha mikro atau pekerja migran, memberikan pelatihan manajemen keuangan, akses ke layanan perbankan digital, dan pendampingan usaha berkelanjutan #85382d52-eef0-46b3-8a27-2fddefbc51d4",ide
+117,Mengelola database pelanggan dan memastikan akurasi data. #e8f29e49-0fc8-479b-89aa-3d99532bfea4,tugas
+118,Pikiran filosofis: 'Apa makna dari kebahagiaan sejati?' #9b5ebd7f-873b-4c62-b356-e8a56664dd10,lainnya
+119,"Ide untuk membangun 'makerspace' atau 'fab lab' komunal yang dilengkapi dengan peralatan fabrikasi digital (3D printer, laser cutter, CNC machine) dan tradisional (alat pertukangan, mesin jahit) untuk memberdayakan masyarakat dalam menciptakan inovasi dan produk lokal #43615ca9-9009-4570-a021-be0d6675e217",ide
+120,"Cari set peralatan woodworking profesional (Festool Domino, SawStop table saw, Lie-Nielsen hand planes) untuk hobi pertukangan kayu dan membuat furnitur custom berkualitas tinggi #acb05655-199b-46da-a0e0-4f8af72e4fc9",belanja
+121,Partisipasi dalam virtual escape room challenge interaktif dengan tema misteri atau detektif bersama tim kerja atau teman-teman untuk membangun kekompakan (team building) secara remote #1201b0ca-2bfc-4f09-a40e-b960c822184a,acara
+122,Cari lensa kontak baru dengan resep dokter. #b4c4f357-bd9e-4b83-afb1-d61b0a3f80ad,belanja
+123,"Jangan lupa untuk membersihkan filter AC indoor dan outdoor, serta melakukan servis AC (cuci AC, cek freon) rutin setiap 3-6 bulan sekali oleh teknisi profesional untuk menjaga kinerja optimal dan kualitas udara dalam ruangan #b1cea22c-bbe3-4aec-a22d-b3c12e4f2e38",pengingat
+124,Pengingat untuk submit full paper hasil penelitian (setelah revisi dari reviewer) ke jurnal internasional Q1 [Nama Jurnal Bereputasi] sebelum batas akhir deadline tanggal [Tanggal Pukul Jam ZeWaktu] #f9f162b7-78ae-4b70-8403-863a195b3621,pengingat
+125,Mengikuti seminar tentang 'Sustainable Living Practices'. #5b03ad4b-a3b8-41f8-850b-abf60987ee87,acara
+126,Menghadiri pernikahan sahabat masa kecil. #9d63c232-0383-4314-9041-8ee5340142e0,acara
+127,"Mengikuti kelas atau workshop keterampilan tangan seperti membuat keramik, merajut, membatik, atau pertukangan kayu #036aa457-21a6-425b-9dd9-93a9fe4ba932",tugas
+128,"Acara 'Car Free Day' mingguan yang diperluas dengan berbagai zona kegiatan (olahraga, kesenian, kuliner sehat, komunitas hobi, UMKM) di sepanjang jalan protokol pusat kota #a6168d09-58b0-4c71-9d28-c97745c2ad8d",acara
+129,"Perayaan anniversary pernikahan (perak/25 tahun, emas/50 tahun) orang tua dengan pesta kejutan yang mengharukan, pembaruan janji nikah (vow renewal), atau perjalanan napak tilas romantis #d945999f-fa08-4c4b-801a-2791960c23cb",acara
+130,"Jangan lupa jadwal keberangkatan penerbangan [Nomor Penerbangan] maskapai [Nama Maskapai] tujuan [Kota Tujuan] untuk perjalanan bisnis/liburan, [Hari, Tanggal, Jam Keberangkatan], check-in online H-24 #af333caa-ac9d-45eb-a6be-0924f2e15418",pengingat
+131,Partisipasi dalam forum diskusi tentang isu-isu perkotaan. #0c18e9d2-439f-43f2-836b-8e3dbc29b7f8,acara
+132,Menghadiri acara 'khitanan' atau sunatan keponakan atau anak tetangga dengan tradisi arak-arakan dan hiburan rakyat #31715634-3049-40fc-98f0-43d3d0a7b82d,acara
+133,Cari dekorasi rumah unik di toko barang antik. #cdcb4b39-570a-40d9-9329-9fa6eee7cf43,belanja
+134,"Cari piringan hitam (vinyl) first pressing atau limited edition audiophile (MoFi, Analogue Productions) dari album musik klasik rock, jazz, atau blues legendaris dalam kondisi mint atau near mint #0c2e0d38-4e0b-492e-a945-22fb0ca9c567",belanja
+135,"Investasi pada VR headset high-end (Valve Index/Pimax Crystal) atau mixed reality headset (Apple Vision Pro/Meta Quest 3) untuk gaming imersif, simulasi profesional, atau produktivitas spasial #498d4b55-9f2a-431b-b9e4-9d44dae26204",belanja
+136,Menyusun business plan atau pitch deck yang meyakinkan untuk mendapatkan pendanaan dari investor ventura (VC) atau private equity (PE) #d67df383-b864-4824-90a1-4fa923b3964c,tugas
+137,"Catatan penting mengenai kondisi medis kronis atau langka (jika ada), termasuk pantangan makanan/aktivitas, dan tindakan darurat yang perlu diketahui orang terdekat #480662b5-8f2f-465a-b960-69347efabb39",lainnya
+138,"Membaca, merangkum, dan menganalisis secara kritis minimal 5-7 artikel jurnal ilmiah internasional peer-reviewed per minggu terkait topik disertasi atau proyek riset terkini #e213ad1f-6ca3-475b-99c0-f038d82aef86",tugas
+139,Konsep untuk platform tantangan (challenge) kebugaran dengan teman. #4d362c88-b9af-44d1-a9f8-29fb67b1511e,ide
+140,"Stok frozen food premium (nugget ayam kampung organik, sosis bratwurst Jerman, bakso ikan tenggiri asli, dimsum udang) untuk lauk praktis dan bekal anak-anak sekolah #cede4fd5-9b3d-4265-b845-0fd5103e9ce8",belanja
+141,"Menyusun rencana keuangan untuk dana pendidikan anak dari jenjang TK hingga Perguruan Tinggi, termasuk simulasi biaya dan pilihan instrumen investasi #93e18295-8512-4513-9bf0-7847ee4165ae",tugas
+142,Menghadiri acara 'open house' sekolah anak. #6367263c-0387-4248-bb88-57ac8de1cb4d,acara
+143,"Menghadiri upacara kelulusan (wisuda) adik, sepupu, atau anak dari universitas ternama di luar kota atau bahkan luar negeri, sambil merencanakan liburan singkat keluarga #e5762e16-6a6b-4a5f-960b-b16ad66e7890",acara
+144,Jangan lupa bayar Pajak Bumi dan Bangunan (PBB) tahunan untuk properti di [Alamat Properti] dan Pajak Kendaraan Bermotor (PKB) untuk mobil [Plat Nomor] sebelum batas waktu akhir pembayaran untuk menghindari denda #256e5874-f905-479b-be01-8fe0bafd9632,pengingat
+145,"Beli UPS (Uninterruptible Power Supply) online double-conversion atau line-interactive APC Smart-UPS SRT 3000VA atau Eaton 9PX untuk melindungi server, NAS, dan workstation kritikal dari gangguan listrik dan fluktuasi tegangan #1cdab498-04cc-4b3c-a745-5266cc114479",belanja
+146,Menulis artikel untuk publikasi industri. #1f7896c3-a267-40ff-8197-f45e5a65ade3,tugas
+147,DOI (Digital Object Identifier) untuk artikel jurnal ilmiah yang dipublikasikan: 10.xxxx/j.nama_jurnal.xxxx.xx.xxx #831d9abe-5348-48bb-85a8-2ae3de455f15,lainnya
+148,"Pertunjukan wayang kulit semalam suntuk oleh dalang maestro legendaris (Ki Manteb Soedharsono, Ki Anom Suroto) dengan lakon klasik (Bharatayudha, Ramayana) dan iringan gamelan live #5ce15c95-d290-4f14-86a8-f36228233d44",acara
+149,"Informasi gelang atau kalung identitas medis (medical ID bracelet/necklace) jika memiliki kondisi yang memerlukan perhatian darurat khusus (misal: diabetes tipe 1, alergi obat parah, epilepsi) #26c745a7-6617-4cf5-b4ff-f8d346fd6eb3",lainnya
+150,Mengembangkan program pelatihan kepemimpinan untuk manajer. #00c50c8b-eca0-4a66-b1f7-ef66ba59e719,tugas
+151,Cari kado wisuda untuk keponakan. #03572c14-d695-4ed6-b425-4535f3b8c9b1,belanja
+152,Daftar belanjaan mingguan yang belum terbeli. #c5dfe8a9-3087-48a9-9a39-e7a7b1e3c2c9,lainnya
+153,"Menguasai software referensi manajemen (Mendeley, Zotero, EndNote) untuk mengelola sitasi dan daftar pustaka secara efisien dalam penulisan ilmiah #01de62bf-526a-46ef-9b6f-e18dc1880118",tugas
+154,Pesan layanan kebersihan rumah profesional. #6cf6cb44-6f37-41f0-a68f-235e3657bd33,belanja
+155,"Merasa sangat bersyukur atas momen-momen kecil tak terduga yang membawa kebahagiaan hari ini: senyuman tulus dari orang asing, secangkir kopi sempurna, lagu lama favorit yang tiba-tiba diputar di radio. #75c0ecc1-9cc3-4764-aa34-a5c49d7d3815",lainnya
+156,"Konsep untuk membuat 'digital legacy' atau 'time capsule' yang berisi rekaman suara, video, tulisan, dan artefak digital penting untuk diwariskan kepada generasi mendatang atau dibuka di masa depan yang jauh #ff273f9c-3add-429c-9666-191c1f0e94f9",ide
+157,"Daftar buku yang sedang dibaca: '[Judul Buku A]', '[Judul Buku B]' #45b0a214-dab1-4226-b3f4-57070fd5f9f8",lainnya
+158,Ide untuk layanan kustomisasi hampers dan kado untuk berbagai acara. #c70d4a43-fdac-4343-bd02-ee41d187db57,ide
+159,"Pemikiran tentang penggunaan 'explainable AI' (XAI) dan 'federated learning' dalam sistem pengambilan keputusan kritikal (misal: diagnosis medis, persetujuan kredit, penegakan hukum) untuk meningkatkan transparansi, akuntabilitas, dan privasi data #c3e2d2a7-ceed-4865-9296-5b482d6bb5f5",ide
+160,"Stok bumbu dasar masakan (bawang merah Brebes, bawang putih kating, cabai rawit merah setan, jahe emprit, lengkuas, kunyit, serai, daun salam, daun jeruk) segar dan berkualitas dari pasar tradisional atau supplier langganan #66ed6566-a8a4-4de1-b882-741d932bd7fc",belanja
+161,Mengikuti kelas memasak masakan khas daerah. #eb336675-7956-434e-9572-e6d58bc62875,acara
+162,Ingatkan untuk melakukan flushing atau kuras oli transmisi matic/manual mobil setiap 40.000-60.000 km sekali sesuai rekomendasi pabrikan #6f405386-68a4-432d-8985-a0e2c1a40a64,pengingat
+163,"Golongan darah Ayah: A+, Ibu: B+, Anak 1: AB+, Anak 2: O- (perlu cek ulang rhesus) #f9f92576-607b-4698-b4c5-484ce9802846",lainnya
+164,Ingatkan untuk menyelesaikan review performa diri sendiri. #00ea1fa0-21ec-4269-88c2-0147e0827857,pengingat
+165,Menyelesaikan revisi dokumen legal dari tim hukum. #7e81a63d-56d1-4e11-a3db-76d8e879acfb,tugas
+166,Mengikuti workshop tentang 'Public Speaking untuk Profesional'. #9e60a3ea-3086-4467-a5b1-d9dc169df4c0,acara
+167,"Jangan lupa aplikasikan broad-spectrum sunscreen dengan SPF minimal 50 PA++++ (UVA & UVB protection) sebanyak 2 jari penuh ke wajah, leher, dan area kulit terbuka lainnya setiap pagi, bahkan saat cuaca mendung atau di dalam ruangan, dan re-apply setiap 2-3 jam #8bf7a69f-29f0-4474-abdc-189fa9760ae7",pengingat
+168,"Jangan lupa jadwal pengambilan rapor akhir semester ganjil anak kelas [Kelas] di sekolah dasar [Nama Sekolah] dan sesi konsultasi individual dengan wali kelas mengenai perkembangan akademis dan sosial anak pada hari Sabtu pagi, [Tanggal, Jam] #26482ec3-0519-46fa-9782-701324a8addb",pengingat
+169,Menonton pertunjukan teater musikal di gedung kesenian. #83ca76d1-f034-49f0-a9e4-727962e95fe6,acara
+170,Pengingat untuk melakukan reservasi tempat untuk makan malam keluarga. #09c6fb9b-7687-44d6-95b8-4d280a102dcb,pengingat
+171,"Pengingat untuk mencuci dan menjemur bantal, guling, selimut, sprei, dan bed cover secara berkala (minimal sebulan sekali atau lebih sering jika perlu) menggunakan deterjen anti-tungau dan air panas untuk menjaga kebersihan tempat tidur dan mencegah alergi #6bd8f5e3-d36f-4671-bec0-3d8870325843",pengingat
+172,Mempelajari dan mempraktikkan teknik berkebun organik atau hidroponik di halaman rumah atau balkon untuk menghasilkan sayuran dan buah-buahan sendiri #bacecddb-d32d-44e1-95c3-a00f876e5ffe,tugas
+173,Kode QR unik untuk akses [Nama Sistem/Layanan Internal Perusahaan] #d712e225-4809-4bad-b27b-7cdf6ecda75d,lainnya
+174,Langganan platform e-learning spesialis (MasterClass All-Access Pass/Skillshare Premium/DataCamp Premium) untuk pengembangan keahlian di berbagai bidang #148af764-231f-42b4-9e6e-0cf649dc22be,belanja
+175,"Daftar aplikasi produktivitas dan 'second brain' yang sedang dieksplorasi atau digunakan: Obsidian.md (dengan plugin Dataview & Excalidraw), Roam Research, Logseq, Craft Docs, Heptabase, Anytype #4fc7d483-3c4e-4dd2-b24d-96d0bded1197",lainnya
+176,"Preferensi ukuran kaos dan kemeja: L (Lokal), M (Internasional). #952e08d5-3768-43b1-a3d0-421156205965",lainnya
+177,"Gagasan untuk layanan 'subscription box' untuk produk-produk 'self-care' dan 'wellness' yang dikurasi secara personal (misal: aromaterapi, teh herbal, buku mindfulness, produk spa alami) dan dikirim setiap bulan #af911266-74dd-4dae-bd2c-7ad07fc15e63",ide
+178,"Konsep untuk meluncurkan podcast naratif audio drama fiksi ilmiah atau fantasi berseri dengan kualitas produksi setara film (sound design imersif, scoring original, voice acting profesional) yang didistribusikan secara independen #b45d13e3-d5fa-44c7-af4f-6aeab95ba5c8",ide
+179,Catatan ide destinasi liburan berikutnya. #45ddd675-e399-4d54-8063-926dd52172a7,lainnya
+180,"Melakukan tur museum virtual 360 derajat dengan teknologi VR (Virtual Reality) ke museum terkenal dunia seperti The Louvre Paris, The British Museum London, Vatican Museums, atau Smithsonian National Museum of Natural History #4b869282-4ac4-4060-9e99-9fcf4691b29c",acara
+181,Acara 'Diplomatic Reception' yang diselenggarakan oleh kedutaan besar untuk merayakan hari nasional negaranya #d13b3d34-169e-4f1c-9925-00367c11f00b,acara
+182,"Konsep untuk membuat platform 'collaborative world-building' online di mana pengguna dapat bersama-sama menciptakan dunia fiksi (peta, sejarah, budaya, bahasa, karakter) untuk novel, game, atau proyek kreatif lainnya #4360af41-a454-411a-831d-9993c83bafb5",ide
+183,Gagasan untuk workshop online membuat kerajinan tangan dari bahan daur ulang. #22bed0af-f088-415e-bbd8-708ce5370838,ide
+184,Ide untuk layanan perencanaan investasi syariah otomatis (robo-advisor). #14aa6275-3c97-453e-ba90-9bafe00a378c,ide
+185,Daftar aplikasi mobile yang sering digunakan. #1feb4446-f8ed-46e6-8ff9-4fa2425736af,lainnya
+186,"Pemikiran untuk mengambil sertifikasi profesional atau gelar akademis di bidang yang sama sekali baru dan berbeda dari latar belakang sebelumnya (misal: seorang insinyur belajar hukum, seorang dokter belajar seni rupa) untuk memperluas wawasan dan menciptakan sinergi interdisipliner #d6845c5a-a802-406c-93cb-d539944a3a47",ide
+187,"Beli beras merah organik, beras hitam, beras coklat, quinoa tricolor, rolled oats gluten-free, dan chia seeds untuk variasi menu sarapan sehat, MPASI bayi, dan program diet keluarga #3c175291-7dcf-4c8d-8029-aed8b1d339e9",belanja
+188,UUID (Universally Unique Identifier) untuk project [Nama Proyek]: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx #3973fe80-c2a8-45cd-b0a5-eb48706ebe33,lainnya
+189,Catatan ide untuk tema pesta ulang tahun anak. #dbae66d3-9eb7-4bbc-a49d-42faeb4cdfe2,lainnya
+190,Setel pengingat untuk menghadiri webinar penting. #2c2b1058-2437-4c11-a646-9c7443f9255d,pengingat
+191,Ingatkan untuk menjemput anak dari sekolah. #98ce343d-054f-4d67-8c13-9f8d308a7cb4,pengingat
+192,"Konsep untuk membuat opera rock atau teater musikal kontemporer yang mengadaptasi cerita rakyat atau legenda nusantara dengan aransemen musik modern (rock, elektronik, jazz) dan koreografi dinamis #06a92db8-33d0-46ee-a6cf-3155784536ad",ide
+193,Pawai budaya nusantara kolosal dan kirab bendera merah putih raksasa dalam rangka perayaan HUT Kemerdekaan RI tingkat nasional yang melibatkan ribuan peserta dari berbagai provinsi #6317970b-1bed-4911-85b1-32a89b2137b0,acara
+194,"Simposium internasional multidisiplin (kedokteran, bioteknologi, AI) membahas penemuan terbaru dan kolaborasi riset dalam terapi gen, personalized medicine, dan drug discovery #c8cba5c5-7132-44aa-af26-03fbc0df9ef0",acara
+195,Nomor referensi booking hotel untuk perjalanan bisnis: H7G8F9E1 #71bda893-05b7-4ee8-8e80-90bca35ae25c,lainnya
+196,"Menyusun dan mengkomunikasikan rencana strategis (Renstra) departemen untuk periode 5 tahun ke depan yang selaras dengan visi, misi, dan OKR perusahaan #24aee776-a96f-4158-9ad8-351ec0e36f72",tugas
+197,Tugas HR Manager: Mengembangkan program retensi karyawan dan melakukan analisis employee engagement survey #5d7c2f43-399d-422c-b3a2-cb9c61a7f14e,tugas
+198,"Daftar bahasa pemrograman fungsional (Haskell, Clojure, F#) atau bahasa esoterik (Whitespace, Brainfuck) yang ingin dipelajari untuk tantangan intelektual #62c6ea7a-f96b-41b7-b187-2302585a3d37",lainnya
+199,"Mengelola portofolio program dan proyek strategis, memastikan alignment dengan tujuan bisnis, manajemen risiko, dan alokasi sumber daya yang efektif #56842692-9b3a-4cc5-b696-4c852a0ebbde",tugas
+200,Mengikuti lokakarya pembuatan kerajinan tangan tradisional. #da0928e7-4447-4604-83eb-d8d3bdb9333c,acara
+201,Investasi rutin (dollar-cost averaging) pada reksa dana saham indeks global (MSCI World/S&P 500 ETF) atau obligasi pemerintah AS (US Treasury Bonds) melalui platform broker internasional (Interactive Brokers/Schwab) untuk diversifikasi portofolio mata uang asing #6d1b668e-9313-4093-9860-2eecf453e2cc,belanja
+202,"Reminder untuk mengganti baterai detektor asap (smoke detector) dan detektor karbon monoksida (CO detector) di setiap lantai rumah setiap 6 bulan hingga 1 tahun sekali, serta melakukan tes fungsional bulanan #90b6a2a6-b9db-45b5-a075-a08c8a11130a",pengingat
+203,Ide untuk platform 'talent marketplace' khusus untuk pekerja 'gig economy' di sektor kreatif atau teknologi dengan sistem reputasi transparan dan pembayaran yang aman #56898147-77b5-4374-b308-164034ac109b,ide
+204,"Webinar series bulanan atau 'Thought Leadership Forum' yang menghadirkan pakar internal dan eksternal membahas tren industri, inovasi teknologi, dan isu-isu strategis terkini #ded11d5c-0135-436e-846d-e2ac3bcdbdea",acara
+205,Nomor resi pengiriman paket yang sedang ditunggu. #f197c2ad-9ac8-4eac-bc9f-6f40903596f2,lainnya
+206,"Gagasan untuk menjalankan '100-day project' atau tantangan kreatif/produktif yang ambisius dan konsisten setiap hari selama 100 hari (misal: menulis 1000 kata/hari, melukis satu karya/hari, belajar satu konsep baru/hari) dan mendokumentasikan progresnya secara publik #07776fc4-5f9b-4c86-bde6-8919c32174d1",ide
+207,Kontak layanan 'concierge' kartu kredit premium (jika ada) untuk bantuan reservasi atau kebutuhan darurat #65d23e4f-3d34-471e-8e69-e04f41aa7db8,lainnya
+208,"Ide untuk 'neo-bank' atau 'digital bank' syariah yang fokus pada layanan keuangan inklusif, investasi etis, dan produk-produk filantropi (zakat, infaq, sedekah, wakaf) yang terintegrasi #cea0c809-1e5c-4406-9bf2-b0b8cf2331ca",ide
+209,Pemikiran untuk membuat direktori usaha kecil menengah (UKM) lokal. #071e2ec4-ab3e-4e70-bd01-bd9508da7cbf,ide
+210,Nomor seri laptop pribadi: SN-LAPTOP-XYZ. #82720c67-7192-46a7-82ae-057618fcf9f5,lainnya
+211,"Jangan lupa untuk meminta maaf secara tulus dan bertanggung jawab jika melakukan kesalahan atau menyakiti perasaan orang lain, baik disengaja maupun tidak #8ee5c1b0-8c40-42d6-a2fb-e7330d490dfe",pengingat
+212,"Ide untuk menyelenggarakan 'immersive a_blank_space' atau 'experiential a_blank_space' (misal: 'immersive Van Gogh' versi seniman lokal) yang mengajak pengunjung masuk ke dalam dunia karya seni melalui proyeksi video mapping, instalasi interaktif, dan realitas virtual #b6c9b672-62a5-438a-8313-7a6b3ef3cdc1",ide
+213,Alamat email alternatif untuk keperluan pribadi: [email alternatif] #633a4e00-83e2-4e63-ab6f-b787b01a794b,lainnya
+214,"Liburan 'road trip' antar provinsi menggunakan mobil pribadi bersama keluarga, menjelajahi berbagai kota dan objek wisata di sepanjang perjalanan #1e6d228f-317a-4002-a124-fbf01ac5a0d8",acara
+215,Mengoptimalkan proses logistik dan rantai pasok perusahaan. #7cc81484-9063-4423-a94f-9dc24f6a29c3,tugas
+216,Pengingat untuk menghadiri acara arisan lingkungan. #e1956fd1-86a1-4a0d-9716-42d62432bf8b,pengingat
+217,"Melakukan market sizing, TAM/SAM/SOM, competitive landscape analysis, dan forecasting untuk produk inovasi SaaS AI di pasar Asia Pasifik dan Eropa #860e4d2a-6050-4d29-a3a4-4fd3dcf1433b",tugas
+218,Set reminder untuk waktu membaca artikel berita terbaru. #0e1351d7-101b-4666-9f15-768e39919844,pengingat
+219,"Set reminder untuk aktif berpartisipasi dalam kegiatan sosial atau komunitas yang diikuti (misal: menjadi sukarelawan, hadir dalam pertemuan rutin, memberikan kontribusi ide atau tenaga) secara konsisten #3494c525-b0d7-446d-b889-970071b3d1aa",pengingat
+220,"Cari smart display dengan layar sentuh besar (Google Nest Hub Max/Amazon Echo Show 15) yang dapat berfungsi sebagai pusat kontrol smart home, bingkai foto digital, dan perangkat komunikasi video keluarga #8110f15f-82cb-4c26-94a6-48820753b4f2",belanja
+221,"Menjadwalkan pemeriksaan kesehatan (medical check-up) tahunan yang komprehensif (darah lengkap, fungsi hati/ginjal, EKG, rontgen toraks) untuk diri sendiri, pasangan, dan orang tua #46165e0b-aa49-4af7-b84e-e2cc43be1706",tugas
+222,Ide untuk layanan dekorasi acara tematik yang unik. #237d9d6c-b0f9-48ec-85ff-a281fce9efb6,ide
+223,"Password Wifi Tamu Kantor: [NamaWifiTamuKantor] - [PasswordWifiTamu] (berlaku 24 jam, ganti setiap hari Senin) #913fc8dd-5265-4e1f-a5ab-69c04eab8157",lainnya
+224,Link artikel menarik yang disimpan untuk dibaca nanti: https://der-artikel.de/ #6c1d9bb3-c5bf-4d4e-9f89-971fe6eba555,lainnya
+225,Konsep untuk aplikasi pelacak kebiasaan baik dengan sistem reward. #0767e22c-6386-46e4-a88c-d29e2b7f0180,ide
+226,Menghadiri acara 'car free night' di pusat kota. #a5b0c1e9-4190-4721-b87d-6b15ed06a384,acara
+227,"Investor gathering, non-deal roadshow (NDR), atau 'analyst briefing' untuk memaparkan kinerja perusahaan, prospek bisnis, dan menarik minat investasi pada saham atau obligasi korporasi baru #469299df-1337-4904-b087-57a85b5b896d",acara
+228,Beli tenda dan sleeping bag untuk kegiatan outdoor. #e5862411-cbf7-40df-888b-928a370c3829,belanja
+229,Rapat Dengar Pendapat Umum (RDPU) antara DPR/DPRD dengan stakeholder terkait pembahasan Rancangan Undang-Undang (RUU) atau Peraturan Daerah (Perda) #3938dbfe-21da-4f91-ab89-4d71bde903e1,acara
+230,"Memonitor dan menganalisis performa website (traffic, bounce rate, conversion) dan media sosial perusahaan (engagement, reach, sentiment) menggunakan Google Analytics, Semrush, atau Hootsuite #048970d2-a70d-4fe0-9798-7e5bba7aa3c1",tugas
+231,Beli software produktivitas untuk pekerjaan. #e712252e-cf08-43c6-a22a-7e243ac310e6,belanja
+232,Ingatkan untuk membayar tagihan kartu kredit sebelum batas akhir. #37b1142b-ab84-4956-b44a-5b8e2d0e94da,pengingat
+233,"Kontak Mbak Siti (asisten rumah tangga paruh waktu, spesialis setrika dan deep cleaning): 08yyyyyyyyyy (jadwal setiap Selasa & Jumat pagi) #9561a348-7017-4a86-9c33-169d212b0405",lainnya
+234,"Memilah sampah organik (sisa makanan, daun) untuk komposter, anorganik (plastik, kertas, logam) untuk bank sampah, dan limbah B3 (baterai, lampu) untuk penanganan khusus #20010e35-e877-43b1-ad56-971218433614",tugas
+235,Mengikuti acara penggalangan dana untuk konservasi satwa liar. #19033e9f-1856-4ba7-a280-9ce995c7c648,acara
+236,"Membuat, memvalidasi, dan mengiterasi user persona, customer journey map, dan value proposition canvas untuk pengembangan produk digital baru yang user-centric #beed70e2-342a-47ce-b043-ed18341110f2",tugas
+237,"Ingatkan untuk segera memproses klaim garansi barang elektronik (TV OLED, Laptop Gaming, Smartphone Flagship) yang mengalami kerusakan atau cacat produksi ke service center resmi dengan membawa kartu garansi dan nota pembelian asli #f1958ffd-7082-4e91-a8ca-43d27bacc2ea",pengingat
+238,Melakukan due diligence (uji tuntas) terhadap target akuisisi atau calon mitra bisnis #f2480f15-4239-484f-bf3f-1bfc9bf5dbce,tugas
+239,"Pemikiran tentang penggunaan 'edge computing' dan 'AI on device' untuk aplikasi yang membutuhkan latensi rendah, privasi data tinggi, dan operasi offline (misal: kendaraan otonom, drone pengintai, perangkat medis pintar) #d7d46089-55f0-40d1-83af-f91db73fea83",ide
+240,Menghadiri pameran buku langka dan antik. #13a1fc81-4ddd-473f-a4f8-5a6f986ff92b,acara
+241,"Beli mesin jahit komputerisasi atau mesin bordir otomatis (Brother Innov-is/Janome Memory Craft) untuk hobi quilting, dressmaking, atau membuat merchandise custom #bff2391d-4e68-473f-ad1b-8131d192f121",belanja
+242,"Melakukan audit internal menyeluruh terhadap kepatuhan SOP Keuangan dan Pelaporan (SAK ETAP/IFRS) periode Q2, termasuk temuan dan rekomendasi #8f215f75-56ba-4eff-8ecd-1ffd6f58063f",tugas
+243,"Turnamen catur cepat, klasik, dan blitz FIDE Rated antar master nasional dan internasional memperebutkan piala Presiden dan hadiah total ratusan juta rupiah #47d153c9-53ac-42ed-9a33-6780a2aa819d",acara
+244,"Perlu produk makeup profesional high-end (foundation serum, concealer full coverage, liquid lipstick transfer-proof, eyeshadow palette highly pigmented) dari brand makeup artist ternama (Pat McGrath Labs, Charlotte Tilbury, Natasha Denona, Dior Backstage) #fda03a45-1635-4505-aa87-5a01d7810f1e",belanja
+245,"Konsep untuk membangun 'personal knowledge management' (PKM) system yang sangat canggih dan terintegrasi (menggunakan Notion, Obsidian, Roam Research, dll.) untuk menangkap, menghubungkan, dan mensintesis semua informasi dan ide yang dipelajari sepanjang hidup, menciptakan 'second brain' digital #ddd31e7d-7c12-4f52-8978-ea994388b946",ide
+246,Berpartisipasi aktif sebagai presenter atau discussant dalam seminar atau diskusi kelompok belajar mingguan/bulanan untuk mata kuliah atau topik penelitian yang kompleks dan mendalam #92a6d219-afef-4d48-8ff6-1335c6899993,tugas
+247,Tugas Akuntan: Menyusun laporan keuangan konsolidasi akhir tahun perusahaan sesuai standar PSAK/IFRS dan melakukan rekonsiliasi akun #bfa407a0-62e3-431e-a9a5-915a19dbd536,tugas
+248,Ide untuk mengembangkan algoritma AI 'adversarial attack resistant' atau 'robust AI' yang dapat bertahan terhadap upaya manipulasi data input atau serangan siber yang bertujuan mengelabui atau merusak model machine learning #8f926ca1-9625-4158-8ed8-e16b763ddcb2,ide
+249,Ingatkan untuk melakukan backup data komputer secara berkala. #e28f875c-bc24-4baf-a3bd-c7471c50f382,pengingat
+250,Beli laptop gaming ultra-portabel dengan CPU Intel Core Ultra 9/AMD Ryzen 9 terbaru dan GPU NVIDIA GeForce RTX 4070/4080 Laptop (ASUS ROG Zephyrus G16/Razer Blade 16) #8f09f632-33b8-4421-b902-84c0747c75d9,belanja
+251,"Beli teleskop astrofotografi Ritchey-Chrétien atau refraktor apochromatic (Takahashi/Tele Vue) dengan mounting equatorial GoTo dan kamera astronomi CMOS cooled untuk observasi dan fotografi deep sky objects (nebula, galaksi) #8b2e52c8-a4ac-45fb-b7dc-fb704fcc14b9",belanja
+252,"Gagasan untuk merencanakan dan melaksanakan perjalanan 'grand tour' modern mengelilingi dunia selama satu tahun atau lebih, mengunjungi situs-situs warisan dunia UNESCO, belajar budaya lokal, dan mendokumentasikan pengalaman melalui berbagai media (tulisan, foto, video, podcast) #62780d08-6bb4-4f39-8e7e-48a890b019ec",ide
+253,Hari ini belajar tentang 'Hanlon's Razor': 'Never attribute to malice that which is adequately explained by stupidity (or incompetence/negligence).' Pengingat untuk tidak cepat berburuk sangka. #6ff10478-6a0b-4f7f-bfc4-da962c02f2c1,lainnya
+254,Gagasan untuk mengembangkan 'AI-powered fact-checking tool' atau 'disinformation detection service' yang dapat diintegrasikan ke platform media sosial atau browser untuk membantu masyarakat mengidentifikasi berita palsu secara real-time #2554abcc-108e-436a-89c1-88574bc16df3,ide
+255,Cari setelan jas bespoke atau made-to-measure (MTM) dari penjahit Savile Row atau Neapolitan dengan bahan wol super 150s atau kasmir Loro Piana/Zegna #0e0ced90-3178-4b1c-9885-7d87083e10c2,belanja
+256,"Beli NAS (Network Attached Storage) Synology DiskStation DS923+ atau QNAP TS-464 dengan konfigurasi RAID untuk backup data terpusat, media server, dan private cloud storage keluarga atau kantor kecil #ef8d1edd-e01e-4788-8742-7cf740d1785c",belanja
+257,Catatan singkat tentang pembicaraan telepon penting tadi. #5a403133-e8a5-45be-9afd-47e646859181,lainnya
+258,"Beli 3D printer FDM atau Resin (Creality K1 Max/Elegoo Saturn 3 Ultra) untuk prototyping cepat, membuat model custom, atau hobi fabrikasi digital #51f2fdbc-06ee-4956-8ed5-9d304aa2736f",belanja
+259,Sebuah observasi menarik tentang perilaku manusia di ruang publik: kecenderungan untuk menghindari kontak mata atau justru mencari validasi dari orang asing. Fenomena psikologi sosial yang menarik. #c9406097-b5bf-41dc-8b3a-ee9f6688c730,lainnya
+260,"Mengikuti pelatihan bahasa asing online (Inggris aksen British/American, Mandarin HSK, Korea TOPIK, Jepang JLPT, Arab Fusha) dengan metode blended learning, tutor native, dan komunitas belajar global #5a9e3fde-51f2-41fd-80f2-ffb883b78467",acara
+261,"Gagasan untuk membentuk 'data collaborative' atau 'data trust' untuk isu-isu sosial, di mana berbagai pihak (pemerintah, swasta, LSM, akademisi) dapat berbagi dan menganalisis data secara aman dan etis untuk menghasilkan insight dan solusi berbasis bukti #4c3c58ef-3f65-4122-94ca-f712f05b7a01",ide
+262,"Ide untuk sistem 'AI-powered traffic signal control' yang adaptif dan terdesentralisasi, menggunakan data real-time dari kamera CCTV, sensor kendaraan, dan GPS untuk mengoptimalkan arus lalu lintas dan mengurangi kemacetan secara dinamis di persimpangan kompleks #5d66abc3-92e2-47e2-b10c-b4189b4e65e0",ide
+263,"Ingatkan untuk janji temu dengan arsitek atau desainer interior membahas progres desain rumah atau renovasi apartemen, [Hari, Tanggal, Jam] #d9b69e1b-a685-4aa4-bee8-eac87a586117",pengingat
+264,Menganalisis data keuangan untuk mengidentifikasi area penghematan biaya. #e80d6a27-7bc2-4234-b34a-b9d9cdca6912,tugas
+265,Cari pakaian formal untuk acara penting. #472ba951-4594-4f43-9cb9-38e618c19612,belanja
+266,Table top exercise (TTX) atau 'war game simulation' untuk menguji kesiapan dan respons perusahaan dalam menghadapi skenario krisis siber kompleks atau disrupsi pasar masif #9213ff0a-02a1-46be-b89a-6d4f87fabbcd,acara
+267,"Alamat toko bahan kue atau bumbu masak impor langganan: [Nama Toko], [Lokasi/Link Online Store] #440fcc51-95eb-43bc-b059-2ef161fd53ed",lainnya
+268,"Riwayat vaksinasi lengkap (termasuk vaksin tambahan seperti Tifoid, Japanese Encephalitis, Meningitis jika sering bepergian ke daerah endemik) #b057d7b9-e2ad-4068-99f8-b877c415e0dd",lainnya
+269,"Cari tahu sutra Jepang, tempe bungkus daun jati organik, oncom Bandung segar, dan tauco Cianjur berkualitas di pasar tradisional pagi hari atau toko bahan makanan Asia #3bd5ecdc-ce73-4f6e-b30c-8e66a3edaeed",belanja
+270,Konsep aplikasi untuk memfasilitasi pertukaran buku antar pengguna. #a23024af-9aa9-4c34-b481-6b5140368f46,ide
+271,Beli seragam sekolah dan buku pelajaran baru. #b7d4639b-4e10-4eb1-bd12-6d9f33c79bca,belanja
+272,Konferensi pers gabungan (joint press conference) dengan regulator dan asosiasi industri mengenai klarifikasi isu krusial atau peluncuran kebijakan baru yang berdampak luas pada sektor tertentu #11ccd32e-8f9d-4675-b1b7-61c04869197c,acara
+273,Menulis spesifikasi teknis detail untuk pengembangan fitur. #98d26199-50ed-4d7d-9d31-70e4a5257ef0,tugas
+274,Pesan tiket konser musik band idola. #8f024ef1-99aa-421b-93c5-c9da382199f5,belanja
+275,"Jangan lupa untuk sarapan sehat dan bergizi seimbang (protein, serat, karbohidrat kompleks, lemak sehat) setiap pagi dalam waktu 1-2 jam setelah bangun tidur untuk memulai metabolisme dan menjaga energi sepanjang hari #cb05d854-58e1-4032-ab05-d459f6ef9ed6",pengingat
+276,Tugas Nelayan: Mempersiapkan jaring dan kapal untuk melaut mencari ikan tuna di perairan dalam Samudera Hindia #9a50ee65-bc50-46f7-bc1e-436364ce3afe,tugas
+277,Beli dompet atau card holder kulit minimalis dengan RFID blocking technology untuk keamanan kartu kredit dan identitas #bd543628-0410-40f8-a234-ac752c7a34c7,belanja
+278,"Set reminder untuk pertemuan orang tua murid dan guru (wali kelas) serta kepala sekolah membahas evaluasi program sekolah, kurikulum baru, dan kegiatan ekstrakurikuler anak di aula [Nama Sekolah], [Hari, Tanggal, Jam] #1dc6100c-8b08-45f7-bf71-9f9f0ddf6242",pengingat
+279,"Ingatkan untuk minum air putih murni (bukan teh atau kopi) yang cukup (minimal 8-10 gelas atau 2-2.5 liter, disesuaikan dengan berat badan dan aktivitas) sepanjang hari, dengan botol minum sebagai pengingat visual #f697fcce-ee5b-4020-9f69-04d622c02db3",pengingat
+280,Catatan ide untuk dekorasi rumah musiman. #aa46149b-cc9d-4bdb-9b5f-778375993944,lainnya
+281,"Merencanakan dan melaksanakan program 'deep decluttering' rumah selama sebulan, menyortir barang berdasarkan kategori (pakaian, buku, perabot, dll.) dan mendonasikan/menjual yang tidak terpakai #f2fad4da-3f42-4112-ade2-2b65d686db00",tugas
+282,Mengelola program inovasi internal (intrapreneurship) untuk mendorong budaya kreativitas dan eksperimentasi di perusahaan #70bdd927-0a41-4847-ab64-593b8de926ea,tugas
+283,"Pikiran acak nan filosofis: Jika waktu adalah dimensi keempat, apakah kita bisa 'bergerak' di dalamnya seperti kita bergerak di ruang tiga dimensi? Implikasi terhadap konsep kehendak bebas. #541a8c3a-0334-45aa-b3c9-65b5a5d5db0e",lainnya
+284,"Beli benih bunga anggrek Phalaenopsis langka hibrida Taiwan atau tanaman karnivora eksotis (Nepenthes Attenboroughii, Dionaea Muscipula 'Akai Ryu') dari nursery spesialis online dengan sertifikat CITES jika perlu #87e8e4d6-b7d8-432d-87f9-7df0ec6982fb",belanja
+285,Meninjau ulang proposal kerjasama dengan vendor. #51a718f8-7572-43a1-9cd9-9ce4fa0c6fd9,tugas
+286,Pemikiran untuk aplikasi penerjemah bahasa isyarat ke teks secara real-time. #6508ee04-2922-4418-88aa-47fc3383e0d4,ide
+287,Membuat laporan analisis kompetitif detail untuk produk unggulan. #5bbc1640-e689-4422-a7fa-1c9d99132c5a,tugas
+288,"Jangan lupa jadwal interview kerja tahap akhir (panel interview atau presentasi studi kasus) dengan Direksi dan Head of Department di perusahaan [Nama Perusahaan Multinasional] untuk posisi [Nama Posisi], [Hari, Tanggal, Jam] #011e9f67-93ce-46c7-af29-e8267d8e314a",pengingat
+289,"Konsep pameran seni interaktif 'bio-art' yang menggunakan organisme hidup (bakteri, jamur, tanaman) sebagai medium untuk mengeksplorasi hubungan antara manusia, teknologi, dan alam #66f59d57-9c37-4d12-8837-0d0dec744ed3",ide
+290,"Ide untuk menciptakan 'haptic feedback suit' atau 'full-body VR immersion' system yang memberikan sensasi sentuhan, tekstur, dan suhu realistis untuk pengalaman virtual reality atau metaverse yang lebih mendalam dan meyakinkan #0e24bf00-e4c1-4d14-8c39-5c144fe946a0",ide
+291,Motto pribadi: 'Terus belajar dan bertumbuh setiap hari.' #8d0c17be-b476-47bf-914f-916326af5dd4,lainnya
+292,Pesan kopi spesialti dari roastery lokal. #1c03bd07-0635-4bc0-844b-c4faa2c73a51,belanja
+293,Jangan lupa untuk konfirmasi jadwal pertemuan dengan klien besok. #fab313d6-869e-4302-9a4a-993443742996,pengingat
+294,Berpartisipasi dalam program 'clean-up' lingkungan. #e7b16919-37bc-41a2-add6-01b93ff2c1d4,acara
+295,Tugas Arsitek: Merancang konsep fasad bangunan perkantoran modern dengan prinsip green building dan efisiensi energi #fa387ed1-3293-4de1-982b-72702ca1e3c6,tugas
+296,Pemikiran untuk program pelatihan public speaking untuk mahasiswa. #ad0c5cf4-11ba-49aa-a2ab-40992c0c4911,ide
+297,Mengikuti 'virtual summit' atau 'online leadership forum' yang menghadirkan puluhan pembicara inspiratif dari berbagai bidang selama beberapa hari #d76db3c0-7379-4b41-8af3-cdb9a97e20e8,acara
+298,"Jangan lupa untuk memberikan apresiasi, pujian spesifik, atau 'shout-out' secara publik (misal: dalam rapat tim) atau privat kepada rekan kerja atau bawahan yang telah menunjukkan kinerja luar biasa, membantu, atau mencapai target penting #2d21d17c-f2af-4acf-8041-e9f3d2976e5a",pengingat
+299,"Beli jam tangan automatic Swiss made COSC certified (Omega Seamaster Planet Ocean/Rolex GMT-Master II/Patek Philippe Calatrava) atau independent watchmaker (F.P. Journe, H. Moser & Cie.) sebagai investasi, warisan, dan fashion statement abadi #4649f3f9-26bf-4dcd-b081-2c25d75d45c8",belanja
+300,Ingatkan untuk melakukan tes emisi gas buang kendaraan bermotor (mobil dan motor) di bengkel uji emisi resmi setiap tahun (atau sesuai peraturan daerah) untuk menjaga kualitas udara dan kepatuhan regulasi #fcdcc48b-4ff7-49b3-a511-9e6b3dd5b6d5,pengingat
+301,"Perlu filter air minum RO (Reverse Osmosis) baru (set cartridge sedimen, karbon aktif, membran RO) untuk keran dapur merek PureIt Ultima RO atau Coway Neo Plus agar air minum lebih murni dan aman dikonsumsi keluarga #d87241b8-1b12-4490-8953-83fe6fc5a418",belanja
+302,Cari model kit Gundam Perfect Grade Unleashed atau kapal perang super-detail skala 1/200 dari Tamiya/Trumpeter dengan photo-etched parts dan aksesoris aftermarket untuk dirakit dan dicat secara profesional #3b38ed51-4dc8-42a3-8103-d2176afa99cd,belanja
+303,"Cari smart glasses (Ray-Ban Meta Smart Glasses/Amazon Echo Frames) untuk notifikasi hands-free, musik, dan panggilan telepon tanpa harus mengeluarkan ponsel #494dbf43-fcd0-409b-88df-4d53d183a181",belanja
+304,"Mengoptimalkan performa multi-channel digital marketing campaign (Google Ads, Facebook Ads, SEO, Email Marketing) berdasarkan analisis data CPA, ROAS, LTV, dan attribution modeling #d2fdbd4a-5dd6-48d6-aa8c-6f4461f51b6f",tugas
+305,Melakukan uji coba fungsionalitas software baru. #6acc2e80-d3fc-433a-9a2d-8c99d1d228c3,tugas
+306,Mendevelop script otomatisasi untuk tugas-tugas repetitif. #6750a9e2-53b0-4def-95e4-007e59b2026b,tugas
+307,Konsep untuk toko online yang menjual produk daur ulang kreatif. #54f329bd-a739-4b08-8c92-dd6fee195ed1,ide
+308,Acara 'Global Town Hall Meeting' atau 'All Hands Meeting' dengan seluruh karyawan dari berbagai negara (jika perusahaan multinasional) melalui platform virtual dan fisik hybrid #0773494a-ac30-4ded-ab2b-5efe38636fed,acara
+309,Nomor keanggotaan klub buku online: BOOKCLUB-ID-456 #00a3e9c6-a5bb-485f-810a-430b0213a113,lainnya
+310,"Webinar series atau 'bootcamp' intensif tentang investasi saham global, cryptocurrency trading, atau real estate crowdfunding untuk pemula hingga mahir bersama pakar keuangan independen dan praktisi pasar modal #bab3196f-bef9-49c9-839d-aafcb2650d35",acara
+311,Peluncuran Indeks Saham baru atau produk derivatif di Bursa Efek Indonesia (BEI) #5f459e2b-1b88-41e0-ac15-86d4b9d23925,acara
+312,"Investasi pada sistem audio multi-room high-fidelity (Sonos Arc/Era 300, Bluesound Node) atau soundbar Dolby Atmos premium (Sennheiser Ambeo, Sony HT-A9) untuk pengalaman home entertainment yang menyeluruh #eeaa3429-7819-4c80-b9b5-565e6eac9418",belanja
+313,Ingatkan untuk mengambil paket kiriman di kantor pos atau agen. #3155bde8-ce3c-4624-9249-51975da87721,pengingat
+314,Setel alarm untuk sesi belajar bahasa asing harian. #354a362e-03b3-484a-9667-4349ef7fc6b2,pengingat
+315,Jadwal rutin pembersihan rumah: Setiap hari Sabtu pagi. #8f8d4d8c-e5f8-4e98-8ba2-578560403623,lainnya
+316,"Daftar museum sains atau sejarah alam di seluruh dunia yang wajib dikunjungi: Deutsches Museum (Munich), Natural History Museum (London), Field Museum (Chicago), National Air and Space Museum (Washington D.C.) #9d56d867-5cc1-4025-b4b3-345cb9189f9d",lainnya
+317,"Mempelajari bahasa pemrograman baru yang esensial untuk riset (misal: Julia untuk komputasi ilmiah, Swift untuk pengembangan aplikasi iOS, Rust untuk sistem berperforma tinggi) melalui dokumentasi resmi dan proyek mandiri #b05fb989-0476-48b3-aee9-a32166432424",tugas
+318,"Jangan lupa mengucapkan selamat ulang tahun, hari jadi pernikahan, kelulusan, promosi jabatan, atau perayaan penting lainnya kepada teman, kerabat, dan kolega kerja secara personal (bukan hanya template) melalui pesan, telepon, atau kado kecil #8fecd085-f1a6-47cb-b6e7-64622adb4469",pengingat
+319,Gagasan untuk proyek 'reforestation' atau 'rewilding' skala besar di lahan kritis atau bekas tambang menggunakan metode penanaman pohon endemik yang partisipatif dan sistem monitoring berbasis drone atau satelit untuk memastikan keberhasilan jangka panjang #f4616f69-8f9a-4b04-8be6-cb6af90d092a,ide
+320,"Kode promo langganan [Nama Layanan Streaming Khusus, misal: 'MUBI untuk film arthouse', 'CuriosityStream untuk dokumenter']: DISKONPERDANA30 (cek masa berlaku dan S&K) #a9102ff3-2182-43ba-9450-745feb9f5fb3",lainnya
+321,"Memastikan kepatuhan (compliance) terhadap seluruh regulasi industri yang berlaku (misal: GDPR, CCPA, HIPAA, PCI-DSS, OJK, ISO 27001, ISO 9001) #383f93e1-6cda-4f0d-a7de-dc2014e70ede",tugas
+322,"Bayar SPP (tuition fee) anak sekolah internasional atau biaya kuliah S2/S3 di luar negeri, termasuk biaya hidup dan akomodasi #066f5cdd-1e71-4949-a833-fb19f4c49f7f",belanja
+323,Merancang arsitektur database untuk sistem informasi baru. #74f0f71e-4297-4efb-9efc-f1b5856fbe5f,tugas
+324,Membuat prototipe awal untuk aplikasi mobile baru. #6c36a315-7730-4708-9cd8-7a93a5b862ae,tugas
+325,"Menghadiri peluncuran produk kosmetik vegan, fashion berkelanjutan, atau gadget ramah lingkungan terbaru secara virtual melalui Instagram Live, TikTok Live, atau platform e-commerce interaktif oleh beauty vlogger, fashion influencer, atau tech reviewer #9c675c65-7430-4c0c-8594-9b3a5906feb7",acara
+326,"Pengingat untuk menyelesaikan, mereview, dan mengirimkan laporan proyek strategis mingguan/bulanan/kuartalan (termasuk dashboard performa dan analisis varians) kepada atasan, klien, atau steering committee paling lambat [Hari, Jam Sebelum EOB] #d176c6bd-3e58-496a-974a-fb5d0c1eb701",pengingat
+327,Mengelola dan memperbarui dokumentasi proyek secara berkala. #02559577-fe31-46b1-b1ce-55f0df97f774,tugas
+328,"Merencanakan renovasi total dapur dan kamar mandi dengan konsep 'modern minimalist Scandinavian', termasuk membuat mood board, mencari inspirasi desain di Pinterest, dan mendapatkan beberapa quotation dari kontraktor terpercaya #bdcaebef-949f-4090-bda8-7e6069416bc2",tugas
+329,Upacara 'Ngaben' (kremasi) massal di Bali yang merupakan ritual sakral dan atraksi budaya unik #b7825dcd-6af0-4b66-819c-03e88998b896,acara
+330,"Daftar kontak darurat kantor: Security (ext. 111), Tim Medis Internal (ext. 222), Building Management (ext. 333) #c9be6e95-7da4-45ab-843f-eb88d1cb4762",lainnya
+331,"Kontak dokter spesialis langganan (misal: Kardiolog Dr. X, Sp.JP(K); Endokrinolog Dr. Y, Sp.PD-KEMD; Pulmonolog Dr. Z, Sp.P(K)) - [Nomor Telepon/Klinik Praktik dan Jadwal] #09c493f0-2d90-4311-8eba-5e6dcd9c4356",lainnya
+332,"Membuat notulen rapat tim internal yang ringkas namun komprehensif, mencatat keputusan kunci dan action items beserta PIC dan deadline #90da4a54-e866-4c9d-b412-1db9b6e223f3",tugas
+333,"Ide untuk membuat kursus online komprehensif atau 'mastermind group' tentang 'filosofi hidup Stoikisme praktis di era modern' atau 'mencapai kebebasan finansial melalui investasi FIRE (Financial Independence, Retire Early)' berdasarkan pengalaman pribadi dan riset mendalam #51625b1d-3d88-45e4-8cb1-6f27379c91b1",ide
+334,Ingatkan untuk menghadiri rapat RT/RW malam ini. #540355b2-c412-47c0-bfb8-d67653054755,pengingat
+335,"Lomba panjat pinang massal, balap karung estafet, tarik tambang antar kampung, dan berbagai permainan rakyat tradisional lainnya dalam rangka perayaan Agustusan yang meriah dan guyub #f65c9254-78ac-4762-9567-531fadf18a2d",acara
+336,Ingatkan untuk mengambil cucian di laundry sore ini. #3ae28dca-7f75-415a-8340-e915853fc754,pengingat
+337,Mengikuti seminar tentang investasi properti. #f6b16461-5fcb-4fba-bc7d-9be5f5b2153f,acara
+338,"Pameran fotografi jurnalistik pemenang World Press Photo atau Anugerah Pewarta Foto Indonesia (APFI) tentang isu-isu sosial, lingkungan, dan kemanusiaan global terkini #e5093094-48ca-4cc4-8b9e-79b2bb0edd25",acara
+339,Menyusun materi presentasi untuk konferensi industri. #99ba3423-8bfb-4e66-9ed7-d690edd51fa4,tugas
+340,Pengingat untuk mendaftar seminar online tentang pengembangan karir. #7a91dace-ed34-45dd-8c8d-7a339331d7d7,pengingat
+341,"Mengikuti program 'Visiting Scholar' atau 'Postdoctoral Fellowship' intensif di universitas terkemuka di luar negeri (misal: MIT, Oxford, Stanford) dalam bidang spesialisasi neurosains komputasional atau fisika kuantum #c8203c85-4c85-4753-838c-d9603909e63f",tugas
+342,"Melakukan capacity planning untuk sumber daya IT (server, storage, network) dan sumber daya manusia (SDM) berdasarkan proyeksi pertumbuhan bisnis #2ddc61f3-bb70-4949-8ec4-358ee9a8eaf1",tugas
+343,Ide untuk asisten virtual AI yang membantu mengatur jadwal harian. #96442a2a-2ac8-47ac-90aa-bc6a09937e9c,ide
+344,"Beli aneka macam keju artisan impor (brie, camembert, gouda, emmental, roquefort, gorgonzola) dan keju lokal berkualitas (cheddar natural, mozzarella segar) untuk stok di kulkas dan papan keju (cheese board) #0d18a7d6-56f7-427d-9f06-5c20579175ab",belanja
+345,Membuat rencana kontingensi untuk risiko proyek. #f8ff1b8b-2923-47e9-8815-b29d9e558051,tugas
+346,Mengembangkan dan meluncurkan platform e-learning interaktif global dengan gamifikasi untuk onboarding dan upskilling karyawan di 5 negara #e9808a4f-7946-4f4b-9062-c0ab0432e87a,tugas
+347,"Nomor identitas pelanggan PLN Pascabayar: XXXXXXXXXXXX, Nomor meteran air PDAM: YYYYYYYYYYYY #9e7ab1c8-88b3-4fd0-8d1e-95ac3c1d2e23",lainnya
+348,Ide untuk layanan 'meal prep' mingguan untuk profesional sibuk. #97256fe6-47cb-4105-ac5e-218add246142,ide
+349,"Jangan lupa bayar cicilan KPR rumah, KPA apartemen, KKB mobil, dan pinjaman pendidikan (student loan) dari berbagai bank (BCA, Mandiri, CIMB Niaga) sebelum tanggal jatuh tempo masing-masing (biasanya tanggal 5, 15, 25 setiap bulan) #68ed697f-7b57-4350-87c6-712d6be13e61",pengingat
+350,"Lisensi software open source yang digunakan dalam proyek: GNU GPLv3, Apache License 2.0, MIT License #ec548107-c84e-4c8a-a6ff-85c6fd6a8c17",lainnya
+351,Catatan singkat tentang ide pengembangan diri: 'Mengikuti kursus public speaking'. #c244c957-a540-4320-8609-88ecf1ffc28a,lainnya
+352,"Pengingat untuk janji temu dengan konsultan pajak pribadi (Registered Tax Consultant) mengenai perencanaan pajak akhir tahun, optimalisasi tax deduction, dan pelaporan SPT Tahunan PPh Orang Pribadi secara e-filing #ebc2faa6-0fe5-4b39-9fa0-254c9b59374b",pengingat
+353,"Membersihkan, merapikan, dan mengorganisir file-file di hard disk komputer, laptop, dan semua layanan cloud storage (Google Drive, Dropbox, OneDrive), termasuk menghapus duplikasi dan file sampah #6316a77b-0496-4f72-ac5e-9c100d67a480",tugas
+354,Cari furnitur baru untuk mendekorasi ulang ruang tamu. #415d9f0b-5ee5-4161-8c51-3a8dffd7fe8f,belanja
+355,"Cari tas kulit asli full-grain (tas tangan wanita, tas kerja pria, tas travel duffel) dari desainer artisan lokal atau brand warisan internasional ternama (Hermès, Chanel, Loewe, Mulberry) #ecdee5c6-fa70-42e6-91ce-49bb16f1d605",belanja
+356,"Ingatkan untuk konfirmasi ulang reservasi restoran fine dining Michelin Star untuk perayaan ulang tahun pernikahan atau makan malam romantis dengan pasangan, H-3 sebelum acara #5bc80d4c-b066-4bbc-8ce7-bb066e3d6468",pengingat
+357,"Ide untuk aplikasi 'AI-powered travel itinerary planner' yang membuat rencana perjalanan personalisasi berdasarkan preferensi pengguna, anggaran, waktu, dan data real-time (cuaca, keramaian, acara lokal) #c880d79e-120a-4c0f-afd1-d8b298ec9991",ide
+358,Cari kado ulang tahun untuk anggota keluarga. #84d75e27-e3ee-425c-94df-0c163ff3bb29,belanja
+359,Beli sepatu boots hiking technical waterproof Gore-Tex dengan sol Vibram Megagrip merek La Sportiva Trango Tech GTX atau Scarpa Ribelle HD untuk pendakian gunung medan berat dan ekspedisi alpine #894d1bd2-f836-448e-a186-702bbc6aca42,belanja
+360,Mempersiapkan dan mempresentasikan hasil penelitian dalam bentuk poster ilmiah di konferensi internasional IEEE/ACM di bidang ilmu komputer atau teknik elektro #95814985-5646-4caf-bb5f-d9fec8817002,tugas
+361,Mengoptimalkan proses rekrutmen untuk efisiensi. #6dbe2cf7-689d-441d-9e40-978c7fb6bdbf,tugas
+362,"Daftar akun Instagram/Pinterest inspiratif tentang arsitektur brutalist, desain interior Japandi, atau fotografi jalanan hitam putih (street photography) #7efb5bc2-9e50-4526-a6ef-bb07b0841d65",lainnya
+363,Berpartisipasi dalam kegiatan bakti sosial membersihkan pantai. #439840bd-4a71-4e35-aa78-5be2f0a42f36,acara
+364,"Ingatkan untuk selalu sadar (mindful) dan perbaiki postur tubuh (punggung tegak, bahu rileks, layar sejajar mata) saat duduk bekerja, berdiri mengantri, atau berjalan kaki untuk mencegah nyeri punggung kronis dan masalah muskuloskeletal lainnya #9f075a58-9df5-4341-a07b-54e8261ba631",pengingat
+365,"Gagasan untuk menulis 'magnum opus' atau karya sastra (novel, epik puisi) yang monumental dan membutuhkan riset bertahun-tahun, mengeksplorasi tema-tema universal tentang kondisi manusia, sejarah, atau mitologi dengan gaya bahasa yang unik dan inovatif #291530ef-89b3-4c1c-a43d-536f36cef1e9",ide
+366,Konsep platform untuk menghubungkan relawan dengan organisasi non-profit. #763f3c46-733d-4bad-9062-b793e45a8165,ide
+367,Buka rekening deposito valas (USD/EUR/SGD) atau tabungan emas digital di bank syariah atau platform fintech terpercaya sebagai lindung nilai terhadap inflasi #46f966ee-09ad-4ac5-a11f-4205a736dfe7,belanja
+368,Menyusun materi pelatihan untuk penggunaan software internal baru. #a27654a8-ea73-47a2-9f8c-d2e2c0815ea8,tugas
+369,Setel pengingat untuk jadwal mengantar anak ke kegiatan ekstrakurikuler. #c621f814-6048-4883-913d-6db508e6f929,pengingat
+370,"Reminder untuk memberikan testimoni atau ulasan positif yang detail dan konstruktif di Google Maps, TripAdvisor, atau platform review lainnya untuk produk, layanan, atau tempat yang benar-benar memuaskan dan layak direkomendasikan #31e7343a-7366-4bd2-bbd2-08f73f52853a",pengingat
+371,"Pesan layanan 'full day spa package' (massage, body scrub, facial, mani-pedi) atau perawatan estetik non-invasif (laser rejuvenation, micro-needling) di klinik kecantikan atau day spa ternama #08e8ac75-484c-426d-b027-5bc4733f0716",belanja
+372,"Membuat jadwal piket kebersihan mingguan yang adil dan detail untuk seluruh anggota keluarga di rumah, mencakup semua area dan jenis pekerjaan #8b95c24e-fbfe-4f41-a5ae-9b57a594a1b5",tugas
+373,Mengajukan paten atau hak cipta atas inovasi atau karya intelektual yang dihasilkan dari penelitian #60810526-327b-4c0e-b5ea-248404c7ae8f,tugas
+374,"Liburan impian bersama keluarga ke destinasi internasional (misal: Disneyland Tokyo/Paris, Swiss Alps, New Zealand) atau melakukan perjalanan ibadah Umroh/Haji bersama #61c84144-716c-4793-a731-825a5c77477a",acara
+375,Menyelesaikan modul kursus online tentang manajemen proyek. #e053d3d4-55b6-40aa-914a-7f8cc7a7658a,tugas
+376,Ide untuk kampanye kesadaran tentang kesehatan mental di media sosial. #189af74f-8721-40b4-96cd-c73960a9ab56,ide
+377,Nomor identifikasi anggota gym: GYM-MEMBER-00123. #3939b044-8413-4cc1-9a94-77c16b89ce1f,lainnya
+378,"Konsep 'personalized medicine platform' yang mengintegrasikan data genomik, rekam medis elektronik, dan data wearable device untuk memberikan rekomendasi pengobatan dan gaya hidup yang presisi bagi pasien penyakit kronis #6922b7c1-dd6b-49e4-aa90-348b76103c34",ide
+379,Set reminder untuk perpanjang keanggotaan perpustakaan nasional RI atau British Library (jika anggota) agar tetap bisa mengakses koleksi digital dan fisik serta fasilitas penelitian #a3a11e9f-4bdb-4707-ad4d-db57ab6628fe,pengingat
+380,Ide untuk grup dukungan online bagi orang tua tunggal. #01fd808a-8a52-46ea-bbb5-e0df865e0847,ide
+381,"Mengikuti 'live auction' online untuk barang seni, koleksi antik, atau properti mewah dari balai lelang internasional seperti Sotheby's atau Christie's #5d15d175-b4f4-4ab5-b73b-8d281febd384",acara
+382,"Peringatan Hari Kartini dengan seminar nasional pemberdayaan perempuan di era digital, workshop kewirausahaan, dan fashion show kebaya kontemporer karya desainer muda berbakat #d8bab692-6c6c-413c-9692-1112b922fcc1",acara
+383,Beli peralatan melukis lengkap untuk memulai hobi baru. #eea78371-c44d-442f-bc9e-d0f433ab4be2,belanja
+384,"Menyusun, menguji, dan memperbarui skenario disaster recovery plan (DRP) dan business continuity plan (BCP) untuk seluruh layanan kritikal perusahaan #7bbb52e3-cd0f-49ab-90fb-17d209871fa8",tugas
+385,"Koleksi piringan hitam (vinyl) dari genre musik elektronik eksperimental, jazz fusion progresif, atau musik tradisional dunia (world music) yang langka #e6ce852d-d238-48cc-9754-60767c167572",lainnya
+386,"Pemikiran tentang platform 'creator economy enabler' yang menyediakan alat (tools), pendanaan (funding), dan komunitas (community) untuk membantu content creator memonetisasi karya mereka secara berkelanjutan (misal: melalui langganan, NFT, merchandise) #0daaf9b0-aac7-452c-b897-c6fec0f25113",ide
+387,Pemikiran untuk mengembangkan alat bantu belajar bahasa isyarat berbasis AI. #7f27708c-681d-4358-a84a-f31f3df22b6a,ide
+388,"Acara 'Corporate Innovation Day' atau 'Internal Startup Pitch Competition' untuk menjaring, menyeleksi, dan mendanai ide-ide inovatif disruptif dari karyawan lintas departemen #6ea5c2d3-5cbc-4757-ae7b-9b2a595f5898",acara
+389,Ide untuk membangun 'longevity clinic' atau 'anti-aging center' yang menawarkan layanan medis dan gaya hidup berbasis sains untuk memperpanjang rentang hidup sehat (healthspan) dan mencegah penyakit terkait usia #c362960a-050a-40b9-a35f-34beb579893d,ide
+390,"Pemikiran tentang solusi 'AI-powered predictive maintenance' untuk armada kendaraan komersial atau mesin industri, yang menganalisis data sensor IoT untuk memprediksi kegagalan komponen dan menjadwalkan perawatan proaktif #4b552d97-f94c-4dd1-8e50-e2786fed52a4",ide
+391,Musyawarah Adat atau 'Rembug Desa' untuk pengambilan keputusan penting terkait tanah ulayat atau norma adat setempat #9be998f9-e8dd-44ee-b9b9-c81145125f20,acara
+392,Pengingat untuk memesan tiket kereta api atau pesawat untuk perjalanan mudik Lebaran atau liburan Natal/Tahun Baru jauh-jauh hari (H-90 atau H-60) untuk mendapatkan harga terbaik dan ketersediaan kursi #5ebc53c4-c28f-4fdf-9e9a-d907ffc16241,pengingat
+393,"Ingatkan untuk menelepon atau melakukan video call dengan orang tua, kakek-nenek, atau anggota keluarga jauh di kampung halaman minimal seminggu sekali untuk menanyakan kabar, berbagi cerita, dan menjaga silaturahmi #39eb4b24-d6a7-4dd6-98a8-46f6e513eecf",pengingat
+394,Pikiran acak: 'Bagaimana jika...?' #d191c8a0-a35d-4ae7-abfb-568e5b12c2f8,lainnya
+395,"Stok kacang-kacangan mentah (almond, walnut, cashew, pistachio, macadamia) dan biji-bijian (sunflower seeds, pumpkin seeds, flaxseeds) untuk camilan sehat atau topping oatmeal #9dc4f24e-1f15-4930-bbd2-3d1323bf95e3",belanja
+396,"Perlu gula aren organik, gula kelapa, atau stevia cair sebagai alternatif pemanis yang lebih sehat #35d453b3-7b9b-4bfb-854d-72a145d53c9b",belanja
+397,Menyelesaikan laporan keuangan bulanan sebelum tenggat waktu. #928abff9-e691-4f95-93e7-36546a3415e3,tugas
+398,Tugas Penerjemah: Menerjemahkan novel sastra klasik dari Bahasa Prancis ke Bahasa Indonesia dengan mempertahankan nuansa dan gaya bahasa asli #1c5a431a-4145-4582-9140-05399c7cea16,tugas
+399,"Perlu docking station USB-C/Thunderbolt 4 universal (CalDigit TS4/OWC Thunderbolt Dock) dengan banyak port (HDMI 2.1, DisplayPort 1.4, Ethernet 10Gb, SD card reader) untuk setup workstation laptop yang powerful dan rapi #da218e20-cbdf-4852-8212-a09ac5dbff64",belanja
+400,Menyusun proposal untuk mendapatkan pendanaan proyek sosial perusahaan. #b9a79f0e-62fa-43cd-8d61-81c610110b57,tugas
+401,Nomor seri smartphone cadangan: SN-PHONE-ABC #b72f89dd-8364-4b0f-b24f-6b3f60dfe614,lainnya
+402,Ingatkan untuk memeriksa stok obat-obatan P3K di rumah. #6bb4a4c3-4ca8-4d1e-994d-10f1147dcafb,pengingat
+403,"Self-affirmation yang lebih spesifik hari ini: Saya memiliki kemampuan untuk belajar dari kesalahan dan tumbuh menjadi versi diri yang lebih baik, lebih bijaksana, dan lebih berbelas kasih. #7f5abbdd-e3e5-44d2-9e7b-be3183845cfd",lainnya
+404,"Pesan bahan baku langka atau sulit ditemukan untuk hobi memasak gourmet atau mixology (truffle oil, saffron, yuzu, aneka bitters) #4f72743d-8175-46cc-97ad-5fe55f7ca794",belanja
+405,Beli produk perawatan kulit alami. #c9a8e80f-3a16-49b7-bacf-689e71fd085e,belanja
+406,"Set reminder untuk mengikuti webinar internasional atau masterclass eksklusif tentang [Topik Spesifik: Misal, 'The Future of Generative AI in Creative Industries'] oleh [Nama Pembicara Terkenal/Institusi Bergengsi] #384f6466-c5f2-4002-b850-7f8f320f1179",pengingat
+407,"Melakukan presentasi progres dan justifikasi investasi proyek kepada steering committee, C-level executives, dan stakeholder kunci lainnya secara periodik #3117578e-23f6-47c2-a8f5-370806dd6e48",tugas
+408,Set reminder untuk minum obat sesuai jadwal. #c6519497-8d0f-4b22-98ce-4ed0501fe39e,pengingat
+409,"Pengingat untuk jadwal presentasi proposal proyek strategis atau hasil riset penting di hadapan C-level executives, investor, atau panelis konferensi internasional, [Hari, Tanggal, Jam, Tempat/Platform Virtual] #375f0224-4abe-4b09-8d28-7ba747bcf78a",pengingat
+410,Gagasan untuk aplikasi mobile yang menyediakan panduan yoga untuk pemula. #99509f6f-3494-4f0e-bf79-35b6c8c78a79,ide
+411,Tugas Petani: Melakukan pemupukan berimbang dan pengendalian hama terpadu pada tanaman padi sawah irigasi #9c4a2bba-9807-43a4-ab2a-9b033b7a3124,tugas
+412,Partisipasi dalam acara 'community gardening'. #b3f07c33-0448-4f0e-b66c-4bef215a5b63,acara
+413,Partisipasi dalam acara peluncuran buku terbaru penulis favorit. #24e62e06-0e0d-4ee5-b70f-52dec4c3f2ed,acara
+414,"Melakukan entri data transaksi penjualan, pembelian, dan biaya harian ke dalam sistem akuntansi (MYOB, Xero, Accurate) dengan teliti #3a66c5e5-f354-46aa-8601-fb7c83abb92b",tugas
+415,Pemikiran untuk seri animasi edukatif tentang sains untuk anak-anak prasekolah. #7c8baee5-7e18-4a2a-bba4-071d5049c7ee,ide
+416,"Pemikiran untuk melakukan 'radical decluttering' atau 'existential minimalism' yang tidak hanya berfokus pada barang fisik, tetapi juga komitmen, hubungan, dan beban mental yang tidak perlu, untuk mencapai kebebasan dan kejernihan hidup sejati #abbbb1a3-139c-48c2-b910-ecaf309c582e",ide
+417,"Kebutuhan kalori untuk atlet profesional (rata-rata): XXXX-YYYY kkal/hari, tergantung jenis olahraga dan intensitas latihan #bd1feb58-4509-4547-ad55-280290024166",lainnya
+418,Jangan lupa jadwal konsultasi dengan penasihat keuangan. #0df86fa1-4964-4e70-8b7c-33021ea19991,pengingat
+419,"Beli pakaian olahraga activewear teknis (compression tights, base layer, running jacket windproof) dari bahan sustainable dan performa tinggi merek Patagonia, Arc'teryx, atau On Running #76f76cbe-2645-420a-90fa-7f75fd1375d4",belanja
+420,"Mengidentifikasi, menganalisis, mengevaluasi, dan memitigasi berbagai jenis risiko proyek (teknis, operasional, finansial, legal, reputasi, market) menggunakan risk matrix #56a7ea81-f457-478b-ad63-740a07fe645d",tugas
+421,"Ide untuk merancang koleksi 'wearable art' atau 'tech-infused fashion' yang menggabungkan elemen seni rupa, kerajinan tangan tradisional, dan teknologi sensor atau LED interaktif #5a3e0a03-248c-4ae5-93ed-0059dabc7126",ide
+422,"Berlatih soal-soal dan simulasi tes GRE (Quantitative, Verbal, Analytical Writing) atau GMAT (Integrated Reasoning, Quantitative, Verbal) secara intensif sebagai persiapan aplikasi studi lanjut S2/S3 di universitas top dunia #f18c5018-37bc-4239-acc1-ccac9357b116",tugas
+423,Alamat atau link 'hidden gem' tempat makan lokal enak yang jarang diketahui turis di [Nama Kota] #bf4d0c74-a520-4d88-b62c-1f3ad9034860,lainnya
+424,"Pemikiran untuk menjadi 'polyglot' sejati dengan menguasai minimal 5-7 bahasa asing dari rumpun bahasa yang berbeda (misal: Indo-Eropa, Sino-Tibetan, Afro-Asiatic, Austronesian) hingga tingkat kefasihan profesional (C1/C2) #4a11342e-25b2-4c1e-930b-45dcf264b2a8",ide
+425,"Cari deterjen cair konsentrat khusus untuk mesin cuci bukaan depan (front load) yang rendah busa, ramah lingkungan, biodegradable, dan memiliki sertifikasi Ecolabel (misal: Attack Jaz1 Pesona Segar, Rinso Matic) #e0786bfe-323b-4a79-9fe1-109b3bee53bc",belanja
+426,"Nomor referensi keanggotaan [Nama Klub Buku/Film/Olahraga]: KBXYZ789, berlaku seumur hidup #4aaeef50-2628-436b-b821-a2968ba28566",lainnya
+427,Perlu webcam 4K AI-powered dengan fitur auto-framing dan noise-cancelling microphone (Logitech Brio 4K/Insta360 Link) untuk video conference berkualitas studio dan live streaming profesional #1aca9717-b080-477d-9de7-b50a079c9729,belanja
+428,Konsep untuk kompetisi menulis cerita pendek bertema fiksi ilmiah lokal. #56868b9c-2120-431a-92ff-ae7028cf268c,ide
+429,"Mengelola anggaran portofolio proyek IT strategis senilai >10M USD dan melaporkan deviasi, forecasting, serta earned value management (EVM) setiap bulan #7ed588b5-3641-4ec7-82bc-84bf63e3f333",tugas
+430,"Beli berbagai jenis jamur segar (shiitake, enoki, shimeji, champignon, portobello, tiram) untuk tumisan atau sup #20eed973-8682-44d9-94f5-91556cb2b280",belanja
+431,Mengikuti workshop 'Digital Marketing Fundamentals'. #fcee04ac-2124-4471-8fe3-d9469be3cce9,acara
+432,Ide untuk membuat panduan wisata virtual interaktif untuk kota-kota di Indonesia. #ac19bde3-8b00-4176-9541-8bc8858b8cec,ide
+433,Setel pengingat untuk jadwal perawatan diri (misal: masker wajah). #c8d8ed55-0bd6-4232-bb8e-222bb025f3d1,pengingat
+434,"Konsep untuk aplikasi mobile 'gamified citizen science' yang mendorong partisipasi publik dalam pengumpulan data lingkungan skala besar (misal: identifikasi spesies, pemantauan polusi udara/air, pelaporan sampah plastik) dengan imbalan poin, lencana, atau kontribusi nyata pada penelitian #fea72f1e-897f-4c92-b79b-2414a00781aa",ide
+435,"Konsep 'social impact bond' atau 'development impact bond' (SIB/DIB) untuk mendanai intervensi sosial yang terukur dan berbasis bukti (misal: program pengurangan angka stunting, peningkatan kualitas pendidikan vokasi) dengan pembayaran berdasarkan hasil yang dicapai #7c92fd51-d7eb-4306-8338-fd42e49dab00",ide
+436,"Kunjungan studi banding (benchmarking visit) dan knowledge sharing ke perusahaan multinasional terkemuka atau pusat inovasi global (misal: Silicon Valley, Shenzhen, Tel Aviv) #7e569cae-2e8d-428a-957d-a6d879aea0e1",acara
+437,Berpartisipasi dalam acara donor darah massal. #b885bdac-0981-40eb-aec2-7e22517b9cdb,acara
+438,"Perayaan ulang tahun anak dengan mengundang teman-teman sekolah dan tetangga, lengkap dengan dekorasi meriah, kue ulang tahun custom, badut sulap, dan goodie bag menarik #348b2902-f067-47ea-891f-f376b8f832d2",acara
+439,Beli smartwatch dengan fitur pelacak kesehatan. #26c5f166-c6c9-430d-8485-9538283c4c83,belanja
+440,"Nobar (nonton bareng) pertandingan final Liga Champions UEFA, NBA Finals, atau Grand Slam Tennis di layar besar LED outdoor alun-alun kota atau kafe-kafe olahraga dengan atmosfer meriah #a9f0b313-ca6b-4ad8-8935-5e9523afa8d0",acara
+441,"Pesta kostum Halloween atau perayaan ulang tahun anak dengan tema karakter film animasi favorit (misal: Frozen, Toy Story, Minions) di rumah atau venue khusus anak-anak #4743f245-6511-48a6-bbda-e6666ba194c5",acara
+442,Pemikiran untuk membuat instalasi seni 'generative art' atau 'AI art' yang menggunakan algoritma dan machine learning untuk menciptakan karya visual atau suara yang terus berubah dan merespons data input dari lingkungan atau audiens #ea2b646c-a7ee-4128-a648-eabed02be0c1,ide
+443,Merencanakan dan melaksanakan kampanye email marketing untuk peluncuran produk. #99239536-d80a-49f2-811b-c9450ca1cd86,tugas
+444,Pengingat untuk mengecek kotak surat. #ba6994ae-2373-45af-8f75-2915286810a7,pengingat
+445,Berpartisipasi dalam 'hackathon for social good'. #7c5115b2-4d0f-474f-9e5a-63b22454fa6b,acara
+446,Pesan paket data internet bulanan. #8c806940-05a4-47dd-8768-7560494683d7,belanja
+447,Melakukan stock opname atau inventarisasi persediaan barang di gudang atau toko secara periodik (harian/mingguan/bulanan) dan mencocokkan dengan sistem #d716eabe-c0d7-4f17-91c5-1556b57389fd,tugas
+448,Daftar gunung-gunung 'Seven Summits' atau 'Volcanic Seven Summits' yang menjadi target pendakian jangka panjang (jika relevan dengan hobi) #467921c7-0359-4b82-9301-a38272ca4b34,lainnya
+449,"Cari koper set (kabin, medium, bagasi) dengan material polikarbonat atau aluminium ringan, tahan banting, dan fitur keamanan canggih (TSA lock, anti-theft zipper) merek Rimowa Classic/Essential, Samsonite Black Label, atau TUMI 19 Degree #3233c8a9-09cf-4345-a35d-486713088ae4",belanja
+450,"Gagasan untuk menulis seri novel 'cli-fi' (climate fiction) atau 'solarpunk' yang berlatar belakang Indonesia di masa depan, menggambarkan tantangan perubahan iklim dan solusi utopis berbasis komunitas dan teknologi hijau #6b3374d7-b2a7-4230-9dbd-0080e06178a3",ide
+451,"Quote favorit dari Carl Sagan: 'Somewhere, something incredible is waiting to be known.' – pengingat untuk selalu haus akan ilmu dan penemuan. #f6729bf3-583b-4938-9763-7d3dece6a13b",lainnya
+452,Pesan layanan antar makanan untuk makan malam bersama keluarga. #cdcd5c72-4220-4c3f-ace7-9ce9ee8476a8,belanja
+453,Mengurus perpanjangan sertifikat hak milik (SHM) tanah dan Izin Mendirikan Bangunan (IMB) rumah di kantor Badan Pertanahan Nasional (BPN) dan Dinas Tata Kota setempat #fca812d3-eb48-4865-89d2-06d837bdeb1a,tugas
+454,"Jangan lupa untuk mengisi token listrik prabayar sebelum saldo menipis atau membayar tagihan listrik pascabayar, tagihan air PDAM, dan tagihan gas PGN (jika ada) tepat waktu setiap bulan untuk menghindari pemutusan layanan #f7e7c232-ce80-4df6-9fd7-eded43a002c2",pengingat
+455,"Daftar destinasi 'dark tourism' atau tempat-tempat bersejarah dengan narasi kelam namun penting untuk diingat (misal: Auschwitz-Birkenau, Chernobyl, Hiroshima Peace Memorial, Killing Fields Kamboja) #9e05c108-99b3-4942-ae7e-90cbdb243486",lainnya
+456,Perayaan kelulusan SD/SMP/SMA anak dengan syukuran kecil di rumah atau makan bersama di restoran favorit keluarga #bc4b24e4-8d0d-40d2-b9b2-b2f6705eea93,acara
+457,"Jangan lupa untuk membeli kado ulang tahun unik dan berkesan untuk [Nama Sahabat/Pasangan/Anggota Keluarga] yang berulang tahun minggu depan, sesuai dengan wishlist atau hobi mereka #6cc513b8-a22e-4c94-91a0-d95e78dcba3a",pengingat
+458,Cari mainan edukatif untuk anak. #ec492d6d-9098-4af3-adfe-af097f13effb,belanja
+459,Cari kupon potongan harga untuk belanja bulanan. #aaf779fa-2752-40f8-9dad-ee58d6d742d1,belanja
+460,Jangan lupa untuk mengucapkan terima kasih kepada seseorang yang telah membantu. #94e3264e-5db9-4563-a829-9fed4f8808c0,pengingat
+461,Partisipasi dalam 'code jam' atau kompetisi pemrograman singkat. #140155e2-23f5-4c58-8067-65fb54acf9de,acara
+462,Konsep untuk platform jual beli barang bekas berkualitas. #4c142e85-3767-4064-ab8e-343afbea8257,ide
+463,Beli tanaman hias untuk mempercantik rumah. #fe82f731-373f-41c5-859a-4bd5934cb242,belanja
+464,"Obat yang sedang dikonsumsi rutin (misal: untuk hipertensi, diabetes, asma) dengan nama generik, nama dagang, dosis, dan jadwal minum yang tepat (sesuai resep dokter spesialis) #be1822ed-8f83-4e9d-9786-fc37068e8d76",lainnya
+465,Gagasan untuk program bimbingan karir bagi lulusan baru (fresh graduate). #4afdca47-643c-4bc9-880e-31f2032eabab,ide
+466,"Reuni akbar lintas angkatan sekolah (SD, SMP, SMA) atau universitas setelah puluhan tahun berpisah #af92ed1e-da2e-4325-b1af-d7a218ead0a7",acara
+467,"Koleksi buku-buku tentang filsafat Timur (Zen Buddhisme, Taoisme, Vedanta), psikologi Jungian (arketipe, bayangan, individuasi), atau neurosains kognitif (kesadaran, memori, pengambilan keputusan) #a4706de0-1f2c-4856-a99c-d676ae59aa99",lainnya
+468,Beli hadiah untuk pernikahan teman. #e823431a-edd7-4011-a2a6-91669d946f36,belanja
+469,Cari jubah mandi (bathrobe) atau handuk hotel berbahan katun Mesir atau bambu super lembut dan tebal untuk pengalaman mandi mewah di rumah #c6015897-8179-4fd8-adf7-6f7222cb4319,belanja
+470,"Menangani keluhan, pertanyaan, dan feedback pelanggan melalui berbagai channel (telepon, email, media sosial, live chat) dengan standar layanan prima (SLA) #a02bbeb1-a58f-4edf-807c-cf07c52c756d",tugas
+471,"Cari proyektor portabel pintar 4K UHD (Anker Nebula Cosmos Laser 4K/XGIMI Horizon Pro) dengan Android TV, speaker Harman Kardon, dan auto-focus/keystone correction untuk presentasi bisnis high-impact dan pengalaman home theater imersif #8bdd6e04-7ac3-470a-8c53-4099395c6d8b",belanja
+472,Gagasan untuk program mentorship bagi siswa SMA dari kalangan profesional. #1b638673-6b2d-4f48-9ff1-4c09f7d76f44,ide
+473,"Pemikiran tentang 'climate tech' startup yang mengembangkan solusi inovatif untuk dekarbonisasi industri, penangkapan karbon atmosfer, atau adaptasi perubahan iklim (misal: material bangunan pendingin pasif, sistem irigasi hemat air) #450a95ff-bf61-41cf-b6a9-624a8a3a0ad0",ide
+474,Beli perlengkapan camping untuk petualangan berikutnya. #2bc63cea-305d-4f63-8139-a8c31d0b7b7b,belanja
+475,"Set reminder untuk mengirimkan 'update' singkat atau 'keeping in touch' message kepada kontak profesional penting (misal: mantan atasan, klien lama) setiap beberapa bulan sekali untuk menjaga hubungan baik #eba82ea1-d945-4f20-9731-9f3583689681",pengingat
+476,Jangan lupa untuk mengecek tekanan angin ban sepeda motor. #2566d7a0-9436-4ac3-9681-c45008f9bd34,pengingat
+477,Mengadakan 'game night' atau 'movie marathon' bersama anggota keluarga di rumah saat akhir pekan untuk mempererat kebersamaan #c714cf37-c956-4d99-aab8-3a900b25cdae,acara
+478,Top up saldo e-toll card (Mandiri e-money/BCA Flazz/BNI TapCash) dalam jumlah besar untuk perjalanan mudik atau liburan road trip antar kota di jalan tol Trans Jawa/Sumatera #58611217-564d-4b05-9d3e-9df92a77785f,belanja
+479,"Frekuensi radio komunikasi darurat (SAR): VHF Marine Ch.16 (156.800 MHz), HF 2182 kHz #cf76c595-6225-45df-b01c-8c1e904e7c29",lainnya
+480,Pemikiran untuk membuat game edukasi tentang sejarah Indonesia. #822664bd-ebf2-47bd-8691-8368813a5ce2,ide
+481,Langganan layanan cloud storage bisnis atau enterprise (Google Workspace Enterprise/Microsoft 365 E5/Dropbox Business Advanced) dengan kapasitas unlimited dan fitur keamanan canggih untuk kolaborasi tim #ab8e9376-ef64-4cf0-a7d2-7c656ba31d69,belanja
+482,"Beli domain .ai/.io/.xyz dan paket hosting cloud managed (AWS Lightsail/DigitalOcean Droplets/Vultr HF) atau serverless (Firebase/Netlify) untuk website portofolio pribadi, startup, atau aplikasi web modern #70c0142d-d019-49a4-b9d3-aeee1ca734b7",belanja
+483,"Liburan petualangan keluarga seperti arung jeram (rafting) di Sungai Ayung Bali, outbound di Lembang Bandung, atau camping mewah (glamping) di kawasan pegunungan sejuk #cf5bbecb-caef-4fc5-bd9c-2638db94d924",acara
+484,Safari Ramadhan dan buka puasa bersama ribuan anak yatim piatu serta dhuafa di masjid Istiqlal atau masjid raya provinsi yang dihadiri pejabat dan tokoh masyarakat #c64b37b4-ae91-4b10-8294-5a7c880f212f,acara
+485,Ide untuk kampanye digital yang mempromosikan pariwisata berkelanjutan. #2eb5284b-299f-4213-ba8c-d7fbbc4c4f41,ide
+486,Menyusun kebijakan dan prosedur operasional standar (SOP) baru. #8b60dc5f-294a-4fc9-929b-96726e6434f1,tugas
+487,"Menyelesaikan seluruh rangkaian tugas, proyek akhir, dan ujian sertifikasi untuk spesialisasi 'Deep Learning Specialization' atau 'Google Cloud Professional Data Engineer' di platform Coursera/Google Cloud Skills Boost #6d77bfae-0db3-4df9-9ffc-542086510488",tugas
+488,"Mendaftar anak ke sekolah baru jenjang SMP Internasional, melengkapi seluruh dokumen administrasi pendaftaran, dan mengikuti tes masuk serta wawancara orang tua #796112b4-b1fa-4af3-aafe-eb32815b5830",tugas
+489,Jangan lupa membayar iuran BPJS Kesehatan Kelas 1 dan BPJS Ketenagakerjaan Bukan Penerima Upah (BPU) mandiri untuk seluruh anggota keluarga setiap tanggal 10 bulan berjalan melalui autodebet atau aplikasi mobile JKN #cd0cab63-b530-4481-9a80-6a6efe87c7bf,pengingat
+490,"Pemikiran tentang konsep 'legacy' atau warisan apa yang ingin saya tinggalkan di dunia ini, baik secara personal maupun profesional. Bukan tentang ketenaran, tapi tentang dampak positif. #f3e10b69-7ee3-4dff-99f1-d5c9cebeee1c",lainnya
+491,"Bayar iuran tahunan keanggotaan organisasi profesi internasional (IEEE, ACM, PMI, CFA Institute) dan biaya ujian sertifikasi lanjutan #24bd437b-3754-47d4-b587-0581c706fdcd",belanja
+492,"Ingatkan jadwal kontrol gigi dan pembersihan karang gigi (scaling & polishing) serta pemeriksaan panoramic X-ray setiap 6 bulan sekali di [Nama Klinik Gigi] dengan Drg. [Nama Dokter Gigi], Sp.Pros #5917ef96-d4b8-4718-92a2-643ace20ae67",pengingat
+493,Catatan tentang 'flow state' yang dialami saat mengerjakan [proyek/aktivitas spesifik] tadi siang. Bagaimana cara mereplikasi kondisi tersebut lebih sering? #71fc4434-d4ad-4454-b656-3651ef74f111,lainnya
+494,"Sedang merenungkan konsep 'antifragility' dari Nassim Nicholas Taleb – bagaimana menjadi lebih kuat dan berkembang dari guncangan, ketidakpastian, dan stres. #3bb197a6-0e87-45d1-ad87-33652eda6f7c",lainnya
+495,Cari smart TV baru dengan fitur terkini untuk ruang keluarga. #cd5c39b6-3a28-4fdd-a381-fbc8ce250e17,belanja
+496,"Festival Danau Toba Internasional, Festival Lembah Baliem, atau Jember Fashion Carnaval (JFC) sebagai ajang promosi pariwisata budaya unggulan Indonesia di kancah dunia #bc156e2f-2520-47e5-837b-a0484ab2f472",acara
+497,"Gagasan untuk kampanye nasional 'anti-food waste' yang melibatkan supermarket, restoran, hotel, dan rumah tangga untuk mengurangi limbah makanan melalui edukasi, donasi makanan berlebih, dan inovasi pengolahan sisa makanan menjadi kompos atau pakan ternak #848f2aca-3bfc-4cdb-aeea-c9fabb3a0cb2",ide
+498,Mengikuti webinar tentang 'Cybersecurity Awareness'. #063c6af8-3296-4407-b6ac-8426dcfe20fd,acara
+499,Cari alat musik baru untuk hobi. #f99267c6-0112-49fa-b63a-f41988c2f82a,belanja
+500,Ide untuk membuat aplikasi resep masakan berdasarkan bahan yang ada di kulkas. #24f3dcb2-3eec-460f-8c3b-6af48e788939,ide
+501,"Beli tepung terigu protein tinggi (Cakra Kembar Emas Bogasari), protein sedang (Segitiga Biru Premium), protein rendah (Kunci Biru), tepung gandum utuh (whole wheat), tepung almond, dan tepung tapioka organik untuk berbagai keperluan baking dan memasak #44335f6b-22b2-4647-bd8b-c2e246abc547",belanja
+502,"Reminder untuk rapat komite audit dan dewan pengawas yayasan sosial membahas temuan audit eksternal, laporan keuangan tahunan, dan rencana strategis program kerja lima tahunan #b467687b-07fa-4711-922c-299c29706c29",pengingat
+503,Pemikiran tentang platform 'AI-driven cybersecurity threat intelligence' yang memberikan peringatan dini dan rekomendasi mitigasi proaktif terhadap serangan siber terbaru bagi perusahaan atau individu #8652fac3-d94c-4848-a614-bf0c5fcbbab0,ide
+504,"Tugas Marketing Manager: Merencanakan dan mengeksekusi kampanye peluncuran produk baru (NPL) lintas channel (ATL, BTL, Digital) #4e5b5bd7-daff-4135-869c-3d18624fdc9d",tugas
+505,Beli buku resep masakan internasional. #06ba773f-f1e0-45bb-a247-1074417f513e,belanja
+506,Cari madu murni hutan multiflora atau madu manuka UMF 10+ untuk kesehatan dan pemanis alami #6ec50c30-52a2-4552-b615-30cefff5bc37,belanja
+507,"Perayaan Cap Go Meh atau Imlek dengan atraksi barongsai, liong naga raksasa, tatung (loya), dan pesta kembang api spektakuler di kawasan pecinan atau vihara utama #411d7ab7-f88b-42a8-a166-74c79b6fcddc",acara
+508,Set reminder untuk membersihkan tandon air atau toren di rumah setiap 6 bulan hingga 1 tahun sekali untuk menjaga kualitas air bersih #abcd2fcc-8ada-4250-88e5-0f33d4e9766d,pengingat
+509,Pesan layanan potong rumput dan perawatan taman. #2a060746-1bc8-4855-a0ba-7fc700b5b4c5,belanja
+510,"Mengikuti workshop atau short course tentang penulisan artikel ilmiah untuk publikasi di jurnal high-impact factor (Nature, Science, Cell) atau penulisan proposal grant yang sukses #a2ae4d35-05cc-430b-bf3e-670311f6c5b0",tugas
+511,"Pesan kain songket Palembang atau sutra Bugis tenun tangan asli dengan motif antik dan benang emas/perak dari pengrajin senior lokal sebagai hadiah istimewa, koleksi seni tekstil, atau bahan busana adat pernikahan #f5106453-59e3-4bb4-b9b5-7bf04a50fb0d",belanja
+512,Menghadiri festival film independen. #a68d991b-a9e2-4257-876f-e9eadc0ec040,acara
+513,"Jangan lupa untuk menjadwalkalan 'me time' atau waktu berkualitas untuk diri sendiri tanpa rasa bersalah, melakukan hobi yang disukai, relaksasi, atau sekadar tidak melakukan apa-apa (niksen) minimal beberapa jam setiap minggu #cd97d5ed-06f0-4909-80d7-a8e4d2967b0d",pengingat
+514,"Slogan hidup yang baru ditemukan dan resonan: 'Amor Fati' (Cintai Takdirmu) – menerima dan merangkul semua yang terjadi dalam hidup, baik maupun buruk. #16262b94-7c80-431d-a1f1-010d3b68dfdd",lainnya
+515,"Perlu minyak kelapa murni (Virgin Coconut Oil/VCO) cold-pressed, minyak zaitun extra virgin (EVOO) first cold-pressed, dan minyak wijen untuk memasak sehat, salad dressing, dan MPASI #7483474d-a8b2-41db-bed3-72e73acf3436",belanja
+516,Konsep untuk platform arsip digital resep kuliner tradisional Indonesia. #f6238898-de99-4384-9d69-1a9e5f43d077,ide
+517,Mengembangkan dan mengimplementasikan Key Performance Indicators (KPIs) dan Objectives and Key Results (OKRs) yang SMART dan terukur untuk setiap divisi dan individu #6706a721-8f34-4ef9-a859-af6dc0bc9b1b,tugas
+518,Nama dan nomor telepon tukang reparasi AC langganan. #5add303e-ce22-4e26-a049-77ef1da03bbb,lainnya
+519,Beli produk aromaterapi untuk relaksasi di rumah. #18ef2469-e285-491b-b5af-faed47830097,belanja
+520,"Pengingat untuk secara aktif mendengarkan (active listening) dengan empati dan tanpa interupsi saat orang lain berbicara, baik dalam konteks personal maupun profesional #b4310134-2722-4852-a76e-5575f89aa39a",pengingat
+521,"Ide untuk menciptakan 'universal basic data income' (UBDI) atau sistem di mana individu menerima kompensasi finansial atas penggunaan data pribadi mereka oleh perusahaan teknologi atau platform online, sebagai bentuk keadilan digital #090cc5de-c4d1-4230-83f4-751e0217b4c1",ide
+522,"Ingatkan untuk menghadiri acara resepsi pernikahan teman SMA/kuliah, [Nama Teman Pria] & [Nama Teman Wanita], Minggu sore pukul 19:00 WIB di Ballroom [Nama Hotel/Gedung], dress code: Batik Formal / Long Dress #001ee684-83f6-4a05-988f-27561858ba11",pengingat
+523,Pesan paket internet rumah dengan kecepatan lebih tinggi. #51865cfc-d69a-487a-a6e3-57410e5e1469,belanja
+524,"Daftar kontak penting di ponsel: [Nama Kontak 1], [Nama Kontak 2]. #12990f5a-6fe1-4234-a456-5629e9b9cf12",lainnya
+525,"Pesan edisi kolektor 'Absolute Edition' atau 'Omnibus' novel grafis DC Vertigo (Sandman, Preacher, Fables) atau manga deluxe edition (Berserk, Vagabond) dengan hardcover dan slipcase eksklusif #aa17effe-210e-4b28-83d4-f47cb1d4abad",belanja
+526,Pengingat untuk mengecek saldo rekening bank. #85faac9d-97b4-4ea3-8ec8-58e58a4bc42f,pengingat
+527,Pesan tiket kereta api untuk perjalanan dinas. #0c7aa0d5-b14a-41dd-99a4-de3b72746242,belanja
+528,"Set reminder untuk melakukan deep cleaning rumah secara menyeluruh (termasuk jendela, gorden, karpet, langit-langit, area tersembunyi) setiap akhir pekan atau minimal sebulan sekali dengan bantuan asisten rumah tangga atau jasa cleaning service profesional #5bfce177-2d4b-4e92-b85b-26078b4c137e",pengingat
+529,"Riwayat operasi besar atau prosedur medis invasif yang pernah dijalani, termasuk tanggal dan nama rumah sakit/dokter #bc435af2-124e-47dd-a264-0e6745efc14b",lainnya
+530,"Ingatkan untuk menyelesaikan semua modul, kuis, tugas peer-graded, dan ujian akhir dari kursus online spesialisasi (misal: 'Google Data Analytics Professional Certificate' di Coursera) dan mendapatkan sertifikatnya minggu ini #721645b6-458a-48a9-8be6-a75ffc68fd2a",pengingat
+531,"Gagasan untuk kampanye 'fair trade advocacy' dan 'conscious consumerism movement' untuk meningkatkan kesadaran masyarakat tentang dampak pilihan belanja mereka terhadap kesejahteraan petani, pengrajin, dan pekerja di negara berkembang #2b4325d3-d81e-4de1-9a21-fe5c71994a91",ide
+532,"Mengadakan acara barbekyu (BBQ party) atau 'garden party' di halaman belakang rumah saat malam tahun baru atau perayaan musim panas, mengundang teman dan tetangga #de1f514e-f082-42ef-8e0a-f8c28d8a5949",acara
+533,Tanggal penting keluarga: Ulang tahun [Nama Anggota Keluarga] - [Tanggal]. #38eed446-bc97-489f-a047-66e9399f4a39,lainnya
+534,Acara 'family reunion' atau pertemuan marga/trah keluarga besar yang diadakan setiap beberapa tahun sekali untuk mempererat tali silaturahmi antar generasi #da2f2ca3-defa-4f9a-867a-a8b00c9f01fd,acara
+535,"Acara penghargaan 'CEO of the Year', 'Best Corporate Social Responsibility (CSR) Program', dan 'Most Innovative Company' yang diselenggarakan oleh majalah bisnis ternama #24e0fdea-5b5c-4d76-971c-96464cfc40bc",acara
+536,Pengingat untuk memeriksa kondisi ban mobil sebelum perjalanan jauh. #2ad27618-f5f3-4a07-bb5b-49777c71f05e,pengingat
+537,Menghadiri pameran teknologi dan inovasi terkini. #11439a61-d47d-42f9-bf2b-2661d51029fc,acara
+538,"Gagasan untuk merancang, membangun, dan tinggal di 'earthship' atau 'passive house' yang sepenuhnya mandiri energi (off-grid), menggunakan material daur ulang, sistem panen air hujan, dan desain arsitektur bioklimatik #f06995e6-8423-4305-bd2c-5578355b39a1",ide
+539,Mengikuti kelas meditasi dan relaksasi. #1ece0099-47ee-4a72-a8db-9afc885cc3df,acara
+540,Melakukan riset dan identifikasi potensi pasar baru untuk ekspansi. #b01c1e6d-f794-4667-afde-8201bc155316,tugas
+541,"Ingatkan untuk membalas email-email penting yang membutuhkan tindakan segera atau keputusan strategis dari atasan, klien utama, atau regulator hari ini sebelum jam kerja berakhir atau maksimal besok pagi #051ed883-49a3-430e-a36b-da815eb2d1d9",pengingat
+542,Jangan lupa untuk melakukan pengecekan rutin kendaraan sebelum perjalanan jauh. #daf0324e-3648-4e17-bf39-d52727258003,pengingat
+543,"Pengingat untuk melakukan rotasi, balancing, dan spooring ban mobil setiap 10.000 km atau 6 bulan sekali, serta memeriksa kedalaman tapak ban dan tekanan angin secara mingguan untuk keselamatan dan efisiensi bahan bakar #d6adf44c-cea1-4741-ba8d-2cf7bfa65816",pengingat
+544,Mengikuti acara pelepasan tukik di pantai. #ccd0ef18-55de-4162-a492-2d9249ebea52,acara
+545,Catatan tentang resep masakan baru yang ingin dicoba. #dda6d314-2d93-4b7d-ba33-c4db9b3431fe,lainnya
+546,"Mempersiapkan diri secara matang (materi, mental, presentasi) untuk menghadapi ujian kualifikasi doktoral, ujian komprehensif, atau sidang terbuka promosi tesis/disertasi #18f55956-1da5-457f-afd6-5e44390b7eda",tugas
+547,Menghadiri acara peluncuran produk startup lokal. #1b4c2fc9-1d80-40a1-9d54-4d401ae91f80,acara
+548,"Kode pos kantor: 12XXX, Kode area telepon kantor: 021, Alamat email resmi perusahaan: info@namaperusahaan.co.id, Website: www.namaperusahaan.com #c06bdd5f-3169-4df2-bda5-94179ec75d04",lainnya
+549,"Beli set LEGO Ultimate Collector Series (UCS) Star Wars (Millennium Falcon 75192, AT-AT 75313) atau LEGO Ideas (Typewriter 21327, Grand Piano 21323) yang langka dan sudah pensiun (retired set) untuk koleksi dan investasi #6d8122f4-cfed-4765-89cf-99ce8bb91d5f",belanja
+550,Melakukan riset kata kunci untuk kampanye iklan online. #01f4e695-ca1a-4cd2-b554-f024d8289691,tugas
+551,Ingatkan untuk mengembalikan buku ke perpustakaan. #86294837-1b6c-45a4-b3c0-d2b81649abe9,pengingat
+552,Workshop eksekutif tentang 'Strategic Leadership in Volatile Times' dan 'Digital Transformation for Competitive Advantage' untuk level C-suite dan Direksi #5ad3a150-cab0-4eb1-8705-cd7b850d998a,acara
+553,"Ide untuk belajar dan menguasai keterampilan bertahan hidup di alam liar (wilderness survival skills) secara ekstrem (membuat api tanpa alat, mencari air, membangun shelter, navigasi alam) melalui pelatihan intensif dan praktik di berbagai medan #703d2eae-9e9e-4324-bba1-0fd1f2141587",ide
+554,"Alamat IP publik statis server: XXX.YYY.ZZZ.AAA, Subnet Mask: 255.255.255.XXX #ccf4fe02-908b-4f28-8156-e57a50b4f0eb",lainnya
+555,"Konstanta matematika: Pi (π) ≈ 3.1415926535, Bilangan Euler (e) ≈ 2.7182818284, Golden Ratio (φ) ≈ 1.6180339887 #b3eeab0a-163e-42cf-91bd-2348c4cf4b14",lainnya
+556,Menyiapkan laporan progres mingguan untuk manajemen. #cf359c0d-be48-4738-a8a3-6d294721b881,tugas
+557,"Membayar semua tagihan bulanan (listrik, air PDAM, internet IndiHome, TV kabel Transvision, kartu kredit berbagai bank, cicilan KPR/KPA, asuransi jiwa dan kesehatan) secara otomatis atau manual sebelum jatuh tempo #28ed4122-33d1-4795-8de4-a15d25b41f3e",tugas
+558,Gagasan untuk layanan pengantaran kado kejutan yang dipersonalisasi. #c10a5a53-75c0-436c-922a-d8e67d1855ce,ide
+559,"Piknik keluarga besar di kebun raya, taman nasional, atau pantai pribadi dengan membawa bekal masakan rumah, permainan outdoor, dan sesi foto bersama yang ceria #c28f5643-373d-4930-9669-719612613600",acara
+560,"Melakukan evaluasi dan review anggaran belanja rumah tangga bulanan secara detail, mengidentifikasi area penghematan potensial, dan menyesuaikan alokasi dana untuk tujuan finansial #146ef9f0-e6a2-4b07-bfdf-da6ae04de940",tugas
+561,Beli multivitamin dan suplemen omega-3. #429f2ca9-bf78-44dc-a6b3-bd1addbfad6f,belanja
+562,Pesan paket liburan ke destinasi domestik populer. #402e207b-eac7-45ee-aa58-19d1117b781c,belanja
+563,"Pemikiran untuk menulis skenario film layar lebar bergenre 'folk horror' yang mengambil inspirasi dari mitos, takhayul, atau ritual mistis di daerah-daerah terpencil Indonesia dengan pendekatan sinematik yang artistik #18629555-6e7a-40ca-9bd6-321efe92aeda",ide
+564,"Ingatkan untuk mempraktikkan 'mindful eating' (makan dengan sadar, tanpa distraksi, menikmati setiap suapan) untuk pencernaan yang lebih baik dan mencegah makan berlebihan #8b3b61d0-4a02-40c6-9b36-14429c9266bd",pengingat
+565,Menghadiri konser musik klasik orkestra simfoni. #a3bea2bb-57a3-4ec8-81bd-6a5d970b17d2,acara
+566,Konsep untuk platform berbagi resep masakan keluarga antar generasi. #f0423b3d-be19-4acb-b548-d9cca9d0000e,ide
+567,Pelatihan 'Train the Trainer' atau 'Master Facilitator' intensif selama 5 hari dengan sertifikasi internasional untuk calon fasilitator internal perusahaan di bidang leadership dan soft skills #a71c0233-0d81-4811-bae9-d6daeba918ea,acara
+568,"Koleksi tanaman hias langka atau eksotis (misal: Philodendron Pink Princess, Anthurium Warocqueanum, Alocasia Frydek Variegata) dan perlengkapan perawatannya (hygrometer, grow light, humidifier) #80b8524c-a4af-40a1-9969-821553e4e651",lainnya
+569,Pesan langganan platform musik digital favorit. #46a99cae-52c5-487c-9b27-d97fa01403b1,belanja
+570,Konsep untuk layanan kurasi dan jual beli pakaian vintage berkualitas. #4ff4eab2-202d-468d-839c-38f3a6e2f842,ide
+571,"Cari smartphone flagship terbaru dengan inovasi kamera (sensor 1 inci, lensa periskop, variable aperture), chipset terkencang, dan layar LTPO AMOLED (iPhone 16 Pro Max/Samsung Galaxy S25 Ultra/Xiaomi 15 Pro) untuk produktivitas dan fotografi mobile tingkat dewa #3f3ab3bf-b0ae-481a-a655-4d405154b1eb",belanja
+572,Melakukan negosiasi kontrak dengan penyedia layanan cloud. #85fe1d4f-45c8-4819-8cfc-4b72d091814b,tugas
+573,Tugas Seniman: Menyelesaikan lukisan surealis berukuran besar untuk pameran tunggal di galeri nasional #4c40a88c-8ad9-48ff-9cf7-2ef846904bb4,tugas
+574,Ide platform 'B2B marketplace' untuk bahan baku industri daur ulang atau 'circular economy enabler' yang menghubungkan produsen limbah dengan industri yang membutuhkan material sekunder #93015a8c-2dc9-4a2e-af80-708640a62bc9,ide
+575,Cari buku terbaru dari penulis favorit di toko buku online. #80071ccb-3256-49a7-8d10-4c44139f027e,belanja
+576,"Mengikuti kursus bahasa asing akademis (misal: English for Academic Purposes, Deutsch für Wissenschaft) untuk meningkatkan kemampuan menulis dan presentasi ilmiah #f9adba91-0758-4691-b4af-89758181bb33",tugas
+577,Pekan Kebudayaan Nasional (PKN) atau Pekan Olahraga Nasional (PON) yang diselenggarakan setiap beberapa tahun sekali #89902da3-e5bf-4472-85c0-9b530ea1a8a8,acara
+578,Melakukan riset kompetitor untuk produk baru. #cb15a580-6358-4b70-bdf7-a0410a040dac,tugas
+579,"Mengikuti online masterclass fotografi landscape, portraiture, atau astrophotography dengan fotografer profesional pemenang penghargaan internasional melalui platform Zoom atau CreativeLive #ce0dc825-04fd-4795-9ba6-e3b58d4d45cc",acara
+580,Tugas Software Engineer: Melakukan debugging dan refactoring kode pada modul payment gateway aplikasi mobile menggunakan Java dan Kotlin #ec8e5379-eb0d-4cdd-9049-6f67bf67fb73,tugas
+581,"Forum diskusi panel tingkat tinggi dengan partisipasi ekonom global, menteri keuangan, dan gubernur bank sentral membahas 'Global Economic Outlook, Geopolitical Risks, and Implications for Indonesia's Growth' #f0a72c7d-b0f3-4930-b00b-71e354f35e7b",acara
+582,"Menyiapkan draf dan finalisasi materi presentasi mingguan/bulanan untuk laporan ke atasan langsung, komite, atau dewan direksi #eb7124b9-5b79-43ee-9a7f-46ab6edee790",tugas
+583,Pengingat untuk membayar pajak kendaraan sebelum jatuh tempo. #cfa448ca-4582-4ae1-9688-6dec71339dbd,pengingat
+584,Menonton pertunjukan tari tradisional daerah. #09c965f2-5723-4e18-9a90-2a398ca46692,acara
+585,"Melakukan riset pasar sederhana untuk mengumpulkan informasi tentang tren industri, aktivitas kompetitor, atau preferensi pelanggan #2eda71ae-dfab-418c-9fcf-5e795571521e",tugas
+586,Meninjau ulang dan menyetujui faktur pembayaran dari vendor. #506c181c-dab0-4159-adf1-8da8ea8eaa97,tugas
+587,Nomor anggota ISRC (International Standard Recording Code) untuk lagu [Judul Lagu] dari album [Judul Album]: CC-XXX-YY-NNNNN #6739d466-a761-4954-ac05-5be342569d6a,lainnya
+588,Pengingat untuk perpanjang SIM atau KTP yang akan habis masa berlakunya. #b7bfc71e-dc26-4d6d-ad10-6db2079039d8,pengingat
+589,Ingatkan untuk menjadwalkan 'screen-free dinner' bersama keluarga atau pasangan untuk meningkatkan kualitas interaksi dan kebersamaan #fdf4719c-1f80-4e66-9116-b65eb0f0c38d,pengingat
+590,"Beli rangkaian produk perawatan kulit (skincare) dermatologis atau cosmeceutical lengkap: double cleanser (oil & foam), exfoliating toner (AHA/BHA), hydrating essence, multiple serums (Vitamin C, Niacinamide, Retinol, Hyaluronic Acid), eye cream, moisturizer, dan broad-spectrum sunscreen SPF 50+ PA++++ dari brand terpercaya (SkinCeuticals, Drunk Elephant, Augustinus Bader, La Roche-Posay) #7d02928e-353a-44fc-a80f-e1f3440e1d66",belanja
+591,"Membantu proses rekrutmen karyawan baru (screening CV, penjadwalan interview, korespondensi dengan kandidat) #6bdd2ee1-57b9-4150-ba9a-7e9b452bce19",tugas
+592,"ID Pengguna di platform [Nama Platform Game Online, misal: 'Steam', 'PlayStation Network', 'Xbox Live']: GamerTagSuperKeren / Teman ID: 123456789 #84b6eb00-bbf3-4174-8da4-e51c392baf13",lainnya
+593,"Jangan lupa jadwal servis berkala mobil (ganti oli mesin full synthetic, filter oli/udara/AC, rotasi/balancing ban, cek sistem pengereman ABS/EBD) setiap 10.000 km atau 6 bulan sekali di bengkel resmi [Merek Mobil] atau bengkel spesialis terpercaya #65cce5ca-6216-416f-9c72-f3e0e69a3c69",pengingat
+594,"Melakukan uji penetrasi (penetration testing) black-box, white-box, dan grey-box pada infrastruktur cloud dan aplikasi perbankan digital secara berkala #08be14b7-70b8-487b-9e34-e3e0b75c97a8",tugas
+595,Ukuran ruangan kamar tidur untuk penempatan perabot: [Ukuran] #2cf82ed6-ef94-495e-9a61-86cc839eeafb,lainnya
+596,Jangan lupa untuk melakukan peregangan dinamis sebelum berolahraga dan peregangan statis setelah berolahraga untuk mencegah cedera dan meningkatkan fleksibilitas #9ec3c2d0-24e3-4886-b166-cc843b308b33,pengingat
+597,Membuat daftar inventaris aset kantor. #f24521ba-4299-4b52-832a-467cda4dcf53,tugas
+598,Jangan lupa untuk menghubungi teman lama dan mengatur pertemuan. #e740519f-5a5e-4520-a759-0ef4cd807b0a,pengingat
+599,Gagasan untuk membuat podcast yang mewawancarai tokoh-tokoh inspiratif. #2878cf15-0395-4e0e-970e-36fd0a713da7,ide
+600,"Debat kandidat calon pimpinan (misal: Presiden, Gubernur, Ketua Organisasi) yang disiarkan langsung oleh media nasional #dce8486c-d7fa-4c20-8d87-93a0f0ac8b7c",acara
+601,"Pengingat untuk membalas pesan WhatsApp, DM Instagram, atau email personal dari teman-teman atau kerabat yang belum sempat dibalas dalam beberapa hari terakhir, jangan sampai terkesan mengabaikan #000f94b4-3921-4847-a4f5-a02c4dec0f3d",pengingat
+602,Cari pakaian renang kompetitif FINA-approved (Speedo LZR Racer/Arena Powerskin) atau bikini/swimsuit fashion dari brand desainer untuk liburan ke resort mewah di Maladewa atau Santorini #84fc81df-4a3d-4ff7-97f0-2b9c11abd185,belanja
+603,Ide untuk membuat komunitas online bagi para penulis pemula. #1ce59db3-788b-4376-97d2-7abdef4274bd,ide
+604,"Pemikiran untuk mengembangkan karakter komik atau animasi 'anti-hero' Indonesia dengan latar belakang budaya yang kuat dan dilema moral yang kompleks, menantang narasi kepahlawanan konvensional #7712e24a-e3f3-4866-aa12-44e16304b841",ide
+605,Ide untuk layanan desain interior virtual menggunakan teknologi AR. #fb8b51e5-8801-479c-8d32-ec603ce9f5e9,ide
+606,Jangan lupa untuk memberi makan hewan peliharaan. #0e4a1088-3dac-4b9a-94bc-2f9d0ecb1811,pengingat
+607,Pemikiran untuk membuat 'interactive fiction' atau 'text-based adventure game' dengan narasi bercabang yang kompleks dan pilihan pemain yang memiliki konsekuensi signifikan terhadap alur cerita #c23dd4be-3294-4692-aa16-8f63690acd66,ide
+608,Menonton pertandingan final kejuaraan bulu tangkis. #3e60e821-18fb-4892-97fe-55f48d2b0f5d,acara
+609,Hash SHA-256 untuk file penting [Nama File Penting.zip]: [String Hash Panjang] #32d796cf-680b-4a45-b948-bd7c4c5f9af8,lainnya
+610,"Pemikiran tentang inisiatif 'arts for social change' atau 'participatory theatre' yang menggunakan seni (teater, musik, mural, film) sebagai media untuk menyuarakan aspirasi masyarakat marginal, mempromosikan dialog, dan mendorong perubahan sosial positif #c2dc01b2-3480-4aa6-be20-d35b2cdc49c1",ide
+611,Pengingat untuk menyelesaikan tugas sebelum batas waktu. #ef5c8533-ea68-468f-aa87-5e06a1a8bc3e,pengingat
+612,"Beli sabuk kulit eksotis (buaya, ular, atau burung unta) reversible berkualitas tinggi dengan gesper interchangeable (H buckle, Gancini) untuk melengkapi penampilan formal dan smart casual #01a00259-c981-4734-af8b-49f0a42e5433",belanja
+613,"Ingatkan untuk memeriksa tanggal kedaluwarsa obat-obatan, suplemen, dan produk P3K di kotak obat keluarga, serta membuang yang sudah kadaluwarsa dengan aman dan menggantinya dengan yang baru #1d693294-54a6-47b5-8043-0d1db1055b89",pengingat
+614,Merencanakan dan melaksanakan strategi change management yang efektif untuk implementasi sistem ERP baru (SAP/Oracle) di seluruh unit bisnis organisasi #ece892b0-935d-4c4d-91fd-138fd61d859a,tugas
+615,"Daftar film yang ingin ditonton akhir pekan ini: [Judul Film 1], [Judul Film 2] #59dcd3c7-8b95-406f-aeba-85cef5699c83",lainnya
+616,"Gagasan untuk mengembangkan 'AI legal assistant' yang dapat membantu firma hukum kecil atau UMKM dalam menyusun draf kontrak sederhana, melakukan riset yurisprudensi dasar, atau mengelola dokumen hukum secara otomatis #aca53aac-ff0d-4763-8dd1-8e62d9e1f8d9",ide
+617,ISRC (International Standard Recording Code) untuk lagu [Judul Lagu] dari album [Judul Album]: CC-XXX-YY-NNNNN #6df846c3-6d13-452e-8a9a-4f1351fb5d66,lainnya
+618,"Kumpul keluarga besar saat hari raya Natal dengan tradisi menghias pohon Natal, misa malam Natal, tukar kado (Secret Santa), dan makan malam spesial bersama dengan menu khas Natal #46f829e3-4774-4d2f-9887-9404e1df1b40",acara
+619,Melakukan analisis data besar (big data) untuk insight bisnis. #cec9d006-fd5b-40d9-ba66-6545198dcc14,tugas
+620,"Kelas memasak hidangan otentik dari berbagai negara (Italia, Jepang, Meksiko, Thailand, India) bersama chef ekspatriat atau celebrity chef dari hotel bintang lima dan restoran ternama #190bed41-cde3-4805-be82-bdf597c948d9",acara
+621,Belajar memainkan instrumen musik baru seperti biola atau saxophone melalui kursus privat atau tutorial online intensif di platform seperti Yousician atau MasterClass #c9564a17-4fca-4ed2-9190-201bbc435f9d,tugas
+622,Menghadiri konferensi developer game. #18da5bf1-6d12-4f90-b17c-831fd1eedc02,acara
+623,Daftar keinginan (wishlist) barang yang ingin dibeli. #afb503dc-93e7-4e88-a6b5-ab71b63e783f,lainnya
+624,Menonton pertunjukan kembang api di malam tahun baru. #64ae4054-028a-4561-bc0e-6069644b8033,acara
+625,Beli gadget elektronik terbaru yang sudah lama diincar. #ee3b1101-390e-4394-bc46-3d53b89bdfe2,belanja
+626,Setel pengingat untuk janji temu dokter gigi minggu depan. #c602fb24-6cdd-4386-91ba-66594f3501d5,pengingat
+627,"Catatan nomor NPWP perusahaan: XX.XXX.XXX.X-XXX.XXX, Nomor Induk Berusaha (NIB): XXXXXXXXXXXXX, SK Kemenkumham: AHU-XXXXX.AH.XX.XX.TahunXXXX #a18ecad8-b787-43e8-b9f6-4ae4dcce221d",lainnya
+628,Ide untuk membuat ekstensi browser yang mendeteksi berita hoax. #1a8f6c33-4c3b-438b-ad8b-ff03b05e6217,ide
+629,Pesan layanan streaming musik lossless high-resolution (Tidal HiFi Plus/Qobuz Studio Sublime/Amazon Music HD) dan beli headphone/DAC berkualitas untuk pengalaman audiophile sejati #321f7b4c-1f16-4f16-aac5-018a8da8f669,belanja
+630,Daftar judul lagu baru yang ditambahkan ke playlist. #afaacf97-7f98-4521-95d1-92c14334515f,lainnya
+631,"Ide aplikasi 'gamified mental well-being' yang menggunakan teknik CBT, mindfulness, dan social support group virtual untuk membantu pengguna mengelola stres, kecemasan, dan depresi dengan progres yang terukur dan reward system #3e5f5793-31bc-4c14-b8f4-a979d5497532",ide
+632,Mengikuti kelas melukis cat air untuk pemula. #41b4ee92-8df2-43ed-9aa8-084fa0b56724,acara
+633,"Membersihkan AC (filter dan evaporator), kulkas (defrost dan bagian dalam), mesin cuci, dan peralatan elektronik rumah tangga lainnya secara berkala sesuai manual pengguna #984f69a7-662f-47d8-92c2-e40a836b2bd0",tugas
+634,"Catatan singkat tentang mimpi semalam: berdialog dengan versi diri saya di masa depan, mendapatkan nasihat yang aneh namun mencerahkan. Perlu dicatat detailnya sebelum lupa. #1e39acb4-9fe2-4409-9ae0-18fa58ccde1d",lainnya
+635,Pemikiran untuk program akselerator startup yang fokus pada dampak sosial. #f3d3d2ca-7ead-421b-941c-f7f6b4749bff,ide
+636,Reminder untuk mengisi dan mengirimkan survei kepuasan pelanggan tahunan atau Net Promoter Score (NPS) survey dari perusahaan [Nama Perusahaan Penyedia Layanan/Produk X] untuk mendapatkan poin reward atau feedback #99307919-64ee-484e-b1a8-0abf6636bb19,pengingat
+637,Gagasan untuk membuat komposisi musik elektroakustik atau 'soundscape composition' yang merekam dan memanipulasi suara-suara alam atau perkotaan untuk menciptakan pengalaman pendengaran yang unik dan reflektif #cbbcb817-154d-4ee6-b80e-9b5c75b669fc,ide
+638,"Menulis tinjauan pustaka (systematic literature review atau meta-analysis) yang komprehensif dan kritis untuk publikasi di jurnal Q1, mencakup minimal 100 sumber primer internasional #69b62666-46d6-471e-ab24-39514eb5f2b0",tugas
+639,Jangan lupa untuk mematikan kompor setelah memasak. #af3d6aad-46ac-4633-a0ac-0bd7373409b9,pengingat
+640,"Membuat minutes of meeting (MoM) yang detail, actionable, dan terdokumentasi dengan baik dari rapat dewan komisaris dan komite audit bulanan #cb25af36-a09b-4000-ad80-2402cf63bc28",tugas
+641,"Ingatkan untuk sesi terapi okupasi atau wicara anak dengan kebutuhan khusus di pusat tumbuh kembang anak [Nama Pusat Terapi] sesuai jadwal rutin mingguan, [Hari, Jam] #86d136d8-8360-4b96-9efd-b5b5eb0c8c80",pengingat
+642,"Konsep 'ethical & sustainable fashion marketplace' yang hanya menjual produk dari brand yang transparan mengenai rantai pasok, penggunaan bahan ramah lingkungan, dan praktik kerja yang adil (fair trade) #de1c891c-52e5-4406-9c69-30b7e1d05a71",ide
+643,"Beli aneka rempah-rempah kering utuh dan bubuk (kayu manis Ceylon, cengkeh, kapulaga, pala, lada hitam, ketumbar, jintan, paprika smoked) untuk melengkapi bumbu dapur #b3352baa-52a0-4a70-9ea9-00a68f0b2a5f",belanja
+644,"Quote dari Seneca yang relevan dengan tantangan saat ini: 'It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.' #c01eba0c-9606-4cb0-b200-e8629b62334d",lainnya
+645,"Acara 'baby shower' atau 'gender reveal party' dengan tema unik (misal: Harry Potter, Safari) untuk calon ibu dan ayah yang berbahagia, dihadiri keluarga dan sahabat dekat #d8210928-ae4b-443c-8847-dfc9ec961588",acara
+646,Ingatkan untuk memeriksa dan membersihkan filter AC mobil. #a2b8f640-9864-463d-ae3b-2811bbd43d7b,pengingat
+647,"Merencanakan menu masakan sehat, bergizi, dan bervariasi untuk keluarga selama sebulan penuh, termasuk daftar belanja bahan dan resepnya #3a7850af-fe60-4dd3-8fb9-89db2c266788",tugas
+648,Ide untuk layanan konsultasi keuangan pribadi untuk generasi muda. #cb8293a4-4d39-4cfb-828f-97072147de72,ide
+649,Ingatkan untuk membawa payung jika cuaca mendung. #0037c7d6-749d-4f34-aa04-2a0b15b37adb,pengingat
+650,"Ingatkan untuk meluangkan waktu membaca buku fisik (bukan di gadget) atau artikel mendalam tentang pengembangan diri, filsafat, atau topik non-fiksi lainnya minimal 15-30 menit sehari tanpa gangguan #35c03819-8ce4-4dcd-9121-bb31b37f2daf",pengingat
+651,"Perlu produk perawatan rambut profesional (shampoo sulfat-free, conditioner deep repair, hair mask keratin, hair serum argan oil, heat protectant spray) dari brand salon eksklusif (Kérastase, Olaplex, Oribe) #e3cc77cc-af6d-49fa-b280-48c7306e155c",belanja
+652,"Pesan action figure atau statue skala 1/4 atau 1/3 dari Prime 1 Studio atau Sideshow Collectibles karakter superhero Marvel/DC, anime, atau film sci-fi limited edition dengan detail museum quality #a9dd436b-ce07-4dc8-b4d8-0532999f180d",belanja
+653,"Mengarsipkan dokumen-dokumen penting perusahaan (kontrak, laporan keuangan, surat resmi) secara digital terstruktur (misal: SharePoint) dan fisik sesuai standar kearsipan #3413ca7d-c108-4c45-bdf0-838a8f2c4f47",tugas
+654,Tugas Chef Eksekutif: Mendesain menu musiman baru untuk restoran fine dining dengan bahan baku lokal berkualitas tinggi #9beaedff-c86b-49e9-8f06-5a4cebe2e4cc,tugas
+655,Ide untuk menulis lirik lagu untuk album konsep (concept album) yang menceritakan sebuah kisah epik atau mengeksplorasi tema filosofis tertentu secara mendalam dari awal hingga akhir #0fb026ce-9c2d-46d7-bd7a-be935fa02321,ide
+656,"Pemikiran tentang penggunaan robotika kolaboratif (cobots) dan sistem visi komputer canggih untuk otomatisasi tugas-tugas kompleks dan presisi tinggi di sektor manufaktur fleksibel, laboratorium riset, atau bahkan layanan kesehatan (misal: asisten bedah robotik) #9b266edb-91c0-41bb-bcf0-524460a49408",ide
+657,Gagasan untuk platform berbagi keterampilan antar anggota komunitas lokal. #43652ddd-e70b-4540-a04f-8f2480603f5a,ide
+658,"Alamat website atau forum online komunitas hobi [Nama Hobi Spesifik, misal: 'Kolektor Hot Wheels Indonesia', 'Forum Penggemar Tanaman Karnivora'] #b529be8b-a09c-4ddf-8a8c-10cd9e61e03e",lainnya
+659,"Mempelajari dasar-dasar perbaikan rumah sederhana (DIY home repair) seperti memperbaiki keran bocor, mengganti saklar lampu, atau mengecat dinding #a7393163-cf28-4855-86c2-3df0880d122c",tugas
+660,Jangan lupa untuk menyiram tanaman di rumah. #bacdd947-df5b-43bc-879c-9193490c2b82,pengingat
+661,Pemikiran untuk membuat marketplace produk UMKM dari desa-desa wisata. #cd57a79e-db8d-4a16-b621-0b60fc31b1d0,ide
+662,"Koleksi jam tangan mekanik vintage dari era 60-70an (misal: Omega Speedmaster pre-moon, Rolex Submariner 'Red Sub', Seiko 'Pogue') #ced23739-ae81-430e-9074-75f7abd1e161",lainnya
+663,"Gagasan untuk teknologi 'direct air capture' (DAC) karbon dioksida skala modular yang efisien dan hemat energi, menggunakan material sorben baru atau proses elektrokimia, yang dapat diimplementasikan di berbagai lokasi industri atau perkotaan #69696965-5e21-45be-9580-b431acb2e54f",ide
+664,"Daftar film-film dokumenter investigatif atau 'true crime' yang menggugah pikiran dan membuka wawasan (misal: The Act of Killing, Citizenfour, Making a Murderer, Icarus) #7b0ca7f4-f17a-4b52-8454-95db5282dd6a",lainnya
+665,Mengurus administrasi cuti karyawan. #059eb674-86df-4a36-901d-b873239cd7f7,tugas
+666,"Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) atau Rapat Umum Anggota (RUA) Koperasi untuk persetujuan aksi korporasi penting seperti rights issue, private placement, atau perubahan AD/ART #f2cae018-f3fd-4a9a-941e-461dc60a249d",acara
+667,Beli headphone audiophile planar magnetic (Hifiman Sundara/Audeze LCD-2) atau electrostatic (Stax SR-L300) dengan DAC/amplifier khusus untuk pengalaman mendengarkan musik high-fidelity yang detail dan transparan #cdde8ae2-68e7-4582-93bb-bcca82ea8540,belanja
+668,Catatan rute bersepeda gravel atau trail running favorit di sekitar [Nama Daerah]: [Nama Rute] - [Jarak km] - [Elevasi m] - [Link Strava/Komoot] #8df702a0-d3f9-4e71-add8-c605ffa323b8,lainnya
+669,"Menonton live streaming peluncuran video game AAA terbaru (misal: GTA VI, Elder Scrolls VI) dan sesi Q&A eksklusif dengan para game developer dan voice actor di platform Twitch, YouTube Gaming, atau Steam #8555c8de-7b6b-4edb-a41c-980362014d5c",acara
+670,"Ide untuk program 'restorative justice' atau 'community-based dispute resolution' sebagai alternatif penyelesaian perkara pidana ringan atau konflik sosial di luar sistem peradilan formal, dengan fokus pada pemulihan korban dan reintegrasi pelaku #f34a2459-4ac8-48a2-bfc5-9f0d6467923d",ide
+671,Jangan lupa untuk memperbarui software antivirus. #3e08296e-4f5c-4c4c-924e-5aab1728bfbf,pengingat
+672,Melakukan presentasi produk kepada calon investor. #24b98ba2-cb2d-4d95-a7d1-9241df152e18,tugas
+673,Nomor rekening virtual account untuk pembayaran [Nama Layanan]: XXXXXXXXXXXXXXXX (Bank [Nama Bank]) a/n [Nama Perusahaan/Layanan] #d4949b5b-6780-4a22-97c4-2de7299eed35,lainnya
+674,Gagasan untuk merestorasi dan mewarnai ulang (colorize) foto-foto atau rekaman film hitam putih bersejarah Indonesia menggunakan teknologi AI dan riset mendalam untuk akurasi historis #5b56cab9-5cd6-4233-8ad1-7cd104ad08b9,ide
+675,Menghadiri upacara pembukaan festival olahraga regional. #36e0ade8-63e4-4620-90de-d5d97c00e9a2,acara
+676,"Peresmian pabrik baru berteknologi tinggi, pusat riset dan pengembangan (R&D center), atau kantor cabang regional di daerah oleh Presiden atau pejabat tinggi negara dan jajaran direksi #42c52918-5af7-45d2-ad47-3111087441c3",acara
+677,Resep rahasia bumbu rendang Padang warisan keluarga (komposisi dan takaran rempah) #0657dcc1-32d6-405a-8bbc-f911f4ed6d78,lainnya
+678,Langganan suite software produktivitas dan kreatif profesional (Microsoft 365 Business Premium/Adobe Creative Cloud All Apps for Teams/Figma Organization) untuk kebutuhan bisnis atau agensi #0a772979-9aa9-4107-b4a3-2e1153abd4d5,belanja
+679,Menghadiri pameran filateli dan numismatik. #05b1852e-f45d-4530-ae7c-484e607c44dc,acara
+680,"Menonton konser musik K-Pop atau festival EDM virtual dengan teknologi XR (Extended Reality), avatar interaktif, dan efek visual panggung yang imersif dan spektakuler #1f47e491-0ff6-4fef-a637-93f5dcfc3245",acara
+681,Beli buku panduan traveling ke negara tujuan. #b41558ff-21f8-4be2-9bed-63aabeccdad0,belanja
+682,Ide untuk channel TikTok yang memberikan tips keuangan singkat dan praktis. #237dae23-0c3a-449f-8661-32c4d02d15a2,ide
+683,"Konsep material 'smart textile' dengan sensor terintegrasi yang dapat memonitor tanda-tanda vital pemakainya (detak jantung, suhu tubuh, saturasi oksigen) dan mengirimkan data ke aplikasi kesehatan atau sistem peringatan medis darurat #65da1f08-fa4b-49f9-860a-1b5e77f878db",ide
+684,"Mengurus administrasi kependudukan seperti pembuatan Akta Kelahiran anak, Kartu Identitas Anak (KIA), atau perubahan data pada Kartu Keluarga (KK) di Disdukcapil #ba90c488-75e5-4c9c-8c06-d7513ee29403",tugas
+685,Bayar iuran keanggotaan gym eksklusif tahunan (Equinox/Virgin Active) atau perpanjang langganan aplikasi fitness on-demand (Peloton Digital/Apple Fitness+/Les Mills On Demand) dengan personal trainer virtual #25ef13ad-3415-44a7-a14f-acffead0f21a,belanja
+686,Menyusun rencana proyek dan alokasi sumber daya. #30d15f08-93ae-4888-b4e9-e6e170d153cc,tugas
+687,"Pemikiran untuk memulai channel YouTube atau TikTok yang didedikasikan untuk 'experimental archaeology' atau merekonstruksi teknologi, alat, dan praktik kehidupan masyarakat prasejarah atau kuno berdasarkan temuan arkeologis #d8f39749-e389-4e8d-a85e-f2acf1ca8f44",ide
+688,"Beli set perlengkapan kaligrafi Arab (qalam, tinta likka, kertas ahar) atau Shodo Jepang (fude, sumi, hanshi, suzuri) dari pengrajin tradisional atau toko seni ternama di Kyoto/Istanbul #c83a3c48-177f-42dc-afe5-abf86fba576f",belanja
+689,Menjadwalkan wawancara dengan kandidat karyawan. #2fb76ecc-e6e5-41a4-8a62-ca6aa608f633,tugas
+690,"Melakukan perawatan rutin kendaraan (mobil/motor) seperti spooring-balancing, tune-up mesin, penggantian aki, dan pemeriksaan sistem pengereman #63789745-ceea-4a72-876d-5d42ad26758c",tugas
+691,"Daftar board game solo atau 'solitaire-friendly' yang menantang dan imersif: Mage Knight, Spirit Island, Arkham Horror: The Card Game, Gloomhaven: Jaws of the Lion #dfcf7c99-347d-4e8e-bb1c-fe15a686c360",lainnya
+692,Suhu ideal untuk menyeduh kopi specialty (manual brew V60): 90-96 derajat Celsius. Rasio kopi:air = 1:15 hingga 1:18. #fbd40a74-c913-4de4-aa52-e7b2cca809a6,lainnya
+693,Gagasan untuk membuat aplikasi panduan meditasi dan mindfulness. #cb9fc092-3e73-4341-a93c-cd08443f1d9a,ide
+694,Tugas Project Manager Konstruksi: Mengawasi progres pembangunan jembatan layang dan memastikan kualitas serta timeline sesuai kontrak #bcf636ce-4769-4fea-a8d4-0b499d39011f,tugas
+695,Mengatur perjalanan dinas dan akomodasi. #449c1e0c-5bc8-4a74-8793-fb10d5d9f54f,tugas
+696,"Membuat dan menganalisis laporan absensi, lembur, cuti, dan produktivitas karyawan untuk departemen HR dan manajer terkait #bee4b73c-65a8-4ff2-a313-bdda313cec4e",tugas
+697,"Ide untuk mengembangkan 'alternate reality game' (ARG) atau 'transmedia storytelling experience' yang kompleks dan imersif, melibatkan petunjuk tersembunyi di dunia nyata dan online, serta partisipasi aktif dari audiens untuk memecahkan misteri #e26202c5-74d4-4765-b519-c35430e356d3",ide
+698,Partisipasi dalam festival budaya internasional di kota. #a2679e6e-be59-4202-ba4a-513399209432,acara
+699,ISBN (International Standard Book Number) untuk buku [Judul Buku] edisi [Hardcover/Paperback]: 978-X-XXXX-XXXX-X #e0761dad-bb25-432a-952e-f1555ee77e58,lainnya
+700,Perlu portable SSD external dengan enkripsi hardware AES 256-bit (Samsung T7 Shield/SanDisk Professional G-DRIVE ArmorLock SSD) untuk keamanan data sensitif saat bepergian #6f78a800-3f9e-4a12-8fcb-65216315ac4f,belanja
+701,"Berpartisipasi dalam turnamen e-sports (Dota 2, CS:GO, Valorant) tingkat regional atau nasional secara online dengan tim #1d6d15e1-4176-4a15-ae15-a9393cfe049a",acara
+702,Informasi garansi produk elektronik yang baru dibeli. #5ff708f0-32b2-4447-bc0f-99944593b04d,lainnya
+703,Cari suku cadang mobil yang perlu diganti. #f189bfb3-be21-41a2-9c70-0b03857a0eaa,belanja
+704,Menghadiri konser amal untuk penggalangan dana. #f09d97cf-9d50-45f4-9f9d-a9bfed992bbb,acara
+705,Beli bahan-bahan untuk membuat kue Lebaran. #8c894b35-ad7e-4b2d-a214-844a65386963,belanja
+706,Menonton pemutaran film dokumenter lingkungan. #c69f2bde-2733-475a-b8d5-409c3bc72af2,acara
+707,Jadwal vaksinasi rutin anak selanjutnya. #a621982d-d539-4975-81b5-5b44b0a4543b,lainnya
+708,"Menulis atau memperbarui surat wasiat (testament) dan dokumen perencanaan waris (hibah, pembagian aset) dengan bantuan notaris dan konsultan hukum keluarga #51c076f3-b889-4f19-bdbb-fb65287d4370",tugas
+709,Beli pupuk dan media tanam untuk tanaman hias. #f4753f32-20dd-4e2a-86ce-da67c9311086,belanja
+710,Kutipan dari buku 'Meditations' Marcus Aurelius yang selalu menjadi jangkar: 'The happiness of your life depends upon the quality of your thoughts.' #14e0d657-1ae5-4f18-9bc1-d72e9604ae8b,lainnya
+711,Perayaan 'sweet seventeen' atau 'quinceañera' party untuk remaja putri dengan konsep 'Great Gatsby' atau 'Enchanted Forest' yang mewah dan berkesan #b68ab114-d37a-4472-87ce-6ef1baa139b7,acara
+712,"Diskusi bedah buku terbaru dari penulis pemenang penghargaan sastra internasional (misal: Booker Prize, Nobel Sastra) dan sesi tanya jawab interaktif dengan penerjemah atau kritikus sastra #e6ec1594-8e8f-4785-aeee-ca0790e8d260",acara
+713,"Ingatkan untuk mengirimkan ucapan belasungkawa yang tulus, karangan bunga, atau sumbangan (jika pantas) kepada teman, kolega, atau keluarga yang sedang berduka karena kehilangan orang terkasih atau mengalami musibah #e26c5fd2-128f-4b06-844b-2dd8e052ef9d",pengingat
+714,"Mengelola dan memperbarui konten website perusahaan (artikel blog, halaman produk, berita perusahaan) melalui CMS (WordPress, Joomla) #1c048af4-6488-4deb-80e0-6eb0c4199971",tugas
+715,"Mengurus perpanjangan SIM A dan SIM C yang akan segera berakhir masa berlakunya, termasuk tes kesehatan dan psikologi jika diperlukan #680da8c8-24db-4b47-84e0-848c616c4301",tugas
+716,Jangan lupa untuk membuang sampah pada hari pengambilan. #a419b391-21e1-40ca-85fa-650076659cd8,pengingat
+717,"Beli telur ayam kampung probiotik omega-3, telur puyuh, dan susu pasteurisasi segar non-homogenized (fresh milk) atau susu UHT organik full cream dari peternakan lokal terpercaya #bbd5b7bb-94fc-4c63-b934-9f21af12c652",belanja
+718,Meninjau dan memperbarui kebijakan privasi data perusahaan. #2fa090fb-9ac5-45cf-8603-419f90782d04,tugas
+719,"Ingatkan untuk melakukan 'digital detox' total (no screen time, no social media, no news) selama minimal 2-3 jam setiap malam sebelum tidur untuk meningkatkan kualitas tidur dan mengurangi kecemasan #0a30fdc5-2d3d-4a51-9420-d6de8255fdfb",pengingat
+720,"Menyusun dan menjalankan rencana darurat keluarga (family emergency plan) untuk berbagai skenario bencana (gempa bumi, banjir, kebakaran) #0f657d03-c6f6-4b9e-ad06-8cb4d3ca2fe4",tugas
+721,Ide untuk platform crowdfunding khusus untuk proyek seni dan budaya. #920ede26-707f-4f09-b7f4-58949691b087,ide
+722,"Cari action camera 360 derajat (Insta360 X4/GoPro MAX) atau modular (DJI Action 2) untuk merekam video kreatif, vlog petualangan, dan konten VR yang imersif #e47b194a-20e7-4a7f-a4c5-476bac704ce7",belanja
+723,Mengikuti kelas yoga di studio dekat rumah. #8e1651cf-4bea-4a03-9cd1-a75d791ae707,acara
+724,"Set reminder untuk menjadwalkan quality time (misal: 'date night' mingguan, liburan singkat bulanan) bersama pasangan tanpa gangguan gadget atau urusan pekerjaan untuk menjaga keintiman dan keharmonisan hubungan #1379c646-32f2-4a02-ad0f-294f3baea835",pengingat
+725,"Kontak bengkel spesialis restorasi mobil antik [Merek/Tipe Mobil]: Pak [Nama Montir], [Alamat Bengkel], [Nomor Telepon] #ae77da94-8edf-40de-ae86-be2a53ec04a3",lainnya
+726,Kode voucher untuk layanan ojek online: [Kode Voucher Ojek] #4d433773-bf20-49d8-aa57-d252b27b6bd5,lainnya
+727,"Mempelajari skill baru yang relevan dengan karir atau hobi melalui platform online course (Coursera, edX, Udemy, LinkedIn Learning) seperti data science, AI ethics, atau advanced photography #918a4069-6647-49b6-94be-177fe8da9d91",tugas
+728,Nomor Mas Agus (tukang galon langganan & gas elpiji): 08xxxxxxxxxx (biasanya ada promo bundling) #d1d9e64d-9f1d-4546-b5df-414f93d1a7e4,lainnya
+729,Cari gitar akustik bekas dengan kualitas baik. #ae11a0ff-ac63-4b7d-8a28-980b3a51679d,belanja
+730,Membuat panduan pengguna (user manual) untuk produk baru. #f622c7b1-f1a3-4f57-aa19-079435b6899e,tugas
+731,"Berpartisipasi dalam sesi 'Ask Me Anything' (AMA) atau 'Office Hours' dengan tokoh publik, ilmuwan pemenang Nobel, CEO perusahaan teknologi, atau seniman legendaris di platform Reddit, Twitter Spaces, Clubhouse, atau Discord #0d9afdcd-bc3b-48ae-8874-729103372cc9",acara
+732,"Kemah bakti sosial, penyuluhan kesehatan reproduksi, dan pelatihan keterampilan hidup di desa terpencil atau komunitas adat terpencil oleh mahasiswa KKN, organisasi pemuda, atau LSM internasional #557c2beb-18dd-418d-8a68-93e54bae234d",acara
+733,"Set reminder untuk melakukan 'digital declutter' secara berkala (unsubscribe email tidak penting, unfollow akun media sosial negatif, hapus aplikasi tidak terpakai) untuk menjaga kesehatan mental digital #32121f67-2db6-4e11-bb4e-f66a4f5fa7c9",pengingat
+734,Berpartisipasi dalam diskusi buku bulanan di perpustakaan. #1b2ddcfc-ae4f-4889-b7ea-87edb737686c,acara
+735,"Gagasan untuk platform 'edutainment' (education + entertainment) interaktif untuk anak-anak yang mengajarkan STEM (Science, Technology, Engineering, Math) melalui cerita, game, dan eksperimen virtual yang menarik #bc1030d5-3866-4c00-91b3-5b6e27c42378",ide
+736,"Konsep untuk program 'green jobs training' atau 'upskilling for sustainable economy' yang mempersiapkan tenaga kerja untuk pekerjaan di sektor energi terbarukan, efisiensi energi, pertanian organik, atau industri daur ulang #29981236-0607-4007-8829-799aceab1200",ide
+737,"Menghadiri konferensi ilmiah virtual internasional (misal: NeurIPS, ICML, CHI) dengan presentasi paper digital, sesi poster interaktif, workshop, tutorial, dan virtual networking lounge antar peneliti dan akademisi #491c5707-3242-484e-87ea-0616447562e9",acara
+738,"Daftar channel YouTube edukatif/ilmiah favorit (lanjutan): SmarterEveryDay, Mark Rober, MinutePhysics, Numberphile, PBS Eons, SciShow, Tom Scott #80803b73-2ed4-424f-a3bf-0ae5f11e0977",lainnya
+739,Menyusun dan mengimplementasikan proposal Business Process Re-engineering (BPR) atau Business Process Improvement (BPI) untuk meningkatkan efisiensi operasional dan customer experience #e7159a43-0c16-4acb-8ca8-c6ff38eef818,tugas
+740,Pengingat untuk mengisi formulir pendaftaran ulang. #29a66fba-1ab0-4c8e-aa19-65aaedfac916,pengingat
+741,Pemikiran tentang pembentukan 'venture philanthropy fund' atau 'impact investment cooperative' yang berfokus pada pendanaan dan pendampingan usaha sosial (social enterprises) yang memiliki model bisnis berkelanjutan dan dampak sosial/lingkungan yang signifikan #f905a257-75dc-4328-8076-4910b727bf5d,ide
+742,Merancang arsitektur sistem microservices yang highly scalable dan resilient untuk aplikasi e-commerce dengan target 5 juta MAU dan transaksi peak time 1000 TPS #7ed51509-c645-42c6-a15b-7702a773ccf6,tugas
+743,"Menyiapkan proposal teknis, komersial, dan legal yang komprehensif untuk tender pengadaan sistem IT dari kementerian/lembaga pemerintah #5b814596-3614-4fc5-af4c-b2c20703a956",tugas
+744,"Gagasan untuk teknologi 'neural text-to-speech' (TTS) dan 'speech-to-text' (STT) yang sangat natural dan dapat meniru suara manusia dengan berbagai aksen, emosi, dan gaya bicara untuk aplikasi asisten virtual, audiobook, atau dubbing film #5753032e-163a-4a60-8da5-1d5da4cc80ee",ide
+745,Tugas Jurnalis: Melakukan investigasi mendalam dan menulis laporan feature tentang dampak sosial proyek infrastruktur besar #1268f34e-c4f5-4a3d-bf8c-1e4dcc229c24,tugas
+746,Kode diskon untuk toko online favorit (jika ada). #635d0ccc-1b2c-4241-aff0-6e0db1a3532e,lainnya
+747,"Konsep untuk mengembangkan 'digital twin' dari ekosistem alam (misal: hutan hujan tropis, terumbu karang) untuk simulasi dampak perubahan iklim, polusi, atau aktivitas manusia, serta merancang strategi konservasi yang efektif #a539cff6-b736-4fd3-a365-c4a0cbbbb4b5",ide
+748,"Ide untuk mengembangkan sistem 'personalized education' adaptif berbasis AI yang tidak hanya menyesuaikan materi pelajaran dengan kecepatan dan gaya belajar siswa, tetapi juga merekomendasikan jalur karir atau pengembangan keterampilan yang sesuai dengan bakat dan minat mereka #63a39050-a657-46c1-b076-05c2333fd802",ide
+749,Menonton pertandingan sepak bola liga nasional. #b6b57809-fe98-4df0-8af5-97a7e0dc4959,acara
+750,Cari voucher diskon untuk makan di luar. #29d49728-5408-4de4-abf3-d68efbb9bb0e,belanja
+751,Setel alarm untuk bangun pagi dan berolahraga. #6b912c89-b170-4747-8023-0c732d1f931f,pengingat
+752,"Acara 'Clean Up Day' serentak di berbagai kota membersihkan sampah di pantai, sungai, atau area publik, dikoordinir oleh komunitas peduli lingkungan seperti World Cleanup Day Indonesia #1ed21d7e-9bee-41ad-b70e-2c79b84e2aee",acara
+753,"Beli kacamata hitam polarized dengan lensa photochromic dan proteksi UV400 dari brand optik premium (Maui Jim, Persol, Oliver Peoples) atau fashion house (Gucci, Prada, Saint Laurent) untuk aktivitas outdoor dan gaya maksimal #21e7a595-6a08-4692-bdcd-e1d655db5004",belanja
+754,"Set reminder untuk meneliti dan mengajukan aplikasi beasiswa (misal: LPDP Dalam Negeri/Luar Negeri, Chevening, Australia Awards Scholarship) sebelum batas waktu pendaftaran ditutup #fa5597e2-2ddd-4cab-9855-c406196cb1be",pengingat
+755,"Musyawarah Nasional (Munas), Kongres, atau Konferensi Tingkat Tinggi (KTT) organisasi profesi, asosiasi industri, atau organisasi internasional untuk pemilihan pimpinan baru, penetapan AD/ART, dan resolusi strategis #6f01610e-ca62-4272-9674-a5c17d74312c",acara
+756,Mengajukan proposal dana penelitian hibah kompetitif tingkat nasional (misal: dari BRIN/Kemdikbud) atau internasional (misal: dari Newton Fund/Fulbright) dengan metodologi yang solid dan justifikasi anggaran yang detail #d9fdc5f6-bdb1-4da8-9790-3de94b653f35,tugas
+757,Beli polis asuransi jiwa term life murni dengan uang pertanggungan besar atau asuransi kesehatan global dengan cakupan rawat inap dan rawat jalan di seluruh dunia (Cigna/Allianz Care/Bupa Global) #e0067a11-6968-43a2-94ce-08c63c737949,belanja
+758,Gagasan untuk seri podcast investigasi kasus-kasus misteri lokal. #d3dbd2a5-ae6a-4f68-a356-5b7c4cc19bd9,ide
+759,Tugas Guru: Membuat Rencana Pelaksanaan Pembelajaran (RPP) berdiferensiasi untuk mata pelajaran Matematika kelas X Kurikulum Merdeka #cc3aac9a-d20c-4c35-a848-ab6a6bae53d0,tugas
+760,Menyusun materi onboarding untuk karyawan baru. #c303f745-2278-4a9b-9663-e5cf32bd1757,tugas
+761,"Konsep untuk proyek 'citizen humanities' atau 'participatory action research' yang melibatkan komunitas lokal dalam meneliti, mendokumentasikan, dan melestarikan sejarah, budaya, atau kearifan lokal mereka sendiri #19b3932a-907c-4fe6-af61-5e381d208737",ide
+762,"Set reminder di smartwatch atau aplikasi kesehatan untuk berdiri, berjalan kaki singkat, dan melakukan peregangan ringan (leher, bahu, punggung, pergelangan tangan) setiap 30-60 menit sekali saat bekerja WFH atau duduk lama di depan komputer #4b37d116-74d4-4caa-82ac-2f6be6579ef6",pengingat
+763,"Ingatkan untuk jadwal konsultasi dengan dokter spesialis kulit dan kelamin (Sp.KK/Sp.DV) mengenai masalah kulit [spesifik] atau perawatan estetik di [Nama Klinik Dermatologi], [Tanggal, Jam] #0e633021-4564-40c9-b118-b0008a0a76df",pengingat
+764,"Bayar tagihan bulanan paket TV kabel premium (HBO Go, Netflix Premium 4K, Disney+ Hotstar, Amazon Prime Video, Apple TV+) dan internet fiber optik kecepatan 1 Gbps (IndiHome Gamer/First Media X1 Supreme) untuk hiburan keluarga maksimal #1b801f24-16fd-48e5-90f0-21debdcc2298",belanja
+765,Ide untuk menciptakan 'neural interface' atau 'brain-computer interface' (BCI) non-invasif generasi baru yang menggunakan EEG resolusi tinggi atau fNIRS dengan algoritma machine learning canggih untuk kontrol prostetik yang lebih intuitif atau komunikasi bagi penderita 'locked-in syndrome' #f2700157-2825-4255-8520-96c5ffb1682f,ide
+766,"Investasi pada e-reader premium terbaru seperti Kindle Scribe (dengan stylus untuk catatan) atau Kobo Elipsa 2E (layar besar untuk PDF dan komik) untuk membaca e-book, jurnal ilmiah, dan dokumen kerja lebih nyaman dan produktif #313b7498-86f4-4d5c-81af-e7d1e7ffc9cf",belanja
+767,Pesan layanan 'personal shopper' atau 'fashion stylist' untuk membantu memilih pakaian dan merombak lemari sesuai gaya pribadi dan tren terkini #6f2e746a-9069-4a0c-95f9-335b99dac8cf,belanja
+768,Berpartisipasi dalam lomba lari maraton tingkat kota. #21f705e2-1fa5-42f3-8ca2-44bc5f0c4dff,acara
+769,"Pengingat untuk mematikan semua peralatan listrik yang tidak terpakai (standby power), mencabut charger dari stopkontak, menutup keran air utama, dan mengunci semua pintu/jendela dengan baik sebelum meninggalkan rumah untuk liburan panjang atau bepergian lebih dari sehari #9f1cefe4-11b6-4e6f-b163-027412667724",pengingat
+770,"Menyusun draf surat resmi, memo internal, atau pengumuman perusahaan sesuai format dan tata bahasa yang baku #d24a380b-0bac-4f6e-80e4-aca0239b0b4a",tugas
+771,Gagasan untuk mengembangkan game mobile yang mengajarkan literasi keuangan. #6723d259-cadc-4f59-8516-7974cef80b95,ide
+772,Nomor reservasi tiket kereta api: KAI-BOOK-98765 #b4125fe9-755e-4dfe-b2b1-2fc41f8efcc7,lainnya
+773,Langganan akses premium ke publikasi berita dan analisis bisnis internasional (Financial Times Premium/Bloomberg All Access/The Wall Street Journal Digital Plus) atau jurnal ilmiah (Nature Portfolio/Science AAAS) #d7f69c88-1e01-484e-ab9e-08e1241aaaae,belanja
+774,Refleksi triwulanan atas pencapaian OKR pribadi dan profesional: Apa yang berjalan sesuai rencana? Apa yang meleset jauh? Pembelajaran kunci dan penyesuaian strategi untuk kuartal berikutnya. #71cabf28-f50a-45f5-ae53-3b5c00266ddc,lainnya
+775,"Tugas Desainer Grafis: Membuat desain branding lengkap (logo, palet warna, tipografi, brand guidelines) untuk startup baru #99e719b7-0621-4199-ac84-384da21d1da3",tugas
+776,Menerjemahkan dan melakukan review silang dokumen legal perjanjian kerjasama investasi internasional (Joint Venture Agreement) dari Bahasa Inggris ke Bahasa Indonesia (tersumpah) #fd30cd66-c313-4f59-8187-bd3408e1a7b6,tugas
+777,"Menyusun portofolio karya ilmiah, proyek akademis, publikasi, dan surat rekomendasi yang kuat untuk aplikasi beasiswa prestisius (misal: LPDP, Chevening, AAS, DAAD) atau posisi akademis #8cb375e5-34c2-4a50-ad2a-ee623acbc59a",tugas
+778,"Jangan lupa untuk mengkalibrasi ulang termometer digital, timbangan badan, atau alat ukur lainnya yang digunakan di rumah secara berkala jika memungkinkan #50c9d6db-2cd5-49a5-ac09-91e2666cc362",pengingat
+779,"Kutipan inspiratif hari ini: 'Sukses adalah perjalanan, bukan tujuan akhir.' #e1ad80a3-9422-47c4-87a0-3de321c7b575",lainnya
+780,Ide untuk channel YouTube yang membahas tips berkebun di lahan sempit. #c7f872df-000c-4866-940f-17c5582efea8,ide
+781,Pemikiran tentang 'quantum-resistant cryptography' (QRC) atau algoritma enkripsi pasca-kuantum untuk mengamankan data dan komunikasi di era komputasi kuantum yang mengancam sistem kriptografi saat ini #0739dfc8-ca61-4e7d-a97e-3b835e18efce,ide
+782,Mengawasi pelaksanaan proyek konstruksi dari awal hingga selesai. #b9423265-207a-4fe1-a67e-eed853b20110,tugas
+783,Konsep untuk festival film pendek independen tingkat nasional. #565c5f7d-acc0-4147-8381-869c9855e3e3,ide
+784,"Beli sistem home automation canggih (Control4/Crestron) atau komponen DIY (Raspberry Pi, Arduino, Home Assistant) untuk proyek smart home yang terintegrasi penuh #607e4ebc-fa08-441e-b43f-a7cc8798ca82",belanja
+785,Mengikuti acara peresmian fasilitas umum baru. #dcf601e0-3f44-4a19-8a32-27a496695b4e,acara
+786,"Gala dinner eksklusif dan malam apresiasi untuk klien-klien utama (key accounts), mitra bisnis strategis, dan high-net-worth individuals (HNWI) #b1448d1f-82fa-4b5c-8493-76055e761782",acara
+787,Ingatkan untuk mengunci pintu dan jendela sebelum meninggalkan rumah. #296f263d-51e3-44eb-b0cc-5d9a1872e780,pengingat
+788,"Konsep untuk program 'sustainable tourism certification' atau 'eco-label' bagi destinasi wisata dan pelaku usaha pariwisata yang berkomitmen pada pelestarian lingkungan, pemberdayaan masyarakat lokal, dan penghormatan terhadap budaya setempat #37a41636-743e-43ff-9bb4-42d72b7f8a1d",ide
+789,"Liburan 'staycation' mewah di resort bintang lima dalam kota dengan fasilitas private pool villa, fine dining, dan spa treatment saat akhir pekan panjang atau perayaan khusus #3b20b1f2-16e6-4060-b22a-4a2a6d2874a0",acara
+790,Menyusun laporan analisis risiko komprehensif dan strategi mitigasi untuk proyek investasi baru di sektor energi terbarukan skala nasional #87a10067-cf56-4457-ac3b-7ef77aa5fa90,tugas
+791,"Konsep untuk platform 'ethical data marketplace' yang memungkinkan individu atau organisasi memonetisasi data mereka secara transparan dan adil, dengan kontrol penuh atas penggunaan dan pembagian data tersebut #334af37b-dffb-457c-819a-c05d428b4353",ide
+792,Konsep untuk bisnis 'upcycling' furnitur lama menjadi barang baru yang unik. #fe0b91d3-ae90-4abe-afb3-049c429e81d6,ide
+793,Konsep untuk aplikasi pencari teman olahraga dengan minat yang sama. #54bee101-3e89-4442-baae-9e990d0b4705,ide
+794,"Simulasi tanggap darurat terintegrasi (kebakaran, gempa bumi, ancaman bom) dan evakuasi gedung bertingkat tinggi di seluruh lantai kantor pusat, melibatkan tim SAR internal dan eksternal #c20944ab-f4ee-47e2-9b48-217fa5ce5978",acara
+795,Merancang ulang brosur pemasaran perusahaan. #34281e00-1458-4fce-9f0c-6296be4f5a93,tugas
+796,"Nomor anggota Ikatan [Nama Profesi] Indonesia (I[NPI]): [Nomor Keanggotaan], berlaku hingga [Tanggal] #790c3ccd-c6fe-40e4-a966-4d19331a81bc",lainnya
+797,Nomor peserta BPJS Ketenagakerjaan (KPJ) dan Saldo JHT terakhir dicek tanggal [Tanggal] #556cb993-ff2c-46c7-9966-f032625414e7,lainnya
+798,"Merasa terjebak dalam 'analysis paralysis' untuk keputusan penting ini, perlu membuat matriks keputusan atau diskusi dengan mentor. #9b564038-982d-4e2a-bd32-ce79aa40927a",lainnya
+799,"Perlu kartu memori CFexpress Type B atau SDXC UHS-II V90 kapasitas minimal 512GB merek ProGrade Digital, Delkin Devices, atau Sony Tough Series untuk kamera mirrorless/cinema profesional yang merekam video 8K RAW #e4f00d90-2001-4608-bfea-aa044f736b1b",belanja
+800,Mengikuti festival musik jazz internasional tahunan. #ece2a453-8cb9-4613-bc90-9a3b979f1694,acara
+801,"Konsep untuk menyelenggarakan 'citizens' assembly' atau 'deliberative democracy forum' untuk membahas isu-isu publik yang kompleks dan kontroversial (misal: kebijakan energi, reformasi hukum, etika AI) dan menghasilkan rekomendasi kebijakan yang representatif dan berbasis konsensus #28928337-62d7-4149-b661-b2dc3ec48a2f",ide
+802,Menyusun anggaran tahunan untuk departemen. #df2128d1-c0fe-41f5-8c79-1a97cd3a9eee,tugas
+803,Tugas Pilot: Melakukan pre-flight check dan menerbangkan pesawat komersial rute domestik Jakarta-Medan sesuai SOP penerbangan #0eabaec4-38cf-4623-b424-d5799f323281,tugas
+804,Set reminder untuk jadwal rutin mencuci mobil. #30679f7e-3007-422b-a358-4a508d47382f,pengingat
+805,"Ide platform 'AI-driven precision oncology' yang menganalisis data genomik tumor, transkriptomik, proteomik, dan rekam medis pasien untuk merekomendasikan terapi kanker yang paling efektif dan personal bagi setiap individu (personalized cancer therapy) #cf633615-d17f-42be-945d-57f5636231df",ide
+806,Catatan singkat tentang pertemuan penting dengan klien kemarin. #f7ed6276-81f2-407c-b9fa-99dcd243792d,lainnya
+807,Pengingat untuk menelepon layanan pelanggan terkait masalah tagihan. #1da43b69-c342-49d1-a8c6-7e2d3d063b9a,pengingat
+808,"Konsep 'decentralized autonomous organization' (DAO) untuk investasi kolektif dalam aset digital langka (NFT seni, virtual real estate) atau proyek DeFi (Decentralized Finance) dengan tata kelola berbasis token voting #5afb23b9-6c5c-4a92-a2bf-4a1e9744e047",ide
+809,"Daftar buku-buku tentang 'systems thinking', 'complexity theory', atau 'chaos theory' (misal: karya Donella Meadows, Fritjof Capra, James Gleick) #6115977b-5d1b-44bd-bbb4-b9876562ea9c",lainnya
+810,"Pengingat untuk melakukan backup data penting dan sensitif dari semua perangkat (laptop, ponsel, tablet) ke hard disk eksternal terenkripsi dan dua layanan cloud storage berbeda (misal: Google Drive dan Backblaze B2) setiap Jumat malam #c5dd4429-f37a-451d-8b2d-51b9ba8d26f5",pengingat
+811,Rapat koordinasi tingkat menteri (Ratas/Rakornis) lintas kementerian/lembaga membahas progres implementasi Proyek Strategis Nasional (PSN) dan evaluasi dampaknya #bf7b2889-9b57-417d-8561-a7311f88e5d8,acara
+812,Mengembangkan strategi SEO untuk meningkatkan visibilitas online. #b63f4948-8e6b-4a19-81fb-40a2bdad1fec,tugas
+813,Berpartisipasi dalam turnamen catur antar klub. #bb29c3fc-438d-4bd7-9c9c-889db1e67023,acara
+814,"Nomor darurat dokter hewan spesialis reptil atau hewan eksotis (jika punya peliharaan khusus): Dr. [Nama Dokter Hewan], [Nomor Telepon Klinik] #b96fbc44-6747-49f5-89b2-7c984a88678a",lainnya
+815,"Serah terima jabatan (Sertijab) dan pisah sambut Direktur Utama, jajaran direksi, dan dewan komisaris baru perusahaan publik (Tbk) yang diliput media nasional #3efcefd0-9fdc-4cbd-a8c1-f1077e87c39e",acara
+816,Mengembangkan dan mengimplementasikan program loyalitas pelanggan. #ff4b6f95-bc5e-423a-8c55-a43849a40814,tugas
+817,Mengikuti job fair online atau pameran karir virtual global yang menghubungkan pencari kerja dengan ribuan perusahaan multinasional dari berbagai sektor industri dan negara #23345a82-f4e7-4543-9593-f2affb868602,acara
+818,Beli drone DJI Mini 4 Pro Fly More Combo atau Autel Evo Lite+ Premium Bundle untuk hobi aerial photography dan videography sinematik dengan kualitas profesional dan fitur keamanan canggih #ead28204-61ce-4de4-8a88-ea8e749b5fff,belanja
+819,Nomor rangka dan nomor mesin kendaraan bermotor. #6f550117-9c56-4f5e-b20d-3611f8ad17ec,lainnya
+820,"Melakukan riset mendalam, membandingkan produk investasi (reksa dana pasar uang/pendapatan tetap/saham, SBN Ritel, ETF, saham individu blue chip), dan melakukan diversifikasi portofolio investasi jangka panjang #96ab8c1a-4cfe-424c-8dad-5927d9b54f84",tugas
+821,Gagasan untuk teknologi 'closed-loop water recycling' atau 'atmospheric water harvesting' (AWG) skala komunitas untuk mengatasi krisis air bersih di daerah kering atau terpencil secara mandiri dan berkelanjutan #cbcad0cf-c356-4187-9b89-fd97ae1b9599,ide
+822,"Spesifikasi server: CPU Intel Xeon Gold 6248R, RAM 256GB ECC DDR4, Storage 4x 2TB NVMe SSD RAID 10, OS Ubuntu Server 22.04 LTS #f124ded1-d8e4-4529-ba2e-83d9fe29e721",lainnya
+823,Langganan layanan VPN premium (ExpressVPN/NordVPN/Surfshark) dengan server di banyak negara dan fitur keamanan canggih untuk privasi online dan akses konten global #556082f0-fde4-40a0-b5c4-5de4cd78997a,belanja
+824,Tugas Lawyer: Menyusun memori banding untuk klien dalam kasus sengketa tanah warisan di Pengadilan Tinggi #7db91f26-9b7e-4c9b-85cc-1fbea3e88a2b,tugas
+825,Gagasan untuk platform 'decentralized identity' (DID) berbasis blockchain atau teknologi 'self-sovereign identity' (SSI) yang memberikan individu kontrol penuh atas data pribadi mereka dan memungkinkan verifikasi identitas yang aman dan portabel tanpa perantara terpusat #ef5f6a46-07ee-44ae-bcfd-e2a1d40d10db,ide
+826,Menjadi asisten dosen atau asisten peneliti untuk mendapatkan pengalaman mengajar dan terlibat dalam proyek riset dosen senior #03a202e8-5498-4e85-b737-449f3a953c33,tugas
+827,Mengupdate dan memvalidasi data master pelanggan dan prospek di sistem CRM Salesforce/HubSpot/Zoho CRM secara akurat dan berkala #399cf032-58b3-4b13-8a6d-cd3355563a2e,tugas
+828,"Beli voucher atau gift card Google Play/App Store/Steam Wallet dalam denominasi besar untuk pembelian aplikasi, game, film, atau item in-app/in-game secara rutin #a03491dc-6db1-4901-895f-b57b053326f6",belanja
+829,"Jangan lupa memperbarui polis asuransi jiwa, kesehatan, kendaraan, dan properti, serta membayar premi tahunan/bulanan tepat waktu untuk menjaga keberlangsungan proteksi #e277d309-c2fa-4eb2-a3e7-c12c9c4496c2",pengingat
+830,"Cari dasi sutra tenun tangan (seven-fold tie), sapu tangan (pocket square) linen atau sutra dengan hand-rolled edges, dan cufflinks perak sterling atau emas dengan desain klasik atau custom untuk setelan jas bespoke formal #1c531f0f-71f4-4d86-b5b1-8d3e4ca5f2ae",belanja
+831,"Melakukan benchmark kompetitif secara komprehensif terhadap produk, layanan, model bisnis, dan teknologi pesaing di pasar global dan lokal #e5125162-b686-46e1-8e27-32f90768cec3",tugas
+832,Ingatkan untuk melakukan donasi bulanan ke organisasi amal. #f69aa1b0-236d-4e57-a322-87bcce73ae02,pengingat
+833,Festival layang-layang hias tradisional dan modern tingkat internasional di pantai Sanur atau Pangandaran yang diikuti oleh peserta dari puluhan negara dengan berbagai bentuk dan ukuran layangan unik #ea339edd-9e6c-4164-9ade-f9c4e8e5e300,acara
+834,Tugas Peneliti: Menganalisis data sekuensing genom untuk mengidentifikasi mutasi genetik terkait penyakit Alzheimer #86da2e04-d768-4f95-80d2-da2e24cf902b,tugas
+835,Nomor plat kendaraan pribadi dan tanggal jatuh tempo pajak. #2bc421e0-76e9-473d-ab4a-6dd1a4c3e33e,lainnya
+836,Nomor dan tanggal kadaluwarsa kartu garansi TV. #352cf3ec-7e76-4551-87a2-9a0b8f691251,lainnya
+837,Pesan makanan favorit dari restoran langganan via aplikasi. #cadfded7-89b8-4a27-811e-0f1c6103c782,belanja
+838,Menghadiri acara perayaan hari jadi komunitas. #54de2ada-ae66-4618-9eef-d52aeb26843f,acara
+839,Nomor seri sertifikat keahlian [Nama Sertifikasi]: CERT-XYZ-007-2025 #c659b5f4-c014-4e01-ad21-d04688a2d7a6,lainnya
+840,Pemikiran untuk menulis buku anak-anak tentang pentingnya menjaga lingkungan. #b088cfec-ceaa-464e-9875-ae9d30df2ce6,ide
+841,Beli set alat masak anti lengket baru. #b7254fdc-31ea-436a-ad11-9834b149c7ed,belanja
+842,Nomor PNR (Passenger Name Record) atau kode booking untuk penerbangan [Maskapai Aliansi] ke [Kota Hub Internasional] tanggal [Tanggal] via [Rute Transit]: XXXXXX / YYYYYY #3764ad5a-7e47-4cb7-a59f-ce75520a2153,lainnya
+843,"Konsep untuk sistem 'precision fermentation' atau 'cellular agriculture' untuk memproduksi protein alternatif (misal: daging sintetis, susu nabati, telur vegan) atau bahan baku industri (misal: bioplastik, biofuel) secara berkelanjutan dan efisien tanpa menggunakan hewan atau lahan pertanian luas #8062a559-eefc-4986-b05f-72dd95c2a80e",ide
+844,Nomor telepon layanan pelanggan bank: [Nomor Bank] #ece99bf9-4202-4feb-bc8e-a445f307baa0,lainnya
+845,Pengingat untuk melakukan fogging atau pemberantasan sarang nyamuk (PSN) di lingkungan rumah dan sekitarnya secara mandiri atau bersama warga menjelang musim pancaroba #e2fa94c2-d94a-4832-b877-5ca69533b967,pengingat
+846,"Beli perlengkapan scuba diving technical (twinset tanks, backplate and wing BCD, long hose regulator, dive computer multi-gas trimix) merek Halcyon/DIR Zone untuk penyelaman dekompresi dan gua #8dc0cfe3-b0df-4230-8e94-90a1cd7818db",belanja
+847,"Jangan lupa follow up dengan kontak baru yang didapatkan dari acara networking atau konferensi bisnis dalam waktu 24-48 jam melalui LinkedIn atau email, menyebutkan konteks pertemuan dan menawarkan potensi kolaborasi atau diskusi lanjutan #698d6c52-5ae8-4844-9c94-28ff73cddb75",pengingat
+848,"Beli drawing tablet profesional dengan layar (Wacom Cintiq Pro 27/XP-Pen Artist Pro 24) atau tablet grafis non-layar (Wacom Intuos Pro Large) untuk ilustrasi digital, animasi, dan desain grafis tingkat lanjut #fd05f7c4-5211-4273-b66d-67d923294d0b",belanja
+849,"Ingatkan untuk menyusun, merevisi, dan mengirimkan proposal penelitian tesis/disertasi lengkap (Bab 1-3, metodologi, tinjauan pustaka, kerangka teori) ke komite etik penelitian universitas untuk mendapatkan persetujuan (ethical clearance) #69e2452e-4cca-4363-b9fa-76b874295d7c",pengingat
+850,"Beli ikan salmon fillet Norwegia sashimi grade, udang pancet windu segar ukuran besar, cumi-cumi sotong Bangka, dan kerang hijau hidup dari pasar ikan modern higienis atau supplier seafood online terpercaya #80e92359-0710-4725-9a50-facbc005bfd3",belanja
+851,Ide untuk layanan perencanaan acara pernikahan yang ramah lingkungan. #ac4df67c-7cab-41e2-aaea-42064cefdc2a,ide
+852,"Pemikiran untuk melakukan 'career sabbatical' atau 'transformational gap year' di usia paruh baya untuk mengejar passion yang lama terpendam, menjadi sukarelawan di proyek kemanusiaan global, atau melakukan perjalanan spiritual mendalam ke tempat-tempat suci dunia #db1ceefd-78c2-48de-b863-55e36b6774fa",ide
+853,"Gagasan untuk membuat buku masak konseptual atau 'culinary art book' yang tidak hanya berisi resep, tetapi juga cerita, fotografi makanan artistik, dan eksplorasi filosofi di balik setiap hidangan #70c7687e-0ca8-4558-be40-b9e5995019a3",ide
+854,"Set reminder untuk melakukan sesi meditasi mindfulness, relaksasi pernapasan dalam (deep breathing exercises), atau yoga nidra selama 10-20 menit setiap hari (pagi atau malam) untuk menenangkan pikiran dan mengurangi stres #ca434235-d9e7-418a-b3f0-459936a988fa",pengingat
+855,Melakukan follow-up terhadap outstanding task atau pending matters dengan berbagai pihak terkait untuk memastikan penyelesaian #24fc8866-2f89-416e-adc6-e5784ac9a0dc,tugas
+856,"Beli mechanical keyboard custom ergonomis (split keyboard, Alice layout) dengan switch Holy Panda X atau Boba U4T, keycaps GMK/SA profile, dan firmware QMK/VIA untuk kenyamanan mengetik maksimal dan personalisasi tanpa batas #66d77a4c-7198-4bdb-9fdd-aa6f6d2b519d",belanja
+857,Beli perlengkapan olahraga baru untuk fitness di rumah. #a228ed61-178c-4804-9269-9d9a65179cef,belanja
+858,Partisipasi dalam diskusi panel tentang energi terbarukan. #ee59fe7c-1b9e-4718-a4f7-78054d2c4fa0,acara
+859,Memimpin tim cross-functional global dalam siklus hidup pengembangan dan peluncuran produk (NPD/NPI) dari tahap ideation hingga commercialization dan post-launch review #cc07f8d2-d4cc-4b82-92e5-4fa6c2c6e39c,tugas
+860,Pengingat untuk mempersiapkan bahan presentasi. #4b94103a-81d2-4fca-bf95-0e5132cdbbcb,pengingat
+861,"Set reminder untuk jadwal olahraga rutin yang bervariasi (kombinasi kardio, kekuatan, fleksibilitas) minimal 3-5 kali seminggu selama 30-60 menit per sesi (misal: Senin: HIIT, Selasa: Yoga, Rabu: Lari, Kamis: Istirahat, Jumat: Angkat Beban, Sabtu: Berenang, Minggu: Jalan santai) #e9e9cb06-b88d-46d7-a4b8-fe124ee36e4b",pengingat
+862,Tugas Psikolog: Melakukan asesmen psikologis dan memberikan intervensi terapi kognitif perilaku (CBT) pada klien dengan gangguan kecemasan #f0ecb69f-287a-44ed-9964-f96da050fa7c,tugas
+863,Alamat website untuk cek informasi cuaca: https://weather.com/ #c4a9b9c3-0f13-44a8-9389-a0dc2a922de7,lainnya
+864,"Konsep untuk membuat 'zine' atau publikasi independen DIY (Do It Yourself) yang berisi kumpulan tulisan, ilustrasi, atau fotografi dari berbagai kontributor dengan tema spesifik yang unik atau 'niche' #3b7d3c69-5a59-4243-b463-132a2161a119",ide
+865,"Konsep untuk mendokumentasikan dan merevitalisasi bahasa daerah atau tradisi lisan yang terancam punah di Indonesia melalui proyek penelitian partisipatif, pembuatan kamus digital, rekaman audio/video, dan program pengajaran kepada generasi muda #b7354c78-79b7-4556-98c1-99ba4bdd1bf6",ide
+866,"Ide untuk mengembangkan 'bio-sensors' atau 'lab-on-a-chip' portable yang dapat mendeteksi patogen, kontaminan makanan, atau biomarker penyakit secara cepat, akurat, dan murah di lapangan atau di rumah #bc4daae1-b8c8-45e1-85cd-28544dc8795b",ide
+867,"Nomor registrasi paten untuk inovasi [Nama Inovasi]: IDPXXXXXXXXX (Indonesia), USXXXXXXXXX (Amerika Serikat) #9300d1af-ffd4-467e-a68e-3154d5ae883e",lainnya
+868,"Menghadiri 'virtual fashion show' dari desainer ternama selama pekan mode Paris, Milan, atau New York melalui platform streaming eksklusif #0878bf89-9509-4ff1-89d1-a9380e0f9cf0",acara
+869,"Beli polis asuransi perjalanan tahunan (annual travel insurance) dengan cakupan komprehensif (medis, pembatalan, kehilangan bagasi) untuk frequent traveler #b1d2d46d-e78a-4df3-910e-d46048a8de11",belanja
+870,Cari frame kacamata baru yang lebih stylish. #c370364d-9f4f-4e72-afc6-043b5149399d,belanja
+871,"Acara arisan keluarga besar bulanan atau tahunan yang diadakan secara bergiliran di rumah anggota keluarga, lengkap dengan aneka hidangan khas daerah dan acara tukar kado #70c5630b-ee5f-4749-a056-7b9826642e81",acara
+872,Judul film klasik yang ingin ditonton ulang. #e46ac18e-717f-470e-b757-e3dd54a99850,lainnya
+873,Ide untuk mengembangkan chatbot layanan pelanggan yang lebih cerdas. #d1b877e6-8d34-406c-a7a0-459a0c0ea741,ide
+874,"Melakukan analisis kelayakan bisnis (feasibility study) yang mendalam, termasuk aspek pasar, teknis, finansial, dan legal untuk ekspansi bisnis ke pasar Afrika #e770bad1-e49c-4b23-ac33-af7782a238f6",tugas
+875,"Ingatkan untuk memeriksa dan membersihkan filter atau saringan pada mesin cuci, mesin pencuci piring, vacuum cleaner, dan air purifier secara rutin sesuai petunjuk manual #01a49267-43d7-4652-b5eb-fb8ebe8359a0",pengingat
+876,Pemikiran tentang platform 'micro-insurance' atau 'community-based health financing' yang terjangkau dan mudah diakses bagi pekerja sektor informal atau masyarakat berpenghasilan rendah untuk melindungi mereka dari risiko finansial akibat sakit atau kecelakaan #ddb8e0d6-9a6f-4e0e-9a4b-127cff1920f4,ide
+877,Nomor lacak pengiriman barang dari marketplace. #75778c96-6e91-4031-afc4-11f4a99570eb,lainnya
+878,Set reminder untuk waktu refleksi diri atau journaling mingguan. #2ab2f88c-4ebb-4883-8f49-a57a72a8ae94,pengingat
+879,Jadwal rutin perawatan tanaman: Menyiram setiap 2 hari sekali. #1fcc9ad8-016d-4591-92d1-e0537a3f4b41,lainnya
+880,"Ide untuk memulai 'intentional community' atau 'eco-village' yang berfokus pada pertanian organik permakultur, kehidupan komunal berkelanjutan, pengambilan keputusan konsensus, dan pendidikan alternatif bagi anak-anak #be7fd2ab-e4b3-4ef3-a445-be8247cd47b0",ide
+881,"Informasi mengenai implan medis (jika ada, misal: alat pacu jantung, implan koklea, pen sendi) termasuk merek, model, dan kartu identitas implan #b558c89a-8b73-4c57-bcf5-925780800de8",lainnya
+882,Pengingat untuk submit laporan SPT Tahunan PPh Orang Pribadi (Formulir 1770/1770S/1770SS) melalui e-filing DJP Online sebelum batas waktu 31 Maret setiap tahun #9bd50fac-1eba-4fd4-b87c-baed119e03c6,pengingat
+883,"Set reminder untuk membatasi konsumsi gula tambahan (maksimal 25 gram/hari), garam (maksimal 1 sendok teh/hari), makanan olahan ultra-proses (UPF), dan lemak trans secara sadar dan konsisten #562e94fb-63ab-4469-b308-7f77c6f98a9f",pengingat
+884,Mengikuti acara bedah buku dan diskusi sastra. #5b664a09-e22d-45b7-8576-4b0550f4af3b,acara
+885,Mengelola anggaran pemasaran dan memastikan ROI yang optimal. #0cb337c9-4a06-4518-a7e5-964c07cc2015,tugas
+886,Melakukan analisis tren pasar untuk pengembangan produk masa depan. #2bee8dd8-ceb4-49d2-ad1f-d3d4beebcb00,tugas
+887,Melakukan quality assurance (QA) pada rilis software terbaru. #862f1f88-b425-4869-a61d-cf53300dd4eb,tugas
+888,Cari papan catur kayu eboni atau rosewood dengan buah catur Staunton turnamen berukir tangan dari House of Staunton atau Noj Dubrovnik sebagai set koleksi mewah dan investasi #1555d697-7623-444a-85f4-9364ffe84b80,belanja
+889,"Ide untuk menyelenggarakan 'open mic night' atau 'poetry slam' secara rutin untuk memberikan panggung bagi penyair, komika, atau musisi lokal untuk menampilkan karya mereka di depan audiens yang apresiatif #d5a599bf-c685-46f8-9ab0-ad436b2b8033",ide
+890,Catatan singkat ide untuk proyek sampingan: 'Pengembangan aplikasi X'. #7d0591b7-9ab8-4477-9f0b-628f761d034a,lainnya
+891,Kode referral aplikasi investasi atau fintech [Nama Aplikasi]: AJAKTEMANMAJU123 (dapat bonus saham/cashback jika teman mendaftar dan investasi) #14700bd5-49df-4415-a8fd-40d54a64eab9,lainnya
+892,Gagasan untuk membuat platform e-learning bahasa daerah Indonesia. #7120322b-8fc6-4ce5-b7aa-18c2a70bfffc,ide
+893,Partisipasi dalam seminar 'Financial Planning for Millennials'. #e87107be-e4df-47c6-bce2-0a66a920b25c,acara
+894,Setel pengingat untuk jadwal les tambahan anak. #99320b88-f2a7-4367-b850-fcb96f716c56,pengingat
+895,Cari set cat minyak artisan handmade (Michael Harding/Old Holland) atau cat air profesional (Daniel Smith/Schmincke Horadam) dengan pigmen murni dan palet porselen besar serta kuas Kolinsky sable #2fb3d631-9c7d-44f0-bf0c-c4bd4005a931,belanja
+896,"Mengikuti kelas meditasi Vipassanā, yoga Ashtanga, atau Tai Chi online setiap pagi atau sore bersama instruktur yoga atau master spiritual ternama dari berbagai belahan dunia #a7222480-ff2b-403b-914a-5ccf011ab738",acara
+897,Berpartisipasi dalam workshop fotografi alam liar. #8db68b7a-2543-4255-ad88-1cbca279278d,acara
+898,"Pemikiran tentang inisiatif 'digital inclusion for a_blank_space' (misal: penyandang disabilitas, lansia, masyarakat adat) yang menyediakan akses internet terjangkau, perangkat keras adaptif, pelatihan literasi digital, dan konten lokal yang relevan #0a5bdde7-96ec-4e62-b74e-4e51b54a6492",ide
+899,Catatan ide untuk hadiah ulang tahun pasangan. #7696def8-a4f1-4864-ab79-a868ad9cb572,lainnya
+900,"Mengikuti prosesi pemakaman atau upacara kremasi anggota keluarga, kerabat, atau tokoh masyarakat yang meninggal dunia, serta menghadiri acara tahlilan atau doa bersama #69875aa1-b411-4e55-8109-bd6c6b160cdb",acara
+901,"Acara 'tedak siten', 'turun tanah', atau 'aqiqah' untuk bayi yang baru lahir atau mulai belajar berjalan, sebagai bagian dari tradisi dan syukuran keluarga #407c39cf-bddb-4fd6-84ca-b3fc75314bcf",acara
+902,"Mengikuti MOOC (Massive Open Online Course) bersertifikat dan program spesialisasi dari universitas ternama dunia (HarvardX, MITx, Stanford Online) di bidang Data Science, AI Ethics, atau Sustainable Development #59f83344-c644-457f-849f-f94be3b44c16",acara
+903,Upacara adat Sekaten atau Grebeg Maulud di Keraton Yogyakarta dan Surakarta untuk memperingati Maulid Nabi Muhammad SAW yang menarik ribuan wisatawan domestik dan mancanegara #258de6a7-7d18-4074-a16a-f6d9f425b135,acara
+904,"Menjadwalkan dan mengkoordinasikan meeting rutin tim, rapat lintas divisi, dan pertemuan dengan eksternal stakeholder, termasuk pengiriman undangan kalender dan materi rapat #584d01c1-668d-4eec-bbe6-96b01bb87585",tugas
+905,"Mengikuti workshop menulis kreatif online (novel fiksi ilmiah, skenario film independen, puisi kontemporer) selama beberapa minggu atau bulan bersama penulis bestseller atau dosen sastra dari universitas terkemuka #c36e69fe-f818-448f-9ab7-c84a7b0e8c5e",acara
+906,"Perlu parfum niche eksklusif dengan sillage dan longevity luar biasa dari rumah parfum independen (misal: Creed Aventus Cologne, Maison Francis Kurkdjian Baccarat Rouge 540, Le Labo Santal 33, Byredo Gypsy Water) atau koleksi privat desainer ternama #4ea92de5-d698-49d6-8ab9-1c0807a3172a",belanja
+907,Menyusun dan mempresentasikan rencana bisnis tahunan kepada dewan direksi. #a8b104a7-18c6-434e-8da7-c81fd140f5bc,tugas
+908,Menghadiri acara kumpul komunitas hobi fotografi. #4ae91858-725b-42eb-a8eb-27c42f1ee724,acara
+909,Mengkoordinasikan pelaksanaan survei kepuasan karyawan tahunan. #faabd651-d6b6-4dfc-981e-772312756578,tugas
+910,Acara 'bridal shower' atau 'bachelor/bachelorette party' yang seru dan tak terlupakan untuk calon pengantin bersama sahabat-sahabat terdekat di villa atau destinasi liburan singkat #1d636b9d-16e4-4183-ab6a-22b547d75809,acara
+911,"Mengkoordinasikan logistik dan vendor untuk acara internal perusahaan (misal: training, gathering, town hall meeting, perayaan hari besar) #a6162268-fae5-425a-97ae-5da40af23b7b",tugas
+912,Pengingat untuk mengirim laporan mingguan ke atasan. #a93181bd-7192-4c5f-835c-6080f48136c8,pengingat
+913,"Ukuran velg mobil: Ring 18 inch, PCD 5x114.3, Lebar 8.5 inch, Offset +35 mm. Ban: 235/50 R18 #abba8b9f-8de8-4caa-b7af-b660a5db54f5",lainnya
+914,Koleksi peta antik atau atlas dunia kuno dari abad ke-17 hingga ke-19 #c7fafcf0-79f7-48fe-a952-6cc1a4319464,lainnya
+915,"Partisipasi dalam 'virtual wine tasting' atau 'online cooking class' dengan kit bahan yang dikirim ke rumah, dipandu oleh sommelier atau chef profesional #0502f0a5-5617-40d4-bb98-ba7cb948ae26",acara
+916,"Gagasan untuk mengikuti program residensi seniman, penulis, atau peneliti di lokasi terpencil atau inspiratif (misal: kabin di hutan, pulau terisolasi, stasiun riset Antartika) untuk fokus pada penciptaan karya atau penemuan baru tanpa gangguan #02b03c46-fcea-461c-8d11-c9689a048adc",ide
+917,Ingatkan untuk memberikan feedback konstruktif (baik positif maupun korektif) secara berkala dan spesifik kepada anggota tim atau bawahan untuk membantu pengembangan profesional mereka #46fbef5e-b0d7-4a8a-aab1-700eaba90933,pengingat
+918,Beli perlengkapan sekolah untuk anak-anak. #f10a760b-0ce0-499e-8df9-5f6e9f67424a,belanja
+919,"Jadwal rilis update software versi 2.5.1: Beta Testing (Minggu 1-2), Staging (Minggu 3), Produksi (Minggu 4 Bulan Ini) #0e02fd46-1d37-4135-8a57-162429b7626c",lainnya
+920,Beli alat pancing (joran dan reel high-end JDM - Japanese Domestic Market) merek Shimano Stella SWC PG atau Daiwa Saltiga 20 LD untuk teknik jigging atau popping ikan GT dan tuna di spot laut dalam internasional #59f38f5c-c0fb-446c-9044-cdc4b6debd0f,belanja
+921,Jangan lupa untuk mengucapkan selamat ulang tahun kepada teman. #d67a040a-7a76-44b9-94e2-e3376bd3a953,pengingat
+922,Menganalisis feedback pelanggan dari survei terakhir. #a1543a9d-c478-4b6d-b05a-159bef2914e3,tugas
+923,Pesan langganan majalah atau koran digital. #13e771b6-7921-4569-9a1b-52973e5f6c1a,belanja
+924,ORCID iD (Open Researcher and Contributor ID): XXXX-XXXX-XXXX-XXXX #3adb487b-1bf2-458c-8395-64d0aeb48625,lainnya
+925,Merenungkan perbedaan antara 'being busy' dan 'being productive'. Banyak aktivitas belum tentu menghasilkan output yang bermakna. Perlu fokus pada 'deep work'. #cfdacad7-8fbe-4019-ac31-d0d24e278404,lainnya
+926,Catatan login untuk forum diskusi online (non-kritis). #9f42f04b-6b0d-4390-a2a9-96531e8a0a51,lainnya
+927,"Pengingat untuk memprioritaskan tidur yang cukup dan berkualitas tinggi (7-9 jam untuk orang dewasa) setiap malam dengan menjaga rutinitas tidur yang konsisten (sleep hygiene) dan lingkungan tidur yang optimal (gelap, sejuk, tenang) #57ebebf8-a181-4e3f-920b-70ca1fb8ec84",pengingat
+928,"Partisipasi sebagai exhibitor dan pembicara dalam Pameran Dagang Internasional (misal: Hannover Messe, CES Las Vegas, Mobile World Congress Barcelona) untuk industri teknologi dan manufaktur #54902a20-3bea-45e4-a573-b0f4bde8628d",acara
+929,Daftar tugas rumah tangga mingguan. #71ef4e4f-4daa-490c-8a88-dbbedab1caa5,lainnya
+930,Membuat strategi konten untuk blog perusahaan dan media sosial. #018aaf65-6c3c-43f4-aff2-e9a2bb2ba429,tugas
+931,"Membangun dan menjaga hubungan strategis yang baik dengan regulator pemerintah, asosiasi industri, dan komunitas profesional terkait #813f1c8f-1f9d-4857-9a53-1d3ba2a71abe",tugas
+932,"Nama latin untuk Kopi Arabika: *Coffea arabica*, Kopi Robusta: *Coffea canephora* #c0c34574-c2e5-42f9-913c-279b38e2acc8",lainnya
+933,"Investasi pada aset kripto blue chip (Bitcoin, Ethereum, Solana) dan staking/lending untuk passive income melalui platform exchange atau DeFi terdesentralisasi terpercaya (setelah melakukan riset Do Your Own Research/DYOR yang mendalam) #5f02d289-7107-43be-b9b1-22548194b5e3",belanja
+934,Jangan lupa untuk menukar poin reward kartu kredit sebelum hangus. #df0d708b-3e27-4e63-9248-e4b0902c1d17,pengingat
+935,Menghadiri seminar pengembangan profesional. #7066d49b-cf9b-4010-b774-4f47e2339663,tugas
+936,"Beli ragi instan Fermipan gold, baking powder double acting Hercules, SP/Ovalett, dan esens vanila bourbon Koepoe-Koepoe premium untuk proyek baking kue dan roti artisan akhir pekan #18077a5f-1fe8-4b02-8ea3-f7ac8854a123",belanja
+937,"Pengingat untuk jadwal potong rambut dan perawatan rambut (hair spa, creambath, coloring) di salon premium langganan [Nama Salon] dengan hairstylist favorit [Nama Hairstylist] setiap 1-2 bulan sekali #ef5e1198-8651-4bca-9c45-3b276b73d4fd",pengingat
+938,"Gagasan untuk sistem 'AI-powered early warning system' untuk pandemi atau wabah penyakit menular, yang menganalisis berbagai sumber data (berita global, media sosial, data penerbangan, laporan klinis) untuk mendeteksi ancaman potensial dan memprediksi penyebarannya #92c90e2f-3e27-43ce-8a50-efc114e47555",ide
+939,"Ide untuk aplikasi mobile 'gamified volunteering' yang menghubungkan sukarelawan dengan berbagai peluang kerja sosial jangka pendek atau mikro-volunteering, memberikan poin reward, lencana digital, dan membangun komunitas relawan yang aktif dan termotivasi #c4111379-70e5-4dfc-b7e7-32a8bf9aadbc",ide
+940,Stok popok bayi sekali pakai ukuran L/XL merek Merries Premium Pants atau Pampers Premium Care dan tisu basah antiseptik non-alkohol Mitu Baby Gentle Care untuk kebutuhan si kecil yang sensitif #6ddbc942-613a-4cca-ac6f-bd43e834bbba,belanja
+941,"Cari buah-buahan segar musiman eksotis (mangga alpukat, durian musang king, rambutan binjai, manggis kaligesing, salak pondoh) dan buah impor premium (anggur shine muscat, blueberry, raspberry, strawberry Korea) di supermarket atau toko buah segar #23461965-80f3-46e9-8088-035fd1fc4b72",belanja
+942,"Ingatkan untuk jadwal imunisasi PCV dan Rotavirus anak balita berikutnya di klinik spesialis anak Dr. [Nama Dokter Anak], Sp.A(K) pada [Tanggal, Jam] #9a65e1e2-c39a-4cdc-9b21-55f4e494dd6e",pengingat
+943,Ide untuk aplikasi augmented reality (AR) yang menampilkan informasi sejarah di lokasi wisata. #63dda50b-66d2-4690-9a02-e461117006f7,ide
+944,"Koleksi resep masakan fermentasi dari berbagai budaya (kimchi, sauerkraut, kombucha, kefir, tempeh, natto) dan peralatan fermentasinya #fe5bbd99-5434-428f-81f3-f2979177b101",lainnya
+945,"Menulis draf bab metodologi penelitian kuantitatif atau kualitatif (misal: studi kasus, etnografi, grounded theory) dengan instrumen penelitian (survei, pedoman wawancara) yang telah diuji validitas dan reliabilitasnya #eb90f3c8-e9e2-45d6-8756-58df7a99d944",tugas
+946,"Tugas Apoteker: Melakukan skrining resep, menyiapkan obat, dan memberikan konseling farmasi kepada pasien #12719def-dddf-4757-949c-0bda874ff952",tugas
+947,Konsep 'hyperlocal q-commerce' (quick commerce) yang menggunakan jaringan 'dark stores' mini dan armada kurir sepeda listrik untuk pengiriman kebutuhan pokok dan makanan siap saji dalam waktu <15 menit di area perkotaan padat #a9e12fd2-ae87-4e29-8d17-1c8e896f9503,ide
+948,"Konsep untuk membuat channel YouTube atau seri dokumenter yang mengeksplorasi 'subkultur' unik atau komunitas 'underground' di berbagai kota di Indonesia (misal: punk, skateboard, street art, cosplay) dengan pendekatan etnografis #6b481603-c74c-4988-bee5-1374d3805480",ide
+949,"Menyusun white paper, studi kasus, atau artikel ilmiah tentang keberhasilan implementasi proyek inovatif atau temuan riset perusahaan untuk publikasi eksternal #f7f1d289-181b-4941-b785-4d90020b697e",tugas
+950,Beli perlengkapan berkebun untuk taman di rumah. #fc449000-0d8f-44b3-babc-9f671c39ac32,belanja
+951,"Membalas dan mengelola ratusan email dari klien, vendor, dan internal stakeholder setiap hari menggunakan Outlook/Gmail dengan prioritas yang jelas #198883fc-f609-49dd-b02f-00f707de7b67",tugas
+952,"Hasil tes alergi terakhir (skin prick test atau IgE spesifik): alergi berat terhadap kacang tanah, seafood (udang, kepiting), tungau debu rumah. Selalu bawa EpiPen. #3bfbf4d2-0be9-419a-aa68-5558691bf697",lainnya
+953,"Menyusun rencana liburan keluarga besar ke luar negeri, termasuk riset destinasi, itinerary, akomodasi, transportasi, dan pengurusan visa jika diperlukan #bdb2d66c-b0f5-44fd-bafb-a575d388fdfd",tugas
+954,"Playlist musik ambient, IDM (Intelligent Dance Music), atau post-rock instrumental untuk deep focus work, coding, atau menulis kreatif (misal: Brian Eno, Aphex Twin, Boards of Canada, Godspeed You! Black Emperor) #fc243c90-4d2c-4851-8f2b-60276daee875",lainnya
+955,Ingatkan untuk mengatur ulang kata sandi akun online secara berkala. #55ad2ba1-83b0-4ae2-ae62-7887056bf58b,pengingat
+956,Link video tutorial memasak yang menarik: https://www.youtube.com/watch?v=BDliEq_0qeQ #657b13eb-8d9e-4191-a030-27e532e37d68,lainnya
+957,"Pengingat untuk jadwal sidang pengadilan kasus [Nomor Perkara] di Pengadilan Negeri [Nama Kota] sebagai saksi atau pihak terkait, [Hari, Tanggal, Jam] #73861581-3707-41c5-95d0-890e58e2851a",pengingat
+958,"Pengingat untuk melakukan pemeriksaan kesehatan mata secara komprehensif (termasuk tes tekanan bola mata dan pemeriksaan retina) setiap 1-2 tahun sekali, terutama jika sering menggunakan gadget atau memiliki riwayat keluarga masalah mata #60dc408f-172c-4230-870c-61da19c690c0",pengingat
+959,Ide untuk mengembangkan 'agritech solution' berupa drone penyemprot pestisida/pupuk presisi atau robot pemanen otomatis untuk meningkatkan efisiensi dan mengurangi biaya tenaga kerja di sektor pertanian modern #4120e8ea-4ff6-40ac-b672-b01c7dfe990e,ide
+960,Cari buku-buku antik edisi pertama atau manuskrip langka dari penulis favorit atau periode sejarah tertentu melalui balai lelang atau toko buku spesialis #43e7916e-ba23-450b-9cae-7b4949cc80c3,belanja
+961,"Beli berbagai macam bibit tanaman herbal organik (mint, rosemary, basil, thyme, oregano, sage, dill, chives) dan sayuran daun (kale, arugula, romaine lettuce) untuk kebun mini vertikal di balkon apartemen #dab0bc6e-c21f-46ac-8500-d3711b65c50d",belanja
+962,"Membuat dan mengupdate pohon keluarga digital yang komprehensif (hingga 5 generasi) menggunakan software silsilah keluarga seperti MyHeritage atau Ancestry.com, termasuk melampirkan foto dan dokumen sejarah #07774bf7-1437-499d-98ab-fd15d12c2566",tugas
+963,"Set reminder untuk menghadiri acara pembukaan pameran seni tunggal teman seniman di [Nama Galeri Seni], [Hari, Tanggal, Jam] #9fb3c3ed-fcd9-4459-bcd6-1e195992dd8e",pengingat
+964,Menghadiri perayaan ulang tahun kota. #9897c2a4-3e6b-464c-9e2e-d71fb8ed0ee6,acara
+965,"Mengelola investasi properti (jika ada), termasuk mencari penyewa, mengurus kontrak sewa, dan menangani perawatan atau perbaikan unit #bab0b74d-97f5-41e1-a922-197e8c59bff7",tugas
+966,Catatan resep minuman herbal favorit. #d72d77a0-1453-456e-8221-3e5a770da07c,lainnya
+967,"Memfasilitasi sesi retrospektif sprint mingguan dan bulanan dengan tim developer cross-functional menggunakan metode '4L' (Liked, Learned, Lacked, Longed For) #3dc951fb-c4d8-44e4-b94c-fb644f9a8e29",tugas
+968,Reminder untuk melakukan 'gratitude journaling' atau menuliskan minimal 3-5 hal spesifik yang disyukuri setiap malam sebelum tidur dalam buku catatan khusus atau aplikasi jurnal digital untuk meningkatkan mood positif dan perspektif hidup #43919f76-e5cf-456c-b021-a47e1b37eb4d,pengingat
+969,Menghadiri upacara peringatan hari besar nasional. #f6914089-0f0c-44f1-94cf-37f9c4349271,acara
+970,Pesan tiket masuk taman hiburan untuk liburan keluarga. #353512ca-f6f0-465e-859f-3851ac491582,belanja
+971,Jangan lupa untuk mengecek email penting sebelum tidur. #95283e17-04e6-4d4c-b315-91ca58e7a105,pengingat
+972,Beli suplemen kesehatan dan vitamin. #9944f2c5-8e54-4ed6-81d2-29b37e5a8d83,belanja
+973,"Melakukan analisis data statistik inferensial multivariat (MANOVA, analisis faktor, structural equation modeling) menggunakan software R, Python (statsmodels/SciPy), atau AMOS untuk disertasi doktoral #33e020f7-2ca2-415b-b34c-7b11cccda978",tugas
+974,"Konsep 'smart city OS' atau platform data terintegrasi untuk manajemen perkotaan yang lebih efisien (transportasi, energi, limbah, keamanan publik) berbasis IoT dan analisis big data #25f18260-cc5a-430b-a659-9189b8243a69",ide
+975,Ukuran pakaian dan sepatu untuk belanja online. #3d42e55b-f231-4050-bdac-33268055f6c4,lainnya
+976,"Jangan lupa membersihkan talang air, saluran pembuangan atap, dan selokan di sekitar rumah dari daun, sampah, atau lumut secara menyeluruh sebelum musim hujan tiba untuk mencegah kebocoran dan banjir #547ad433-aeea-4f2c-90fd-87141ac69fd8",pengingat
+977,"Ingatkan untuk menyelesaikan proses pendaftaran ulang (herregistrasi) kuliah semester depan, termasuk pembayaran UKT/SPP dan pengisian KRS online #2e62e254-d2c9-4729-85b4-bde2ad78ac0e",pengingat
+978,Jangan lupa untuk membersihkan dan merapikan meja kerja. #2dec621d-c2b1-4514-947d-d5d5e7868a23,pengingat
+979,Menghadiri prosesi pertunangan atau lamaran resmi dari pihak keluarga laki-laki kepada pihak keluarga perempuan dengan membawa seserahan adat dan dihadiri keluarga inti kedua belah pihak #a24a072c-265c-4310-8318-6262bf27302e,acara
+980,Focus Group Discussion (FGD) mendalam dan serial dengan berbagai segmen konsumen loyal (B2C) dan klien korporat (B2B) untuk menggali unmet needs dan co-create solusi produk baru #e776df58-42e8-4b54-80e2-84317565fea4,acara
+981,"Gagasan untuk layanan 'personalized nutrition & meal kit delivery' berbasis analisis DNA atau mikrobioma usus, yang menyediakan resep dan bahan makanan segar sesuai profil genetik dan kebutuhan kesehatan individu #87d34188-98aa-4278-87f6-a49e00132890",ide
+982,Melakukan evaluasi kinerja karyawan. #373651fa-0fe4-4758-b5ed-d2937df09cfc,tugas
+983,Email Pak RW (untuk pengurusan surat keterangan domisili atau pengantar): pak.rw.00X@lingkungansejahtera.org / Nomor WA grup warga: [Link Grup WA] #5e9b9841-b425-4abf-9b62-54117f3c4fbf,lainnya
+984,"Koleksi parfum dari rumah parfum independen atau 'niche perfumery' dengan notes yang unik dan kompleks (misal: oud, vetiver, ambergris, leather, incense) #9c6fb0ed-e2eb-4f76-9988-89c02d11e443",lainnya
+985,"Beli drone FPV (First Person View) custom built dengan frame carbon fiber, flight controller Betaflight, motor brushless high KV, ESC BLHeli_32, dan goggles digital DJI FPV Goggles V2 untuk freestyle atau balapan drone profesional #fd221afc-45bb-4222-b6ef-20c4071b4d0f",belanja
+986,Melakukan audit keamanan sistem informasi secara internal. #0ab457a9-ead0-4c74-9533-fe40a79701d9,tugas
+987,Mengembangkan strategi M&A (Mergers & Acquisitions) atau kemitraan strategis untuk akselerasi pertumbuhan perusahaan #e98d0fbd-e0a0-4514-bf37-83b5aa3ae7f2,tugas
+988,"Konsep 'direct-to-consumer' (D2C) brand untuk produk kebutuhan sehari-hari (misal: sikat gigi bambu, sabun alami, kopi spesialti) dengan model langganan dan kemasan ramah lingkungan #4ab07c79-b10b-4f1c-9b72-c988e4dc7542",ide
+989,"Cari perhiasan emas putih atau platinum dengan berlian GIA certified (cincin solitaire, kalung tennis, anting stud) atau batu permata langka (safir, rubi, zamrud) untuk hadiah spesial, koleksi investasi, atau perhiasan pernikahan #76550516-3499-48c8-8cf7-5cba8ddcb7e3",belanja
+990,"Nomor keanggotaan Frequent Flyer Program (misal: GarudaMiles Gold, KrisFlyer Elite Silver) dan maskapai aliansi (SkyTeam, Star Alliance, Oneworld) #b97c9961-a0aa-46e9-bf7d-e17a49d2b04b",lainnya
