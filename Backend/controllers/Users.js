@@ -1,7 +1,7 @@
 import Users from "../models/UserModels.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
-import { Activity } from "lucide-react";
+
 
 export const getUsers = async (req, res) => {
   try {
