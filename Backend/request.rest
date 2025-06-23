@@ -1,0 +1,75 @@
+# GET http://localhost:5000/users
+# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsIm5hbWUiOiJNdWhhbW1hZCBGYWhyaSBJbG1pIiwiZW1haWwiOiJmYWhyaWxtaTI1QGdtYWlsLmNvbSIsImlhdCI6MTc0OTcxMDk3MiwiZXhwIjoxNzQ5NzEwOTg3fQ.keFYgPmzCQM6VYdtmh2MvzUwYktf3gx4NrWB9FFpqLs
+
+POST http://localhost:5000/users
+Content-Type: application/json
+
+{
+  "name": "Muhammad Fahri Ilmi",
+  "email": "fahrilmi25@gmail.com",
+  "password": "123456",
+  "confPassword": "123456"
+}
+
+###
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+  "email": "fahrilmi25@gmail.com",
+  "password": "123456"
+}
+
+###
+GET http://localhost:5000/token
+
+###
+DELETE http://localhost:5000/logout
+
+
+@useCookieJar
+
+### LOGIN
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+  "email": "fahrilmi25@gmail.com",
+  "password": "123456"
+}
+
+### Ambil profil user yang sedang login
+GET http://localhost:5000/profile
+
+### Update profil user yang sedang login
+# PUT http://localhost:5000/profile
+# Content-Type: application/json
+
+# {
+#   "firstName": "Muhammad",
+#   "lastName": "Ilmi",
+#   "phone": "081234567890",
+#   "address": "Jalan Raya No. 123",
+#   "gender": "Laki-laki"
+# }
+
+
+# ### Tambah catatan baru
+# POST http://localhost:5000/notes
+# Content-Type: application/json
+# Cookie: refreshToken= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE0LCJuYW1lIjoiZmFocmkgaWxtaSIsImVtYWlsIjoiZmFocmlsbWkyNUBnbWFpbC5jb20iLCJpYXQiOjE3NTAxMzUxODcsImV4cCI6MTc1MDEzNTIwN30.KR9w5UA4-QnxtGNl1zwlKJJBihTf8xStw7024exuwwE
+
+# {
+#   "title": "Contoh Judul",
+#   "content": "Ini isi catatannya."
+# }
+
+
+POST http://localhost:5001/predict
+Content-Type: application/json
+
+ {
+    "title": "Kebutuhan Bulanan",
+    "content": "Jangan lupa beli beras, minyak goreng, gula, dan teh."
+}
+
